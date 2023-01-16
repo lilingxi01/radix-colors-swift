@@ -11,3 +11,13 @@ node_modules/
 yarn-error.log
 
 dist/
+
+# XCode Package Ignores
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc

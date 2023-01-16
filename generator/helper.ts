@@ -1,5 +1,6 @@
 // This part of code is referencing from: https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift/
 export const helperExtensions = `
+#if canImport(UIKit)
 extension UIColor {
     convenience init(
         light lightModeColor: @escaping @autoclosure () -> UIColor,
@@ -29,4 +30,5 @@ extension Color {
         ))
     }
 }
+#endif
 `;

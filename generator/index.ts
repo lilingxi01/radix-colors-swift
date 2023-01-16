@@ -29,17 +29,19 @@ function colorStringToHSL(colorString: string): string {
   return `Color(hue: ${h}, saturation: ${s.toFixed(3)}, brightness: ${l.toFixed(3)})`;
 }
 
+const outputDir = 'Sources/RadixColors';
+const outputFile = 'Core.swift';
+
 function main() {
-  if (!fs.existsSync('dist')) {
-    fs.mkdirSync('dist');
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir);
   }
-  const logger = fs.createWriteStream('dist/radix.swift', {
+  const logger = fs.createWriteStream(outputDir + '/' + outputFile, {
     // do not keep old text.
     flags: 'w',
   });
   const radixEntries = Object.entries(radixColors);
-  logger.write('import SwiftUI\n');
-  logger.write(helperExtensions + '\n');
+  logger.write('import SwiftUI\n\n');
   logger.write('final class RadixColor {\n');
   for (const [name, colors] of radixEntries) {
     logger.write('    class ' + name + ' {\n');
@@ -49,6 +51,9 @@ function main() {
     logger.write('    }\n');
   }
   logger.write('}\n\n');
+
+  // Color extension (iOS).
+  logger.write('#if canImport(UIKit)\n');
   logger.write('extension Color {\n');
   const colorExtensionEntries = radixEntries.filter(([name]) => !name.endsWith('Dark') && !name.endsWith('DarkA'));
   for (const [name, colors] of colorExtensionEntries) {
@@ -70,6 +75,10 @@ function main() {
     }
   }
   logger.write('}\n');
+  logger.write('#endif\n');
+
+  logger.write(helperExtensions);
+
   logger.end();
   console.log('Done.');
 }
