@@ -1,13 +1,14 @@
 import * as radixColors from '@radix-ui/colors';
 import fs from 'fs';
 import { helperExtensions } from './helper';
+import { headerComment } from './header-comment';
 
 /**
  * This function takes a color string (the value of each Radix Color) and convert it to Swift Color.
  * @param colorString - The value of a Radix Color
  * @return - A script of Swift Color in Swift.
  */
-function colorStringToHSL(colorString: string): string {
+function parseColorString(colorString: string): string {
   // Remove prefix and suffix.
   let parsedString = colorString
     .replace('hsl(', '')
@@ -36,8 +37,8 @@ function colorStringToHSL(colorString: string): string {
   return `Color(hue: ${h}, saturation: ${s.toFixed(3)}, brightness: ${l.toFixed(3)})`;
 }
 
-const outputDir = 'Sources/RadixColors';
-const outputFile = 'Core.swift';
+const outputDir = 'output';
+const outputFile = 'RadixColors.swift';
 
 function main() {
   // Create the output directory if it does not exist.
@@ -54,6 +55,9 @@ function main() {
   // Get all entries from Radix Colors library.
   const radixEntries = Object.entries(radixColors);
 
+  // Write the header comment.
+  logger.write(headerComment + '\n');
+
   // Write the header of the file.
   logger.write('import SwiftUI\n\n');
 
@@ -62,7 +66,7 @@ function main() {
   for (const [name, colors] of radixEntries) {
     logger.write('    class ' + name + ' {\n');
     for (const [colorName, color] of Object.entries(colors)) {
-      logger.write('        static let ' + colorName + ': Color = ' + colorStringToHSL(color) + '\n');
+      logger.write('        static let ' + colorName + ': Color = ' + parseColorString(color) + '\n');
     }
     logger.write('    }\n');
   }

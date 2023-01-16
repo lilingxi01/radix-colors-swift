@@ -1,3 +1,12 @@
+//
+//  RadixColors.swift
+//  version: 1.0.0
+//  
+//  To update this file, visit: https://github.com/lilingxi01/radix-colors-swift
+//
+//  Created by Lingxi Li on 1/15/23.
+//
+
 import SwiftUI
 
 final class RadixColor {
