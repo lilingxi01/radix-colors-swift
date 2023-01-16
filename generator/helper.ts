@@ -1,6 +1,6 @@
 // This part of code is referencing from: https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift/
 export const helperExtensions = `
-// Algorithm coming from: https://en.wikipedia.org/wiki/HSL_and_HSV#HSL_to_HSV
+// Algorithm coming from: https://en.wikipedia.org/wiki/HSL_and_HSV#HSV_to_HSL
 extension Color {
     /**
      - Parameter h: Range from 0 to 360.
