@@ -1,5 +1,22 @@
 // This part of code is referencing from: https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift/
 export const helperExtensions = `
+// Algorithm coming from: https://en.wikipedia.org/wiki/HSL_and_HSV#HSL_to_HSV
+extension Color {
+    /**
+     - Parameter h: Range from 0 to 360.
+     - Parameter s: Range from 0 to 1.
+     - Parameter l: Range from 0 to 1.
+     - Parameter a: Range from 0 to 1.
+     */
+    init(h hue: Double, s saturation: Double, l lightness: Double, a opacity: Double = 1) {
+        let brightness = lightness + saturation * min(lightness, 1 - lightness)
+        let saturation = brightness == 0 ? 0 : 2 * (1 - lightness / brightness)
+
+        // Map to Color initializer.
+        self.init(hue: hue / 360, saturation: saturation, brightness: brightness, opacity: opacity)
+    }
+}
+
 #if canImport(UIKit)
 extension UIColor {
     convenience init(

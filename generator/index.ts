@@ -32,9 +32,9 @@ function parseColorString(colorString: string): string {
   const l = Number(parts[2]) / 100;
   if (parts.length === 4) {
     const a = Number(parts[3]);
-    return `Color(hue: ${h}, saturation: ${s.toFixed(3)}, brightness: ${l.toFixed(3)}, opacity: ${a.toFixed(3)})`;
+    return `Color(h: ${h}, s: ${s.toFixed(3)}, l: ${l.toFixed(3)}, a: ${a.toFixed(3)})`;
   }
-  return `Color(hue: ${h}, saturation: ${s.toFixed(3)}, brightness: ${l.toFixed(3)})`;
+  return `Color(h: ${h}, s: ${s.toFixed(3)}, l: ${l.toFixed(3)})`;
 }
 
 const outputDir = 'output';
