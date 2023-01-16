@@ -1,3 +1,4 @@
+// This part of code is referencing from: https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift/
 export const helperExtensions = `
 extension UIColor {
     convenience init(
