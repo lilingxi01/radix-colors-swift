@@ -62,10 +62,14 @@ function main() {
   logger.write('import SwiftUI\n\n');
 
   // Write the main class.
+  logger.write('/// [Radix Colors] A gorgeous, accessible color system.\n');
   logger.write('final class RadixColor {\n');
   for (const [name, colors] of radixEntries) {
+    const isDarkClass = name.endsWith('Dark') || name.endsWith('DarkA');
+    logger.write(`    /// [Radix Colors] Collection: ${name}\n`);
     logger.write('    class ' + name + ' {\n');
     for (const [colorName, color] of Object.entries(colors)) {
+      logger.write(`        /// [Radix Color] ${colorName}` + (isDarkClass ? ' (Dark)\n' : '\n'));
       logger.write('        static let ' + colorName + ': Color = ' + parseColorString(color) + '\n');
     }
     logger.write('    }\n');
@@ -79,14 +83,22 @@ function main() {
   for (const [name, colors] of colorExtensionEntries) {
     const isTransparent = name.endsWith('A');
     const themeName = name.replace('A', '');
+    const pascalCaseThemeName = themeName[0].toUpperCase() + themeName.slice(1);
     const lightThemeName = name;
     const darkThemeName = isTransparent ? themeName + 'DarkA' : themeName + 'Dark';
+    const colorNames = Object.keys(colors);
     // Extract the color name from the class name.
-    for (const colorName of Object.keys(colors)) {
+    for (const colorName of colorNames) {
+      // Add a comment for each color.
+      logger.write(`    /// [Radix Color] ${pascalCaseThemeName} - ${colorName} (dynamic color for iOS)\n`);
+      // Write the color variable.
       if (themeName === 'white' || themeName === 'black') {
         logger.write('    static let ' + colorName + ': Color = RadixColor.' + name + '.' + colorName + '\n');
       } else {
         logger.write('    static let ' + colorName + ': Color = Color(light: RadixColor.' + lightThemeName + '.' + colorName + ', dark: RadixColor.' + darkThemeName + '.' + colorName + ')\n');
+      }
+      if (colorName !== colorNames[colorNames.length - 1]) {
+        logger.write('\n');
       }
     }
     // Only create line break if there are more colors.
