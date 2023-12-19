@@ -1,6 +1,6 @@
 //
 //  RadixColors.swift
-//  version: 1.2.0
+//  version: 2.0.0
 //  
 //  To update this file, visit: https://github.com/lilingxi01/radix-colors-swift
 //
@@ -18,25 +18,25 @@ final class RadixColor {
         /// [Radix Color] amber2
         static let amber2: Color = Color(h: 40, s: 1.000, l: 0.965)
         /// [Radix Color] amber3
-        static let amber3: Color = Color(h: 44, s: 1.000, l: 0.917)
+        static let amber3: Color = Color(h: 45, s: 1.000, l: 0.908)
         /// [Radix Color] amber4
-        static let amber4: Color = Color(h: 43, s: 1.000, l: 0.868)
+        static let amber4: Color = Color(h: 44, s: 1.000, l: 0.858)
         /// [Radix Color] amber5
-        static let amber5: Color = Color(h: 42, s: 1.000, l: 0.818)
+        static let amber5: Color = Color(h: 40, s: 1.000, l: 0.815)
         /// [Radix Color] amber6
-        static let amber6: Color = Color(h: 38, s: 0.997, l: 0.763)
+        static let amber6: Color = Color(h: 39, s: 0.836, l: 0.754)
         /// [Radix Color] amber7
-        static let amber7: Color = Color(h: 36, s: 0.861, l: 0.671)
+        static let amber7: Color = Color(h: 37, s: 0.669, l: 0.682)
         /// [Radix Color] amber8
-        static let amber8: Color = Color(h: 35, s: 0.852, l: 0.551)
+        static let amber8: Color = Color(h: 35, s: 0.598, l: 0.600)
         /// [Radix Color] amber9
-        static let amber9: Color = Color(h: 39, s: 1.000, l: 0.570)
+        static let amber9: Color = Color(h: 42, s: 1.000, l: 0.620)
         /// [Radix Color] amber10
-        static let amber10: Color = Color(h: 35, s: 1.000, l: 0.555)
+        static let amber10: Color = Color(h: 42, s: 1.000, l: 0.550)
         /// [Radix Color] amber11
-        static let amber11: Color = Color(h: 30, s: 1.000, l: 0.340)
+        static let amber11: Color = Color(h: 25, s: 0.500, l: 0.380)
         /// [Radix Color] amber12
-        static let amber12: Color = Color(h: 20, s: 0.800, l: 0.170)
+        static let amber12: Color = Color(h: 25, s: 0.400, l: 0.220)
     }
     /// [Radix Colors] Collection: amberA
     class amberA {
@@ -45,106 +45,106 @@ final class RadixColor {
         /// [Radix Color] amberA2
         static let amberA2: Color = Color(h: 40, s: 1.000, l: 0.503, a: 0.071)
         /// [Radix Color] amberA3
-        static let amberA3: Color = Color(h: 44, s: 1.000, l: 0.501, a: 0.165)
+        static let amberA3: Color = Color(h: 45, s: 1.000, l: 0.502, a: 0.185)
         /// [Radix Color] amberA4
-        static let amberA4: Color = Color(h: 43, s: 1.000, l: 0.500, a: 0.263)
+        static let amberA4: Color = Color(h: 44, s: 1.000, l: 0.501, a: 0.283)
         /// [Radix Color] amberA5
-        static let amberA5: Color = Color(h: 42, s: 1.000, l: 0.500, a: 0.365)
+        static let amberA5: Color = Color(h: 40, s: 1.000, l: 0.501, a: 0.369)
         /// [Radix Color] amberA6
-        static let amberA6: Color = Color(h: 38, s: 1.000, l: 0.501, a: 0.475)
+        static let amberA6: Color = Color(h: 39, s: 1.000, l: 0.457, a: 0.451)
         /// [Radix Color] amberA7
-        static let amberA7: Color = Color(h: 36, s: 0.999, l: 0.462, a: 0.612)
+        static let amberA7: Color = Color(h: 37, s: 0.997, l: 0.401, a: 0.530)
         /// [Radix Color] amberA8
-        static let amberA8: Color = Color(h: 35, s: 0.998, l: 0.460, a: 0.832)
+        static let amberA8: Color = Color(h: 35, s: 0.997, l: 0.375, a: 0.640)
         /// [Radix Color] amberA9
-        static let amberA9: Color = Color(h: 39, s: 1.000, l: 0.500, a: 0.859)
+        static let amberA9: Color = Color(h: 42, s: 1.000, l: 0.500, a: 0.761)
         /// [Radix Color] amberA10
-        static let amberA10: Color = Color(h: 35, s: 1.000, l: 0.500, a: 0.891)
+        static let amberA10: Color = Color(h: 42, s: 1.000, l: 0.501, a: 0.899)
         /// [Radix Color] amberA11
-        static let amberA11: Color = Color(h: 29, s: 1.000, l: 0.336, a: 0.980)
+        static let amberA11: Color = Color(h: 25, s: 0.999, l: 0.235, a: 0.812)
         /// [Radix Color] amberA12
-        static let amberA12: Color = Color(h: 20, s: 0.998, l: 0.141, a: 0.965)
+        static let amberA12: Color = Color(h: 24, s: 0.996, l: 0.102, a: 0.867)
     }
     /// [Radix Colors] Collection: amberDark
     class amberDark {
         /// [Radix Color] amber1 (Dark)
         static let amber1: Color = Color(h: 36, s: 1.000, l: 0.061)
         /// [Radix Color] amber2 (Dark)
-        static let amber2: Color = Color(h: 35, s: 1.000, l: 0.076)
+        static let amber2: Color = Color(h: 36, s: 0.805, l: 0.080)
         /// [Radix Color] amber3 (Dark)
-        static let amber3: Color = Color(h: 32, s: 1.000, l: 0.102)
+        static let amber3: Color = Color(h: 35, s: 0.634, l: 0.114)
         /// [Radix Color] amber4 (Dark)
-        static let amber4: Color = Color(h: 32, s: 1.000, l: 0.124)
+        static let amber4: Color = Color(h: 34, s: 0.588, l: 0.141)
         /// [Radix Color] amber5 (Dark)
-        static let amber5: Color = Color(h: 33, s: 1.000, l: 0.146)
+        static let amber5: Color = Color(h: 34, s: 0.581, l: 0.167)
         /// [Radix Color] amber6 (Dark)
-        static let amber6: Color = Color(h: 35, s: 1.000, l: 0.171)
+        static let amber6: Color = Color(h: 35, s: 0.583, l: 0.205)
         /// [Radix Color] amber7 (Dark)
-        static let amber7: Color = Color(h: 35, s: 0.910, l: 0.216)
+        static let amber7: Color = Color(h: 35, s: 0.590, l: 0.274)
         /// [Radix Color] amber8 (Dark)
-        static let amber8: Color = Color(h: 36, s: 1.000, l: 0.255)
+        static let amber8: Color = Color(h: 36, s: 0.602, l: 0.414)
         /// [Radix Color] amber9 (Dark)
-        static let amber9: Color = Color(h: 39, s: 1.000, l: 0.570)
+        static let amber9: Color = Color(h: 42, s: 1.000, l: 0.620)
         /// [Radix Color] amber10 (Dark)
         static let amber10: Color = Color(h: 43, s: 1.000, l: 0.640)
         /// [Radix Color] amber11 (Dark)
-        static let amber11: Color = Color(h: 39, s: 0.900, l: 0.498)
+        static let amber11: Color = Color(h: 43, s: 1.000, l: 0.650)
         /// [Radix Color] amber12 (Dark)
-        static let amber12: Color = Color(h: 39, s: 0.970, l: 0.932)
+        static let amber12: Color = Color(h: 41, s: 1.000, l: 0.850)
     }
     /// [Radix Colors] Collection: amberDarkA
     class amberDarkA {
         /// [Radix Color] amberA1 (Dark)
-        static let amberA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let amberA1: Color = Color(h: 0, s: 1.000, l: 0.490, a: 0.031)
         /// [Radix Color] amberA2 (Dark)
-        static let amberA2: Color = Color(h: 31, s: 1.000, l: 0.497, a: 0.036)
+        static let amberA2: Color = Color(h: 6, s: 1.000, l: 0.494, a: 0.057)
         /// [Radix Color] amberA3 (Dark)
-        static let amberA3: Color = Color(h: 27, s: 1.000, l: 0.499, a: 0.094)
+        static let amberA3: Color = Color(h: 24, s: 1.000, l: 0.500, a: 0.104)
         /// [Radix Color] amberA4 (Dark)
-        static let amberA4: Color = Color(h: 29, s: 1.000, l: 0.500, a: 0.143)
+        static let amberA4: Color = Color(h: 30, s: 1.000, l: 0.500, a: 0.143)
         /// [Radix Color] amberA5 (Dark)
-        static let amberA5: Color = Color(h: 31, s: 1.000, l: 0.500, a: 0.192)
+        static let amberA5: Color = Color(h: 33, s: 1.000, l: 0.498, a: 0.187)
         /// [Radix Color] amberA6 (Dark)
-        static let amberA6: Color = Color(h: 35, s: 1.000, l: 0.500, a: 0.250)
+        static let amberA6: Color = Color(h: 34, s: 0.996, l: 0.531, a: 0.256)
         /// [Radix Color] amberA7 (Dark)
-        static let amberA7: Color = Color(h: 34, s: 0.996, l: 0.529, a: 0.331)
+        static let amberA7: Color = Color(h: 35, s: 0.998, l: 0.573, a: 0.377)
         /// [Radix Color] amberA8 (Dark)
-        static let amberA8: Color = Color(h: 36, s: 1.000, l: 0.500, a: 0.442)
+        static let amberA8: Color = Color(h: 36, s: 0.999, l: 0.603, a: 0.628)
         /// [Radix Color] amberA9 (Dark)
-        static let amberA9: Color = Color(h: 40, s: 1.000, l: 0.572, a: 0.980)
+        static let amberA9: Color = Color(h: 42, s: 1.000, l: 0.620, a: 1.000)
         /// [Radix Color] amberA10 (Dark)
-        static let amberA10: Color = Color(h: 44, s: 1.000, l: 0.642, a: 0.980)
+        static let amberA10: Color = Color(h: 43, s: 1.000, l: 0.639, a: 1.000)
         /// [Radix Color] amberA11 (Dark)
-        static let amberA11: Color = Color(h: 39, s: 0.999, l: 0.527, a: 0.938)
+        static let amberA11: Color = Color(h: 43, s: 1.000, l: 0.651, a: 1.000)
         /// [Radix Color] amberA12 (Dark)
-        static let amberA12: Color = Color(h: 45, s: 1.000, l: 0.942, a: 0.980)
+        static let amberA12: Color = Color(h: 41, s: 1.000, l: 0.851, a: 1.000)
     }
     /// [Radix Colors] Collection: blackA
     class blackA {
         /// [Radix Color] blackA1
         static let blackA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.012)
         /// [Radix Color] blackA2
-        static let blackA2: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.027)
+        static let blackA2: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.024)
         /// [Radix Color] blackA3
-        static let blackA3: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.047)
+        static let blackA3: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.055)
         /// [Radix Color] blackA4
-        static let blackA4: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.071)
+        static let blackA4: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.078)
         /// [Radix Color] blackA5
-        static let blackA5: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.090)
+        static let blackA5: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.106)
         /// [Radix Color] blackA6
-        static let blackA6: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.114)
+        static let blackA6: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.133)
         /// [Radix Color] blackA7
-        static let blackA7: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.141)
+        static let blackA7: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.169)
         /// [Radix Color] blackA8
-        static let blackA8: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.220)
+        static let blackA8: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.267)
         /// [Radix Color] blackA9
-        static let blackA9: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.439)
+        static let blackA9: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.447)
         /// [Radix Color] blackA10
-        static let blackA10: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.478)
+        static let blackA10: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.498)
         /// [Radix Color] blackA11
-        static let blackA11: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.565)
+        static let blackA11: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.608)
         /// [Radix Color] blackA12
-        static let blackA12: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.910)
+        static let blackA12: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.875)
     }
     /// [Radix Colors] Collection: blue
     class blue {
@@ -167,11 +167,11 @@ final class RadixColor {
         /// [Radix Color] blue9
         static let blue9: Color = Color(h: 206, s: 1.000, l: 0.500)
         /// [Radix Color] blue10
-        static let blue10: Color = Color(h: 208, s: 1.000, l: 0.473)
+        static let blue10: Color = Color(h: 208, s: 0.935, l: 0.474)
         /// [Radix Color] blue11
-        static let blue11: Color = Color(h: 211, s: 1.000, l: 0.432)
+        static let blue11: Color = Color(h: 211, s: 0.900, l: 0.420)
         /// [Radix Color] blue12
-        static let blue12: Color = Color(h: 211, s: 1.000, l: 0.150)
+        static let blue12: Color = Color(h: 216, s: 0.710, l: 0.230)
     }
     /// [Radix Colors] Collection: blueA
     class blueA {
@@ -184,7 +184,7 @@ final class RadixColor {
         /// [Radix Color] blueA4
         static let blueA4: Color = Color(h: 210, s: 1.000, l: 0.501, a: 0.118)
         /// [Radix Color] blueA5
-        static let blueA5: Color = Color(h: 208, s: 0.991, l: 0.471, a: 0.189)
+        static let blueA5: Color = Color(h: 209, s: 0.991, l: 0.492, a: 0.193)
         /// [Radix Color] blueA6
         static let blueA6: Color = Color(h: 209, s: 0.995, l: 0.453, a: 0.283)
         /// [Radix Color] blueA7
@@ -192,13 +192,13 @@ final class RadixColor {
         /// [Radix Color] blueA8
         static let blueA8: Color = Color(h: 206, s: 0.998, l: 0.451, a: 0.632)
         /// [Radix Color] blueA9
-        static let blueA9: Color = Color(h: 206, s: 1.000, l: 0.500, a: 0.980)
+        static let blueA9: Color = Color(h: 206, s: 1.000, l: 0.500, a: 1.000)
         /// [Radix Color] blueA10
-        static let blueA10: Color = Color(h: 208, s: 1.000, l: 0.472, a: 0.980)
+        static let blueA10: Color = Color(h: 208, s: 0.999, l: 0.458, a: 0.969)
         /// [Radix Color] blueA11
-        static let blueA11: Color = Color(h: 212, s: 1.000, l: 0.430, a: 0.980)
+        static let blueA11: Color = Color(h: 211, s: 1.000, l: 0.394, a: 0.957)
         /// [Radix Color] blueA12
-        static let blueA12: Color = Color(h: 213, s: 1.000, l: 0.144, a: 0.980)
+        static let blueA12: Color = Color(h: 216, s: 0.996, l: 0.175, a: 0.934)
     }
     /// [Radix Colors] Collection: blueDark
     class blueDark {
@@ -207,52 +207,52 @@ final class RadixColor {
         /// [Radix Color] blue2 (Dark)
         static let blue2: Color = Color(h: 216, s: 0.500, l: 0.118)
         /// [Radix Color] blue3 (Dark)
-        static let blue3: Color = Color(h: 214, s: 0.594, l: 0.153)
+        static let blue3: Color = Color(h: 214, s: 0.576, l: 0.156)
         /// [Radix Color] blue4 (Dark)
-        static let blue4: Color = Color(h: 214, s: 0.658, l: 0.179)
+        static let blue4: Color = Color(h: 214, s: 0.623, l: 0.184)
         /// [Radix Color] blue5 (Dark)
-        static let blue5: Color = Color(h: 213, s: 0.712, l: 0.202)
+        static let blue5: Color = Color(h: 213, s: 0.666, l: 0.211)
         /// [Radix Color] blue6 (Dark)
-        static let blue6: Color = Color(h: 212, s: 0.774, l: 0.231)
+        static let blue6: Color = Color(h: 212, s: 0.726, l: 0.252)
         /// [Radix Color] blue7 (Dark)
-        static let blue7: Color = Color(h: 211, s: 0.851, l: 0.274)
+        static let blue7: Color = Color(h: 211, s: 0.813, l: 0.324)
         /// [Radix Color] blue8 (Dark)
-        static let blue8: Color = Color(h: 211, s: 0.897, l: 0.341)
+        static let blue8: Color = Color(h: 211, s: 0.852, l: 0.478)
         /// [Radix Color] blue9 (Dark)
         static let blue9: Color = Color(h: 206, s: 1.000, l: 0.500)
         /// [Radix Color] blue10 (Dark)
-        static let blue10: Color = Color(h: 209, s: 1.000, l: 0.606)
+        static let blue10: Color = Color(h: 206, s: 1.000, l: 0.618)
         /// [Radix Color] blue11 (Dark)
-        static let blue11: Color = Color(h: 210, s: 1.000, l: 0.661)
+        static let blue11: Color = Color(h: 205, s: 1.000, l: 0.710)
         /// [Radix Color] blue12 (Dark)
-        static let blue12: Color = Color(h: 206, s: 0.980, l: 0.958)
+        static let blue12: Color = Color(h: 205, s: 1.000, l: 0.880)
     }
     /// [Radix Colors] Collection: blueDarkA
     class blueDarkA {
         /// [Radix Color] blueA1 (Dark)
-        static let blueA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let blueA1: Color = Color(h: 240, s: 1.000, l: 0.495, a: 0.035)
         /// [Radix Color] blueA2 (Dark)
-        static let blueA2: Color = Color(h: 221, s: 0.978, l: 0.524, a: 0.059)
+        static let blueA2: Color = Color(h: 227, s: 1.000, l: 0.500, a: 0.091)
         /// [Radix Color] blueA3 (Dark)
-        static let blueA3: Color = Color(h: 215, s: 0.993, l: 0.542, a: 0.135)
+        static let blueA3: Color = Color(h: 216, s: 1.000, l: 0.500, a: 0.169)
         /// [Radix Color] blueA4 (Dark)
-        static let blueA4: Color = Color(h: 215, s: 0.993, l: 0.538, a: 0.198)
+        static let blueA4: Color = Color(h: 214, s: 1.000, l: 0.498, a: 0.226)
         /// [Radix Color] blueA5 (Dark)
-        static let blueA5: Color = Color(h: 213, s: 0.994, l: 0.528, a: 0.252)
+        static let blueA5: Color = Color(h: 213, s: 0.998, l: 0.505, a: 0.286)
         /// [Radix Color] blueA6 (Dark)
-        static let blueA6: Color = Color(h: 212, s: 0.999, l: 0.517, a: 0.323)
+        static let blueA6: Color = Color(h: 212, s: 0.998, l: 0.515, a: 0.377)
         /// [Radix Color] blueA7 (Dark)
-        static let blueA7: Color = Color(h: 211, s: 1.000, l: 0.507, a: 0.435)
+        static let blueA7: Color = Color(h: 211, s: 0.998, l: 0.514, a: 0.546)
         /// [Radix Color] blueA8 (Dark)
-        static let blueA8: Color = Color(h: 211, s: 0.998, l: 0.509, a: 0.597)
+        static let blueA8: Color = Color(h: 211, s: 0.999, l: 0.533, a: 0.875)
         /// [Radix Color] blueA9 (Dark)
-        static let blueA9: Color = Color(h: 205, s: 1.000, l: 0.500, a: 0.980)
+        static let blueA9: Color = Color(h: 206, s: 1.000, l: 0.500, a: 1.000)
         /// [Radix Color] blueA10 (Dark)
-        static let blueA10: Color = Color(h: 208, s: 1.000, l: 0.607, a: 0.980)
+        static let blueA10: Color = Color(h: 206, s: 1.000, l: 0.618, a: 1.000)
         /// [Radix Color] blueA11 (Dark)
-        static let blueA11: Color = Color(h: 209, s: 1.000, l: 0.663, a: 0.980)
+        static let blueA11: Color = Color(h: 205, s: 1.000, l: 0.710, a: 1.000)
         /// [Radix Color] blueA12 (Dark)
-        static let blueA12: Color = Color(h: 196, s: 1.000, l: 0.968, a: 0.980)
+        static let blueA12: Color = Color(h: 206, s: 1.000, l: 0.880, a: 1.000)
     }
     /// [Radix Colors] Collection: bronze
     class bronze {
@@ -275,9 +275,9 @@ final class RadixColor {
         /// [Radix Color] bronze9
         static let bronze9: Color = Color(h: 17, s: 0.200, l: 0.540)
         /// [Radix Color] bronze10
-        static let bronze10: Color = Color(h: 17, s: 0.181, l: 0.501)
+        static let bronze10: Color = Color(h: 17, s: 0.179, l: 0.493)
         /// [Radix Color] bronze11
-        static let bronze11: Color = Color(h: 15, s: 0.200, l: 0.431)
+        static let bronze11: Color = Color(h: 15, s: 0.200, l: 0.410)
         /// [Radix Color] bronze12
         static let bronze12: Color = Color(h: 12, s: 0.220, l: 0.215)
     }
@@ -302,9 +302,9 @@ final class RadixColor {
         /// [Radix Color] bronzeA9
         static let bronzeA9: Color = Color(h: 18, s: 0.999, l: 0.167, a: 0.553)
         /// [Radix Color] bronzeA10
-        static let bronzeA10: Color = Color(h: 17, s: 0.992, l: 0.154, a: 0.589)
+        static let bronzeA10: Color = Color(h: 17, s: 0.990, l: 0.149, a: 0.597)
         /// [Radix Color] bronzeA11
-        static let bronzeA11: Color = Color(h: 15, s: 0.999, l: 0.132, a: 0.655)
+        static let bronzeA11: Color = Color(h: 15, s: 0.995, l: 0.120, a: 0.671)
         /// [Radix Color] bronzeA12
         static let bronzeA12: Color = Color(h: 12, s: 0.987, l: 0.057, a: 0.832)
     }
@@ -313,54 +313,54 @@ final class RadixColor {
         /// [Radix Color] bronze1 (Dark)
         static let bronze1: Color = Color(h: 17, s: 0.100, l: 0.088)
         /// [Radix Color] bronze2 (Dark)
-        static let bronze2: Color = Color(h: 15, s: 0.148, l: 0.106)
+        static let bronze2: Color = Color(h: 15, s: 0.077, l: 0.102)
         /// [Radix Color] bronze3 (Dark)
-        static let bronze3: Color = Color(h: 15, s: 0.163, l: 0.143)
+        static let bronze3: Color = Color(h: 15, s: 0.102, l: 0.139)
         /// [Radix Color] bronze4 (Dark)
-        static let bronze4: Color = Color(h: 16, s: 0.171, l: 0.172)
+        static let bronze4: Color = Color(h: 16, s: 0.115, l: 0.168)
         /// [Radix Color] bronze5 (Dark)
-        static let bronze5: Color = Color(h: 16, s: 0.176, l: 0.196)
+        static let bronze5: Color = Color(h: 16, s: 0.124, l: 0.197)
         /// [Radix Color] bronze6 (Dark)
-        static let bronze6: Color = Color(h: 16, s: 0.181, l: 0.229)
+        static let bronze6: Color = Color(h: 16, s: 0.134, l: 0.241)
         /// [Radix Color] bronze7 (Dark)
-        static let bronze7: Color = Color(h: 17, s: 0.188, l: 0.288)
+        static let bronze7: Color = Color(h: 17, s: 0.147, l: 0.319)
         /// [Radix Color] bronze8 (Dark)
-        static let bronze8: Color = Color(h: 17, s: 0.196, l: 0.380)
+        static let bronze8: Color = Color(h: 18, s: 0.160, l: 0.476)
         /// [Radix Color] bronze9 (Dark)
         static let bronze9: Color = Color(h: 17, s: 0.200, l: 0.540)
         /// [Radix Color] bronze10 (Dark)
-        static let bronze10: Color = Color(h: 18, s: 0.240, l: 0.590)
+        static let bronze10: Color = Color(h: 18, s: 0.236, l: 0.608)
         /// [Radix Color] bronze11 (Dark)
-        static let bronze11: Color = Color(h: 18, s: 0.350, l: 0.685)
+        static let bronze11: Color = Color(h: 18, s: 0.350, l: 0.740)
         /// [Radix Color] bronze12 (Dark)
-        static let bronze12: Color = Color(h: 18, s: 0.570, l: 0.941)
+        static let bronze12: Color = Color(h: 22, s: 0.350, l: 0.890)
     }
     /// [Radix Colors] Collection: bronzeDarkA
     class bronzeDarkA {
         /// [Radix Color] bronzeA1 (Dark)
-        static let bronzeA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let bronzeA1: Color = Color(h: 0, s: 1.000, l: 0.439, a: 0.005)
         /// [Radix Color] bronzeA2 (Dark)
-        static let bronzeA2: Color = Color(h: 20, s: 0.882, l: 0.742, a: 0.027)
+        static let bronzeA2: Color = Color(h: 15, s: 0.927, l: 0.530, a: 0.018)
         /// [Radix Color] bronzeA3 (Dark)
-        static let bronzeA3: Color = Color(h: 10, s: 0.994, l: 0.830, a: 0.074)
+        static let bronzeA3: Color = Color(h: 17, s: 0.996, l: 0.788, a: 0.065)
         /// [Radix Color] bronzeA4 (Dark)
-        static let bronzeA4: Color = Color(h: 18, s: 0.960, l: 0.811, a: 0.114)
+        static let bronzeA4: Color = Color(h: 18, s: 0.995, l: 0.811, a: 0.104)
         /// [Radix Color] bronzeA5 (Dark)
-        static let bronzeA5: Color = Color(h: 18, s: 0.994, l: 0.817, a: 0.148)
+        static let bronzeA5: Color = Color(h: 15, s: 0.982, l: 0.828, a: 0.139)
         /// [Radix Color] bronzeA6 (Dark)
-        static let bronzeA6: Color = Color(h: 15, s: 0.981, l: 0.824, a: 0.192)
+        static let bronzeA6: Color = Color(h: 18, s: 0.977, l: 0.829, a: 0.200)
         /// [Radix Color] bronzeA7 (Dark)
-        static let bronzeA7: Color = Color(h: 16, s: 0.992, l: 0.829, a: 0.270)
+        static let bronzeA7: Color = Color(h: 17, s: 0.994, l: 0.842, a: 0.299)
         /// [Radix Color] bronzeA8 (Dark)
-        static let bronzeA8: Color = Color(h: 18, s: 0.995, l: 0.826, a: 0.396)
+        static let bronzeA8: Color = Color(h: 18, s: 0.994, l: 0.848, a: 0.507)
         /// [Radix Color] bronzeA9 (Dark)
-        static let bronzeA9: Color = Color(h: 18, s: 0.993, l: 0.850, a: 0.592)
+        static let bronzeA9: Color = Color(h: 18, s: 0.991, l: 0.843, a: 0.594)
         /// [Radix Color] bronzeA10 (Dark)
-        static let bronzeA10: Color = Color(h: 18, s: 0.996, l: 0.852, a: 0.657)
+        static let bronzeA10: Color = Color(h: 19, s: 1.000, l: 0.860, a: 0.671)
         /// [Radix Color] bronzeA11 (Dark)
-        static let bronzeA11: Color = Color(h: 17, s: 0.999, l: 0.861, a: 0.774)
+        static let bronzeA11: Color = Color(h: 18, s: 0.999, l: 0.887, a: 0.814)
         /// [Radix Color] bronzeA12 (Dark)
-        static let bronzeA12: Color = Color(h: 20, s: 0.998, l: 0.964, a: 0.974)
+        static let bronzeA12: Color = Color(h: 21, s: 0.979, l: 0.957, a: 0.923)
     }
     /// [Radix Colors] Collection: brown
     class brown {
@@ -383,11 +383,11 @@ final class RadixColor {
         /// [Radix Color] brown9
         static let brown9: Color = Color(h: 28, s: 0.340, l: 0.510)
         /// [Radix Color] brown10
-        static let brown10: Color = Color(h: 27, s: 0.318, l: 0.476)
+        static let brown10: Color = Color(h: 26, s: 0.317, l: 0.469)
         /// [Radix Color] brown11
-        static let brown11: Color = Color(h: 25, s: 0.300, l: 0.410)
+        static let brown11: Color = Color(h: 25, s: 0.300, l: 0.390)
         /// [Radix Color] brown12
-        static let brown12: Color = Color(h: 20, s: 0.300, l: 0.190)
+        static let brown12: Color = Color(h: 20, s: 0.150, l: 0.210)
     }
     /// [Radix Colors] Collection: brownA
     class brownA {
@@ -410,65 +410,65 @@ final class RadixColor {
         /// [Radix Color] brownA9
         static let brownA9: Color = Color(h: 28, s: 0.999, l: 0.255, a: 0.655)
         /// [Radix Color] brownA10
-        static let brownA10: Color = Color(h: 27, s: 0.997, l: 0.224, a: 0.675)
+        static let brownA10: Color = Color(h: 26, s: 0.996, l: 0.220, a: 0.679)
         /// [Radix Color] brownA11
-        static let brownA11: Color = Color(h: 25, s: 0.998, l: 0.173, a: 0.714)
+        static let brownA11: Color = Color(h: 24, s: 0.996, l: 0.160, a: 0.726)
         /// [Radix Color] brownA12
-        static let brownA12: Color = Color(h: 21, s: 0.994, l: 0.066, a: 0.867)
+        static let brownA12: Color = Color(h: 19, s: 0.988, l: 0.039, a: 0.820)
     }
     /// [Radix Colors] Collection: brownDark
     class brownDark {
         /// [Radix Color] brown1 (Dark)
         static let brown1: Color = Color(h: 22, s: 0.150, l: 0.087)
         /// [Radix Color] brown2 (Dark)
-        static let brown2: Color = Color(h: 20, s: 0.283, l: 0.104)
+        static let brown2: Color = Color(h: 26, s: 0.132, l: 0.104)
         /// [Radix Color] brown3 (Dark)
-        static let brown3: Color = Color(h: 20, s: 0.280, l: 0.140)
+        static let brown3: Color = Color(h: 26, s: 0.174, l: 0.136)
         /// [Radix Color] brown4 (Dark)
-        static let brown4: Color = Color(h: 21, s: 0.284, l: 0.165)
+        static let brown4: Color = Color(h: 26, s: 0.196, l: 0.162)
         /// [Radix Color] brown5 (Dark)
-        static let brown5: Color = Color(h: 22, s: 0.287, l: 0.189)
+        static let brown5: Color = Color(h: 27, s: 0.213, l: 0.190)
         /// [Radix Color] brown6 (Dark)
-        static let brown6: Color = Color(h: 23, s: 0.290, l: 0.223)
+        static let brown6: Color = Color(h: 27, s: 0.232, l: 0.230)
         /// [Radix Color] brown7 (Dark)
-        static let brown7: Color = Color(h: 25, s: 0.295, l: 0.278)
+        static let brown7: Color = Color(h: 27, s: 0.254, l: 0.304)
         /// [Radix Color] brown8 (Dark)
-        static let brown8: Color = Color(h: 27, s: 0.301, l: 0.359)
+        static let brown8: Color = Color(h: 28, s: 0.278, l: 0.451)
         /// [Radix Color] brown9 (Dark)
         static let brown9: Color = Color(h: 28, s: 0.340, l: 0.510)
         /// [Radix Color] brown10 (Dark)
-        static let brown10: Color = Color(h: 28, s: 0.414, l: 0.558)
+        static let brown10: Color = Color(h: 28, s: 0.380, l: 0.583)
         /// [Radix Color] brown11 (Dark)
-        static let brown11: Color = Color(h: 28, s: 0.600, l: 0.645)
+        static let brown11: Color = Color(h: 28, s: 0.500, l: 0.720)
         /// [Radix Color] brown12 (Dark)
-        static let brown12: Color = Color(h: 30, s: 0.670, l: 0.940)
+        static let brown12: Color = Color(h: 35, s: 0.600, l: 0.870)
     }
     /// [Radix Colors] Collection: brownDarkA
     class brownDarkA {
         /// [Radix Color] brownA1 (Dark)
-        static let brownA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let brownA1: Color = Color(h: 0, s: 1.000, l: 0.483, a: 0.009)
         /// [Radix Color] brownA2 (Dark)
-        static let brownA2: Color = Color(h: 22, s: 0.996, l: 0.536, a: 0.035)
+        static let brownA2: Color = Color(h: 24, s: 1.000, l: 0.500, a: 0.026)
         /// [Radix Color] brownA3 (Dark)
-        static let brownA3: Color = Color(h: 18, s: 0.978, l: 0.690, a: 0.088)
+        static let brownA3: Color = Color(h: 25, s: 0.985, l: 0.677, a: 0.074)
         /// [Radix Color] brownA4 (Dark)
-        static let brownA4: Color = Color(h: 21, s: 0.982, l: 0.710, a: 0.123)
+        static let brownA4: Color = Color(h: 26, s: 0.978, l: 0.706, a: 0.109)
         /// [Radix Color] brownA5 (Dark)
-        static let brownA5: Color = Color(h: 25, s: 0.984, l: 0.721, a: 0.158)
+        static let brownA5: Color = Color(h: 26, s: 0.989, l: 0.726, a: 0.152)
         /// [Radix Color] brownA6 (Dark)
-        static let brownA6: Color = Color(h: 25, s: 0.987, l: 0.735, a: 0.206)
+        static let brownA6: Color = Color(h: 27, s: 0.996, l: 0.745, a: 0.208)
         /// [Radix Color] brownA7 (Dark)
-        static let brownA7: Color = Color(h: 25, s: 0.990, l: 0.746, a: 0.289)
+        static let brownA7: Color = Color(h: 28, s: 0.988, l: 0.756, a: 0.317)
         /// [Radix Color] brownA8 (Dark)
-        static let brownA8: Color = Color(h: 28, s: 0.992, l: 0.753, a: 0.407)
+        static let brownA8: Color = Color(h: 28, s: 0.996, l: 0.764, a: 0.533)
         /// [Radix Color] brownA9 (Dark)
-        static let brownA9: Color = Color(h: 28, s: 1.000, l: 0.748, a: 0.642)
+        static let brownA9: Color = Color(h: 28, s: 0.995, l: 0.741, a: 0.646)
         /// [Radix Color] brownA10 (Dark)
-        static let brownA10: Color = Color(h: 28, s: 0.999, l: 0.749, a: 0.712)
+        static let brownA10: Color = Color(h: 28, s: 0.996, l: 0.777, a: 0.715)
         /// [Radix Color] brownA11 (Dark)
-        static let brownA11: Color = Color(h: 28, s: 0.999, l: 0.749, a: 0.843)
+        static let brownA11: Color = Color(h: 28, s: 0.995, l: 0.834, a: 0.845)
         /// [Radix Color] brownA12 (Dark)
-        static let brownA12: Color = Color(h: 32, s: 0.982, l: 0.957, a: 0.979)
+        static let brownA12: Color = Color(h: 34, s: 0.997, l: 0.917, a: 0.944)
     }
     /// [Radix Colors] Collection: crimson
     class crimson {
@@ -491,11 +491,11 @@ final class RadixColor {
         /// [Radix Color] crimson9
         static let crimson9: Color = Color(h: 336, s: 0.800, l: 0.578)
         /// [Radix Color] crimson10
-        static let crimson10: Color = Color(h: 336, s: 0.737, l: 0.535)
+        static let crimson10: Color = Color(h: 336, s: 0.713, l: 0.528)
         /// [Radix Color] crimson11
-        static let crimson11: Color = Color(h: 336, s: 0.750, l: 0.472)
+        static let crimson11: Color = Color(h: 336, s: 0.750, l: 0.455)
         /// [Radix Color] crimson12
-        static let crimson12: Color = Color(h: 340, s: 0.650, l: 0.145)
+        static let crimson12: Color = Color(h: 332, s: 0.630, l: 0.235)
     }
     /// [Radix Colors] Collection: crimsonA
     class crimsonA {
@@ -518,65 +518,65 @@ final class RadixColor {
         /// [Radix Color] crimsonA9
         static let crimsonA9: Color = Color(h: 336, s: 0.999, l: 0.443, a: 0.761)
         /// [Radix Color] crimsonA10
-        static let crimsonA10: Color = Color(h: 336, s: 1.000, l: 0.425, a: 0.808)
+        static let crimsonA10: Color = Color(h: 336, s: 1.000, l: 0.415, a: 0.808)
         /// [Radix Color] crimsonA11
-        static let crimsonA11: Color = Color(h: 336, s: 0.998, l: 0.403, a: 0.883)
+        static let crimsonA11: Color = Color(h: 336, s: 0.998, l: 0.385, a: 0.887)
         /// [Radix Color] crimsonA12
-        static let crimsonA12: Color = Color(h: 340, s: 0.990, l: 0.100, a: 0.950)
+        static let crimsonA12: Color = Color(h: 332, s: 0.998, l: 0.163, a: 0.914)
     }
     /// [Radix Colors] Collection: crimsonDark
     class crimsonDark {
         /// [Radix Color] crimson1 (Dark)
         static let crimson1: Color = Color(h: 335, s: 0.200, l: 0.096)
         /// [Radix Color] crimson2 (Dark)
-        static let crimson2: Color = Color(h: 335, s: 0.322, l: 0.116)
+        static let crimson2: Color = Color(h: 336, s: 0.323, l: 0.122)
         /// [Radix Color] crimson3 (Dark)
-        static let crimson3: Color = Color(h: 335, s: 0.425, l: 0.165)
+        static let crimson3: Color = Color(h: 336, s: 0.402, l: 0.160)
         /// [Radix Color] crimson4 (Dark)
-        static let crimson4: Color = Color(h: 335, s: 0.472, l: 0.193)
+        static let crimson4: Color = Color(h: 336, s: 0.444, l: 0.185)
         /// [Radix Color] crimson5 (Dark)
-        static let crimson5: Color = Color(h: 335, s: 0.509, l: 0.218)
+        static let crimson5: Color = Color(h: 336, s: 0.484, l: 0.213)
         /// [Radix Color] crimson6 (Dark)
-        static let crimson6: Color = Color(h: 335, s: 0.557, l: 0.253)
+        static let crimson6: Color = Color(h: 336, s: 0.539, l: 0.255)
         /// [Radix Color] crimson7 (Dark)
-        static let crimson7: Color = Color(h: 336, s: 0.629, l: 0.308)
+        static let crimson7: Color = Color(h: 336, s: 0.627, l: 0.328)
         /// [Radix Color] crimson8 (Dark)
-        static let crimson8: Color = Color(h: 336, s: 0.749, l: 0.390)
+        static let crimson8: Color = Color(h: 336, s: 0.800, l: 0.451)
         /// [Radix Color] crimson9 (Dark)
         static let crimson9: Color = Color(h: 336, s: 0.800, l: 0.578)
         /// [Radix Color] crimson10 (Dark)
-        static let crimson10: Color = Color(h: 339, s: 0.841, l: 0.626)
+        static let crimson10: Color = Color(h: 339, s: 0.870, l: 0.672)
         /// [Radix Color] crimson11 (Dark)
-        static let crimson11: Color = Color(h: 341, s: 0.900, l: 0.673)
+        static let crimson11: Color = Color(h: 341, s: 1.000, l: 0.760)
         /// [Radix Color] crimson12 (Dark)
-        static let crimson12: Color = Color(h: 332, s: 0.870, l: 0.960)
+        static let crimson12: Color = Color(h: 330, s: 0.900, l: 0.910)
     }
     /// [Radix Colors] Collection: crimsonDarkA
     class crimsonDarkA {
         /// [Radix Color] crimsonA1 (Dark)
-        static let crimsonA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let crimsonA1: Color = Color(h: 354, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] crimsonA2 (Dark)
-        static let crimsonA2: Color = Color(h: 336, s: 0.968, l: 0.532, a: 0.045)
+        static let crimsonA2: Color = Color(h: 338, s: 1.000, l: 0.498, a: 0.074)
         /// [Radix Color] crimsonA3 (Dark)
-        static let crimsonA3: Color = Color(h: 335, s: 0.987, l: 0.593, a: 0.138)
+        static let crimsonA3: Color = Color(h: 335, s: 0.998, l: 0.547, a: 0.143)
         /// [Radix Color] crimsonA4 (Dark)
-        static let crimsonA4: Color = Color(h: 336, s: 0.991, l: 0.599, a: 0.191)
+        static let crimsonA4: Color = Color(h: 336, s: 0.994, l: 0.566, a: 0.191)
         /// [Radix Color] crimsonA5 (Dark)
-        static let crimsonA5: Color = Color(h: 335, s: 0.994, l: 0.594, a: 0.244)
+        static let crimsonA5: Color = Color(h: 336, s: 0.998, l: 0.578, a: 0.247)
         /// [Radix Color] crimsonA6 (Dark)
-        static let crimsonA6: Color = Color(h: 335, s: 0.994, l: 0.594, a: 0.315)
+        static let crimsonA6: Color = Color(h: 336, s: 0.993, l: 0.581, a: 0.330)
         /// [Radix Color] crimsonA7 (Dark)
-        static let crimsonA7: Color = Color(h: 336, s: 0.995, l: 0.578, a: 0.439)
+        static let crimsonA7: Color = Color(h: 336, s: 0.999, l: 0.575, a: 0.485)
         /// [Radix Color] crimsonA8 (Dark)
-        static let crimsonA8: Color = Color(h: 336, s: 0.999, l: 0.554, a: 0.642)
+        static let crimsonA8: Color = Color(h: 336, s: 0.998, l: 0.544, a: 0.793)
         /// [Radix Color] crimsonA9 (Dark)
-        static let crimsonA9: Color = Color(h: 336, s: 0.999, l: 0.628, a: 0.903)
+        static let crimsonA9: Color = Color(h: 336, s: 0.999, l: 0.627, a: 0.905)
         /// [Radix Color] crimsonA10 (Dark)
-        static let crimsonA10: Color = Color(h: 339, s: 0.999, l: 0.663, a: 0.934)
+        static let crimsonA10: Color = Color(h: 339, s: 0.998, l: 0.701, a: 0.953)
         /// [Radix Color] crimsonA11 (Dark)
-        static let crimsonA11: Color = Color(h: 341, s: 0.999, l: 0.695, a: 0.965)
+        static let crimsonA11: Color = Color(h: 341, s: 1.000, l: 0.761, a: 1.000)
         /// [Radix Color] crimsonA12 (Dark)
-        static let crimsonA12: Color = Color(h: 327, s: 1.000, l: 0.971, a: 0.980)
+        static let crimsonA12: Color = Color(h: 330, s: 0.993, l: 0.916, a: 0.992)
     }
     /// [Radix Colors] Collection: cyan
     class cyan {
@@ -603,7 +603,7 @@ final class RadixColor {
         /// [Radix Color] cyan11
         static let cyan11: Color = Color(h: 192, s: 0.850, l: 0.310)
         /// [Radix Color] cyan12
-        static let cyan12: Color = Color(h: 192, s: 0.880, l: 0.125)
+        static let cyan12: Color = Color(h: 192, s: 0.700, l: 0.165)
     }
     /// [Radix Colors] Collection: cyanA
     class cyanA {
@@ -624,67 +624,67 @@ final class RadixColor {
         /// [Radix Color] cyanA8
         static let cyanA8: Color = Color(h: 189, s: 0.999, l: 0.376, a: 0.761)
         /// [Radix Color] cyanA9
-        static let cyanA9: Color = Color(h: 190, s: 1.000, l: 0.378, a: 0.980)
+        static let cyanA9: Color = Color(h: 190, s: 0.998, l: 0.378, a: 0.981)
         /// [Radix Color] cyanA10
         static let cyanA10: Color = Color(h: 191, s: 0.999, l: 0.346, a: 0.969)
         /// [Radix Color] cyanA11
         static let cyanA11: Color = Color(h: 192, s: 1.000, l: 0.276, a: 0.953)
         /// [Radix Color] cyanA12
-        static let cyanA12: Color = Color(h: 192, s: 1.000, l: 0.110, a: 0.980)
+        static let cyanA12: Color = Color(h: 192, s: 0.992, l: 0.123, a: 0.950)
     }
     /// [Radix Colors] Collection: cyanDark
     class cyanDark {
         /// [Radix Color] cyan1 (Dark)
         static let cyan1: Color = Color(h: 192, s: 0.600, l: 0.072)
         /// [Radix Color] cyan2 (Dark)
-        static let cyan2: Color = Color(h: 192, s: 0.714, l: 0.082)
+        static let cyan2: Color = Color(h: 193, s: 0.511, l: 0.088)
         /// [Radix Color] cyan3 (Dark)
-        static let cyan3: Color = Color(h: 192, s: 0.759, l: 0.108)
+        static let cyan3: Color = Color(h: 193, s: 0.519, l: 0.119)
         /// [Radix Color] cyan4 (Dark)
-        static let cyan4: Color = Color(h: 192, s: 0.793, l: 0.128)
+        static let cyan4: Color = Color(h: 193, s: 0.526, l: 0.141)
         /// [Radix Color] cyan5 (Dark)
-        static let cyan5: Color = Color(h: 192, s: 0.825, l: 0.146)
+        static let cyan5: Color = Color(h: 193, s: 0.534, l: 0.165)
         /// [Radix Color] cyan6 (Dark)
-        static let cyan6: Color = Color(h: 192, s: 0.866, l: 0.169)
+        static let cyan6: Color = Color(h: 192, s: 0.546, l: 0.201)
         /// [Radix Color] cyan7 (Dark)
-        static let cyan7: Color = Color(h: 192, s: 0.926, l: 0.201)
+        static let cyan7: Color = Color(h: 192, s: 0.566, l: 0.265)
         /// [Radix Color] cyan8 (Dark)
-        static let cyan8: Color = Color(h: 192, s: 1.000, l: 0.245)
+        static let cyan8: Color = Color(h: 192, s: 0.598, l: 0.390)
         /// [Radix Color] cyan9 (Dark)
         static let cyan9: Color = Color(h: 190, s: 0.950, l: 0.390)
         /// [Radix Color] cyan10 (Dark)
-        static let cyan10: Color = Color(h: 188, s: 1.000, l: 0.400)
+        static let cyan10: Color = Color(h: 190, s: 0.840, l: 0.460)
         /// [Radix Color] cyan11 (Dark)
-        static let cyan11: Color = Color(h: 186, s: 1.000, l: 0.422)
+        static let cyan11: Color = Color(h: 190, s: 0.900, l: 0.540)
         /// [Radix Color] cyan12 (Dark)
-        static let cyan12: Color = Color(h: 185, s: 0.730, l: 0.932)
+        static let cyan12: Color = Color(h: 190, s: 0.800, l: 0.840)
     }
     /// [Radix Colors] Collection: cyanDarkA
     class cyanDarkA {
         /// [Radix Color] cyanA1 (Dark)
-        static let cyanA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let cyanA1: Color = Color(h: 223, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] cyanA2 (Dark)
-        static let cyanA2: Color = Color(h: 196, s: 1.000, l: 0.500, a: 0.031)
+        static let cyanA2: Color = Color(h: 207, s: 1.000, l: 0.493, a: 0.044)
         /// [Radix Color] cyanA3 (Dark)
-        static let cyanA3: Color = Color(h: 192, s: 0.980, l: 0.509, a: 0.085)
+        static let cyanA3: Color = Color(h: 197, s: 1.000, l: 0.496, a: 0.096)
         /// [Radix Color] cyanA4 (Dark)
-        static let cyanA4: Color = Color(h: 194, s: 0.996, l: 0.513, a: 0.133)
+        static let cyanA4: Color = Color(h: 194, s: 1.000, l: 0.497, a: 0.135)
         /// [Radix Color] cyanA5 (Dark)
-        static let cyanA5: Color = Color(h: 192, s: 0.995, l: 0.513, a: 0.173)
+        static let cyanA5: Color = Color(h: 193, s: 0.995, l: 0.502, a: 0.178)
         /// [Radix Color] cyanA6 (Dark)
-        static let cyanA6: Color = Color(h: 193, s: 0.997, l: 0.504, a: 0.226)
+        static let cyanA6: Color = Color(h: 192, s: 0.993, l: 0.537, a: 0.239)
         /// [Radix Color] cyanA7 (Dark)
-        static let cyanA7: Color = Color(h: 192, s: 1.000, l: 0.500, a: 0.310)
+        static let cyanA7: Color = Color(h: 192, s: 1.000, l: 0.575, a: 0.355)
         /// [Radix Color] cyanA8 (Dark)
-        static let cyanA8: Color = Color(h: 193, s: 1.000, l: 0.500, a: 0.425)
+        static let cyanA8: Color = Color(h: 192, s: 0.998, l: 0.600, a: 0.585)
         /// [Radix Color] cyanA9 (Dark)
-        static let cyanA9: Color = Color(h: 190, s: 0.998, l: 0.508, a: 0.731)
+        static let cyanA9: Color = Color(h: 190, s: 1.000, l: 0.500, a: 0.736)
         /// [Radix Color] cyanA10 (Dark)
-        static let cyanA10: Color = Color(h: 188, s: 1.000, l: 0.500, a: 0.775)
+        static let cyanA10: Color = Color(h: 190, s: 0.998, l: 0.535, a: 0.832)
         /// [Radix Color] cyanA11 (Dark)
-        static let cyanA11: Color = Color(h: 186, s: 1.000, l: 0.499, a: 0.824)
+        static let cyanA11: Color = Color(h: 190, s: 0.998, l: 0.563, a: 0.949)
         /// [Radix Color] cyanA12 (Dark)
-        static let cyanA12: Color = Color(h: 185, s: 0.998, l: 0.951, a: 0.978)
+        static let cyanA12: Color = Color(h: 190, s: 0.996, l: 0.867, a: 0.966)
     }
     /// [Radix Colors] Collection: gold
     class gold {
@@ -707,9 +707,9 @@ final class RadixColor {
         /// [Radix Color] gold9
         static let gold9: Color = Color(h: 36, s: 0.200, l: 0.495)
         /// [Radix Color] gold10
-        static let gold10: Color = Color(h: 36, s: 0.198, l: 0.457)
+        static let gold10: Color = Color(h: 36, s: 0.199, l: 0.449)
         /// [Radix Color] gold11
-        static let gold11: Color = Color(h: 36, s: 0.200, l: 0.390)
+        static let gold11: Color = Color(h: 36, s: 0.200, l: 0.370)
         /// [Radix Color] gold12
         static let gold12: Color = Color(h: 36, s: 0.160, l: 0.200)
     }
@@ -734,9 +734,9 @@ final class RadixColor {
         /// [Radix Color] goldA9
         static let goldA9: Color = Color(h: 36, s: 0.999, l: 0.162, a: 0.604)
         /// [Radix Color] goldA10
-        static let goldA10: Color = Color(h: 36, s: 0.992, l: 0.146, a: 0.636)
+        static let goldA10: Color = Color(h: 36, s: 0.991, l: 0.139, a: 0.640)
         /// [Radix Color] goldA11
-        static let goldA11: Color = Color(h: 35, s: 0.991, l: 0.112, a: 0.687)
+        static let goldA11: Color = Color(h: 36, s: 0.998, l: 0.106, a: 0.706)
         /// [Radix Color] goldA12
         static let goldA12: Color = Color(h: 38, s: 0.980, l: 0.038, a: 0.832)
     }
@@ -745,54 +745,54 @@ final class RadixColor {
         /// [Radix Color] gold1 (Dark)
         static let gold1: Color = Color(h: 44, s: 0.090, l: 0.083)
         /// [Radix Color] gold2 (Dark)
-        static let gold2: Color = Color(h: 43, s: 0.143, l: 0.096)
+        static let gold2: Color = Color(h: 45, s: 0.080, l: 0.098)
         /// [Radix Color] gold3 (Dark)
-        static let gold3: Color = Color(h: 42, s: 0.155, l: 0.130)
+        static let gold3: Color = Color(h: 44, s: 0.095, l: 0.130)
         /// [Radix Color] gold4 (Dark)
-        static let gold4: Color = Color(h: 41, s: 0.164, l: 0.156)
+        static let gold4: Color = Color(h: 43, s: 0.105, l: 0.156)
         /// [Radix Color] gold5 (Dark)
-        static let gold5: Color = Color(h: 41, s: 0.169, l: 0.178)
+        static let gold5: Color = Color(h: 42, s: 0.112, l: 0.185)
         /// [Radix Color] gold6 (Dark)
-        static let gold6: Color = Color(h: 40, s: 0.176, l: 0.208)
+        static let gold6: Color = Color(h: 41, s: 0.121, l: 0.226)
         /// [Radix Color] gold7 (Dark)
-        static let gold7: Color = Color(h: 38, s: 0.185, l: 0.264)
+        static let gold7: Color = Color(h: 39, s: 0.132, l: 0.298)
         /// [Radix Color] gold8 (Dark)
-        static let gold8: Color = Color(h: 36, s: 0.196, l: 0.351)
+        static let gold8: Color = Color(h: 35, s: 0.148, l: 0.451)
         /// [Radix Color] gold9 (Dark)
         static let gold9: Color = Color(h: 36, s: 0.200, l: 0.495)
         /// [Radix Color] gold10 (Dark)
-        static let gold10: Color = Color(h: 36, s: 0.223, l: 0.545)
+        static let gold10: Color = Color(h: 36, s: 0.219, l: 0.568)
         /// [Radix Color] gold11 (Dark)
-        static let gold11: Color = Color(h: 35, s: 0.300, l: 0.640)
+        static let gold11: Color = Color(h: 35, s: 0.300, l: 0.710)
         /// [Radix Color] gold12 (Dark)
-        static let gold12: Color = Color(h: 49, s: 0.520, l: 0.938)
+        static let gold12: Color = Color(h: 35, s: 0.250, l: 0.880)
     }
     /// [Radix Colors] Collection: goldDarkA
     class goldDarkA {
         /// [Radix Color] goldA1 (Dark)
-        static let goldA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let goldA1: Color = Color(h: 45, s: 0.992, l: 0.038, a: 0.209)
         /// [Radix Color] goldA2 (Dark)
-        static let goldA2: Color = Color(h: 40, s: 0.937, l: 0.706, a: 0.022)
+        static let goldA2: Color = Color(h: 42, s: 1.000, l: 0.500, a: 0.013)
         /// [Radix Color] goldA3 (Dark)
-        static let goldA3: Color = Color(h: 40, s: 0.975, l: 0.806, a: 0.065)
+        static let goldA3: Color = Color(h: 50, s: 0.996, l: 0.773, a: 0.052)
         /// [Radix Color] goldA4 (Dark)
-        static let goldA4: Color = Color(h: 40, s: 0.959, l: 0.808, a: 0.100)
+        static let goldA4: Color = Color(h: 45, s: 0.976, l: 0.815, a: 0.087)
         /// [Radix Color] goldA5 (Dark)
-        static let goldA5: Color = Color(h: 38, s: 0.973, l: 0.821, a: 0.130)
+        static let goldA5: Color = Color(h: 42, s: 0.965, l: 0.833, a: 0.122)
         /// [Radix Color] goldA6 (Dark)
-        static let goldA6: Color = Color(h: 39, s: 0.972, l: 0.825, a: 0.169)
+        static let goldA6: Color = Color(h: 39, s: 0.983, l: 0.843, a: 0.178)
         /// [Radix Color] goldA7 (Dark)
-        static let goldA7: Color = Color(h: 37, s: 0.993, l: 0.824, a: 0.246)
+        static let goldA7: Color = Color(h: 39, s: 0.986, l: 0.852, a: 0.269)
         /// [Radix Color] goldA8 (Dark)
-        static let goldA8: Color = Color(h: 35, s: 0.987, l: 0.822, a: 0.363)
+        static let goldA8: Color = Color(h: 35, s: 0.994, l: 0.857, a: 0.468)
         /// [Radix Color] goldA9 (Dark)
-        static let goldA9: Color = Color(h: 36, s: 0.997, l: 0.828, a: 0.552)
+        static let goldA9: Color = Color(h: 36, s: 0.998, l: 0.821, a: 0.550)
         /// [Radix Color] goldA10 (Dark)
-        static let goldA10: Color = Color(h: 35, s: 0.992, l: 0.837, a: 0.613)
+        static let goldA10: Color = Color(h: 36, s: 0.997, l: 0.850, a: 0.628)
         /// [Radix Color] goldA11 (Dark)
-        static let goldA11: Color = Color(h: 35, s: 0.993, l: 0.853, a: 0.725)
+        static let goldA11: Color = Color(h: 35, s: 0.999, l: 0.889, a: 0.775)
         /// [Radix Color] goldA12 (Dark)
-        static let goldA12: Color = Color(h: 49, s: 0.986, l: 0.967, a: 0.966)
+        static let goldA12: Color = Color(h: 36, s: 0.983, l: 0.967, a: 0.901)
     }
     /// [Radix Colors] Collection: grass
     class grass {
@@ -819,7 +819,7 @@ final class RadixColor {
         /// [Radix Color] grass11
         static let grass11: Color = Color(h: 133, s: 0.500, l: 0.325)
         /// [Radix Color] grass12
-        static let grass12: Color = Color(h: 130, s: 0.300, l: 0.149)
+        static let grass12: Color = Color(h: 131, s: 0.300, l: 0.180)
     }
     /// [Radix Colors] Collection: grassA
     class grassA {
@@ -846,169 +846,169 @@ final class RadixColor {
         /// [Radix Color] grassA11
         static let grassA11: Color = Color(h: 133, s: 0.995, l: 0.195, a: 0.840)
         /// [Radix Color] grassA12
-        static let grassA12: Color = Color(h: 128, s: 0.980, l: 0.049, a: 0.895)
+        static let grassA12: Color = Color(h: 131, s: 0.991, l: 0.063, a: 0.875)
     }
     /// [Radix Colors] Collection: grassDark
     class grassDark {
         /// [Radix Color] grass1 (Dark)
         static let grass1: Color = Color(h: 146, s: 0.300, l: 0.074)
         /// [Radix Color] grass2 (Dark)
-        static let grass2: Color = Color(h: 136, s: 0.333, l: 0.088)
+        static let grass2: Color = Color(h: 138, s: 0.208, l: 0.094)
         /// [Radix Color] grass3 (Dark)
-        static let grass3: Color = Color(h: 137, s: 0.360, l: 0.114)
+        static let grass3: Color = Color(h: 138, s: 0.258, l: 0.125)
         /// [Radix Color] grass4 (Dark)
-        static let grass4: Color = Color(h: 137, s: 0.376, l: 0.137)
+        static let grass4: Color = Color(h: 138, s: 0.284, l: 0.148)
         /// [Radix Color] grass5 (Dark)
-        static let grass5: Color = Color(h: 136, s: 0.387, l: 0.160)
+        static let grass5: Color = Color(h: 137, s: 0.303, l: 0.171)
         /// [Radix Color] grass6 (Dark)
-        static let grass6: Color = Color(h: 135, s: 0.396, l: 0.191)
+        static let grass6: Color = Color(h: 137, s: 0.323, l: 0.206)
         /// [Radix Color] grass7 (Dark)
-        static let grass7: Color = Color(h: 134, s: 0.403, l: 0.238)
+        static let grass7: Color = Color(h: 135, s: 0.344, l: 0.271)
         /// [Radix Color] grass8 (Dark)
-        static let grass8: Color = Color(h: 131, s: 0.401, l: 0.308)
+        static let grass8: Color = Color(h: 131, s: 0.353, l: 0.400)
         /// [Radix Color] grass9 (Dark)
         static let grass9: Color = Color(h: 131, s: 0.410, l: 0.465)
         /// [Radix Color] grass10 (Dark)
-        static let grass10: Color = Color(h: 131, s: 0.390, l: 0.521)
+        static let grass10: Color = Color(h: 131, s: 0.417, l: 0.550)
         /// [Radix Color] grass11 (Dark)
-        static let grass11: Color = Color(h: 131, s: 0.430, l: 0.572)
+        static let grass11: Color = Color(h: 131, s: 0.500, l: 0.630)
         /// [Radix Color] grass12 (Dark)
-        static let grass12: Color = Color(h: 137, s: 0.720, l: 0.940)
+        static let grass12: Color = Color(h: 120, s: 0.600, l: 0.850)
     }
     /// [Radix Colors] Collection: grassDarkA
     class grassDarkA {
         /// [Radix Color] grassA1 (Dark)
-        static let grassA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let grassA1: Color = Color(h: 120, s: 1.000, l: 0.439, a: 0.005)
         /// [Radix Color] grassA2 (Dark)
-        static let grassA2: Color = Color(h: 107, s: 0.972, l: 0.619, a: 0.022)
+        static let grassA2: Color = Color(h: 120, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] grassA3 (Dark)
-        static let grassA3: Color = Color(h: 128, s: 0.965, l: 0.698, a: 0.066)
+        static let grassA3: Color = Color(h: 139, s: 0.979, l: 0.542, a: 0.070)
         /// [Radix Color] grassA4 (Dark)
-        static let grassA4: Color = Color(h: 130, s: 1.000, l: 0.702, a: 0.100)
+        static let grassA4: Color = Color(h: 137, s: 0.998, l: 0.603, a: 0.104)
         /// [Radix Color] grassA5 (Dark)
-        static let grassA5: Color = Color(h: 130, s: 0.982, l: 0.691, a: 0.140)
+        static let grassA5: Color = Color(h: 138, s: 0.998, l: 0.629, a: 0.143)
         /// [Radix Color] grassA6 (Dark)
-        static let grassA6: Color = Color(h: 132, s: 0.999, l: 0.693, a: 0.187)
+        static let grassA6: Color = Color(h: 136, s: 0.997, l: 0.667, a: 0.195)
         /// [Radix Color] grassA7 (Dark)
-        static let grassA7: Color = Color(h: 132, s: 0.999, l: 0.698, a: 0.261)
+        static let grassA7: Color = Color(h: 135, s: 0.997, l: 0.684, a: 0.299)
         /// [Radix Color] grassA8 (Dark)
-        static let grassA8: Color = Color(h: 130, s: 0.996, l: 0.705, a: 0.370)
+        static let grassA8: Color = Color(h: 131, s: 0.997, l: 0.713, a: 0.494)
         /// [Radix Color] grassA9 (Dark)
-        static let grassA9: Color = Color(h: 130, s: 0.997, l: 0.706, a: 0.618)
+        static let grassA9: Color = Color(h: 131, s: 0.995, l: 0.692, a: 0.620)
         /// [Radix Color] grassA10 (Dark)
-        static let grassA10: Color = Color(h: 131, s: 1.000, l: 0.735, a: 0.674)
+        static let grassA10: Color = Color(h: 131, s: 1.000, l: 0.735, a: 0.710)
         /// [Radix Color] grassA11 (Dark)
-        static let grassA11: Color = Color(h: 130, s: 0.997, l: 0.756, a: 0.731)
+        static let grassA11: Color = Color(h: 131, s: 0.998, l: 0.766, a: 0.797)
         /// [Radix Color] grassA12 (Dark)
-        static let grassA12: Color = Color(h: 137, s: 1.000, l: 0.958, a: 0.980)
+        static let grassA12: Color = Color(h: 120, s: 0.991, l: 0.903, a: 0.936)
     }
     /// [Radix Colors] Collection: gray
     class gray {
         /// [Radix Color] gray1
         static let gray1: Color = Color(h: 0, s: 0.000, l: 0.990)
         /// [Radix Color] gray2
-        static let gray2: Color = Color(h: 0, s: 0.000, l: 0.973)
+        static let gray2: Color = Color(h: 0, s: 0.000, l: 0.975)
         /// [Radix Color] gray3
-        static let gray3: Color = Color(h: 0, s: 0.000, l: 0.951)
+        static let gray3: Color = Color(h: 0, s: 0.000, l: 0.946)
         /// [Radix Color] gray4
-        static let gray4: Color = Color(h: 0, s: 0.000, l: 0.930)
+        static let gray4: Color = Color(h: 0, s: 0.000, l: 0.920)
         /// [Radix Color] gray5
-        static let gray5: Color = Color(h: 0, s: 0.000, l: 0.909)
+        static let gray5: Color = Color(h: 0, s: 0.000, l: 0.895)
         /// [Radix Color] gray6
-        static let gray6: Color = Color(h: 0, s: 0.000, l: 0.887)
+        static let gray6: Color = Color(h: 0, s: 0.000, l: 0.868)
         /// [Radix Color] gray7
-        static let gray7: Color = Color(h: 0, s: 0.000, l: 0.858)
+        static let gray7: Color = Color(h: 0, s: 0.000, l: 0.830)
         /// [Radix Color] gray8
-        static let gray8: Color = Color(h: 0, s: 0.000, l: 0.780)
+        static let gray8: Color = Color(h: 0, s: 0.000, l: 0.732)
         /// [Radix Color] gray9
-        static let gray9: Color = Color(h: 0, s: 0.000, l: 0.561)
+        static let gray9: Color = Color(h: 0, s: 0.000, l: 0.552)
         /// [Radix Color] gray10
-        static let gray10: Color = Color(h: 0, s: 0.000, l: 0.523)
+        static let gray10: Color = Color(h: 0, s: 0.000, l: 0.503)
         /// [Radix Color] gray11
-        static let gray11: Color = Color(h: 0, s: 0.000, l: 0.435)
+        static let gray11: Color = Color(h: 0, s: 0.000, l: 0.393)
         /// [Radix Color] gray12
-        static let gray12: Color = Color(h: 0, s: 0.000, l: 0.090)
+        static let gray12: Color = Color(h: 0, s: 0.000, l: 0.125)
     }
     /// [Radix Colors] Collection: grayA
     class grayA {
         /// [Radix Color] grayA1
         static let grayA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.012)
         /// [Radix Color] grayA2
-        static let grayA2: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.027)
+        static let grayA2: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.024)
         /// [Radix Color] grayA3
-        static let grayA3: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.047)
+        static let grayA3: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.055)
         /// [Radix Color] grayA4
-        static let grayA4: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.071)
+        static let grayA4: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.078)
         /// [Radix Color] grayA5
-        static let grayA5: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.090)
+        static let grayA5: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.106)
         /// [Radix Color] grayA6
-        static let grayA6: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.114)
+        static let grayA6: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.133)
         /// [Radix Color] grayA7
-        static let grayA7: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.141)
+        static let grayA7: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.169)
         /// [Radix Color] grayA8
-        static let grayA8: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.220)
+        static let grayA8: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.267)
         /// [Radix Color] grayA9
-        static let grayA9: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.439)
+        static let grayA9: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.447)
         /// [Radix Color] grayA10
-        static let grayA10: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.478)
+        static let grayA10: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.498)
         /// [Radix Color] grayA11
-        static let grayA11: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.565)
+        static let grayA11: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.608)
         /// [Radix Color] grayA12
-        static let grayA12: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.910)
+        static let grayA12: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.875)
     }
     /// [Radix Colors] Collection: grayDark
     class grayDark {
         /// [Radix Color] gray1 (Dark)
-        static let gray1: Color = Color(h: 0, s: 0.000, l: 0.085)
+        static let gray1: Color = Color(h: 0, s: 0.000, l: 0.095)
         /// [Radix Color] gray2 (Dark)
-        static let gray2: Color = Color(h: 0, s: 0.000, l: 0.110)
+        static let gray2: Color = Color(h: 0, s: 0.000, l: 0.105)
         /// [Radix Color] gray3 (Dark)
-        static let gray3: Color = Color(h: 0, s: 0.000, l: 0.136)
+        static let gray3: Color = Color(h: 0, s: 0.000, l: 0.158)
         /// [Radix Color] gray4 (Dark)
-        static let gray4: Color = Color(h: 0, s: 0.000, l: 0.158)
+        static let gray4: Color = Color(h: 0, s: 0.000, l: 0.189)
         /// [Radix Color] gray5 (Dark)
-        static let gray5: Color = Color(h: 0, s: 0.000, l: 0.179)
+        static let gray5: Color = Color(h: 0, s: 0.000, l: 0.217)
         /// [Radix Color] gray6 (Dark)
-        static let gray6: Color = Color(h: 0, s: 0.000, l: 0.205)
+        static let gray6: Color = Color(h: 0, s: 0.000, l: 0.247)
         /// [Radix Color] gray7 (Dark)
-        static let gray7: Color = Color(h: 0, s: 0.000, l: 0.243)
+        static let gray7: Color = Color(h: 0, s: 0.000, l: 0.291)
         /// [Radix Color] gray8 (Dark)
-        static let gray8: Color = Color(h: 0, s: 0.000, l: 0.312)
+        static let gray8: Color = Color(h: 0, s: 0.000, l: 0.375)
         /// [Radix Color] gray9 (Dark)
-        static let gray9: Color = Color(h: 0, s: 0.000, l: 0.439)
+        static let gray9: Color = Color(h: 0, s: 0.000, l: 0.430)
         /// [Radix Color] gray10 (Dark)
-        static let gray10: Color = Color(h: 0, s: 0.000, l: 0.494)
+        static let gray10: Color = Color(h: 0, s: 0.000, l: 0.507)
         /// [Radix Color] gray11 (Dark)
-        static let gray11: Color = Color(h: 0, s: 0.000, l: 0.628)
+        static let gray11: Color = Color(h: 0, s: 0.000, l: 0.695)
         /// [Radix Color] gray12 (Dark)
-        static let gray12: Color = Color(h: 0, s: 0.000, l: 0.930)
+        static let gray12: Color = Color(h: 0, s: 0.000, l: 0.935)
     }
     /// [Radix Colors] Collection: grayDarkA
     class grayDarkA {
         /// [Radix Color] grayA1 (Dark)
         static let grayA1: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.000)
         /// [Radix Color] grayA2 (Dark)
-        static let grayA2: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.026)
+        static let grayA2: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.013)
         /// [Radix Color] grayA3 (Dark)
-        static let grayA3: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.056)
+        static let grayA3: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.069)
         /// [Radix Color] grayA4 (Dark)
-        static let grayA4: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.077)
+        static let grayA4: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.104)
         /// [Radix Color] grayA5 (Dark)
-        static let grayA5: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.103)
+        static let grayA5: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.134)
         /// [Radix Color] grayA6 (Dark)
-        static let grayA6: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.129)
+        static let grayA6: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.169)
         /// [Radix Color] grayA7 (Dark)
-        static let grayA7: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.172)
+        static let grayA7: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.216)
         /// [Radix Color] grayA8 (Dark)
-        static let grayA8: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.249)
+        static let grayA8: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.312)
         /// [Radix Color] grayA9 (Dark)
-        static let grayA9: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.386)
+        static let grayA9: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.372)
         /// [Radix Color] grayA10 (Dark)
-        static let grayA10: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.446)
+        static let grayA10: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.455)
         /// [Radix Color] grayA11 (Dark)
-        static let grayA11: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.592)
+        static let grayA11: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.662)
         /// [Radix Color] grayA12 (Dark)
-        static let grayA12: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.923)
+        static let grayA12: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.926)
     }
     /// [Radix Colors] Collection: green
     class green {
@@ -1035,7 +1035,7 @@ final class RadixColor {
         /// [Radix Color] green11
         static let green11: Color = Color(h: 153, s: 0.670, l: 0.285)
         /// [Radix Color] green12
-        static let green12: Color = Color(h: 155, s: 0.400, l: 0.140)
+        static let green12: Color = Color(h: 155, s: 0.400, l: 0.165)
     }
     /// [Radix Colors] Collection: greenA
     class greenA {
@@ -1062,61 +1062,61 @@ final class RadixColor {
         /// [Radix Color] greenA11
         static let greenA11: Color = Color(h: 153, s: 0.999, l: 0.210, a: 0.906)
         /// [Radix Color] greenA12
-        static let greenA12: Color = Color(h: 155, s: 0.994, l: 0.062, a: 0.918)
+        static let greenA12: Color = Color(h: 155, s: 0.999, l: 0.074, a: 0.902)
     }
     /// [Radix Colors] Collection: greenDark
     class greenDark {
         /// [Radix Color] green1 (Dark)
         static let green1: Color = Color(h: 146, s: 0.300, l: 0.074)
         /// [Radix Color] green2 (Dark)
-        static let green2: Color = Color(h: 155, s: 0.442, l: 0.084)
+        static let green2: Color = Color(h: 154, s: 0.318, l: 0.086)
         /// [Radix Color] green3 (Dark)
-        static let green3: Color = Color(h: 155, s: 0.467, l: 0.109)
+        static let green3: Color = Color(h: 154, s: 0.376, l: 0.115)
         /// [Radix Color] green4 (Dark)
-        static let green4: Color = Color(h: 154, s: 0.484, l: 0.129)
+        static let green4: Color = Color(h: 154, s: 0.410, l: 0.136)
         /// [Radix Color] green5 (Dark)
-        static let green5: Color = Color(h: 154, s: 0.497, l: 0.149)
+        static let green5: Color = Color(h: 154, s: 0.437, l: 0.157)
         /// [Radix Color] green6 (Dark)
-        static let green6: Color = Color(h: 154, s: 0.509, l: 0.176)
+        static let green6: Color = Color(h: 154, s: 0.467, l: 0.187)
         /// [Radix Color] green7 (Dark)
-        static let green7: Color = Color(h: 153, s: 0.518, l: 0.218)
+        static let green7: Color = Color(h: 153, s: 0.503, l: 0.244)
         /// [Radix Color] green8 (Dark)
-        static let green8: Color = Color(h: 151, s: 0.517, l: 0.284)
+        static let green8: Color = Color(h: 151, s: 0.522, l: 0.361)
         /// [Radix Color] green9 (Dark)
         static let green9: Color = Color(h: 151, s: 0.550, l: 0.415)
         /// [Radix Color] green10 (Dark)
-        static let green10: Color = Color(h: 151, s: 0.493, l: 0.465)
+        static let green10: Color = Color(h: 151, s: 0.552, l: 0.467)
         /// [Radix Color] green11 (Dark)
-        static let green11: Color = Color(h: 151, s: 0.500, l: 0.532)
+        static let green11: Color = Color(h: 151, s: 0.650, l: 0.540)
         /// [Radix Color] green12 (Dark)
-        static let green12: Color = Color(h: 137, s: 0.720, l: 0.940)
+        static let green12: Color = Color(h: 144, s: 0.700, l: 0.820)
     }
     /// [Radix Colors] Collection: greenDarkA
     class greenDarkA {
         /// [Radix Color] greenA1 (Dark)
-        static let greenA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let greenA1: Color = Color(h: 120, s: 1.000, l: 0.439, a: 0.005)
         /// [Radix Color] greenA2 (Dark)
-        static let greenA2: Color = Color(h: 169, s: 1.000, l: 0.485, a: 0.027)
+        static let greenA2: Color = Color(h: 120, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] greenA3 (Dark)
-        static let greenA3: Color = Color(h: 162, s: 0.987, l: 0.579, a: 0.070)
+        static let greenA3: Color = Color(h: 149, s: 1.000, l: 0.495, a: 0.070)
         /// [Radix Color] greenA4 (Dark)
-        static let greenA4: Color = Color(h: 158, s: 0.986, l: 0.597, a: 0.105)
+        static let greenA4: Color = Color(h: 154, s: 1.000, l: 0.497, a: 0.109)
         /// [Radix Color] greenA5 (Dark)
-        static let greenA5: Color = Color(h: 158, s: 0.986, l: 0.607, a: 0.140)
+        static let greenA5: Color = Color(h: 153, s: 0.989, l: 0.531, a: 0.148)
         /// [Radix Color] greenA6 (Dark)
-        static let greenA6: Color = Color(h: 156, s: 0.999, l: 0.620, a: 0.187)
+        static let greenA6: Color = Color(h: 155, s: 0.991, l: 0.555, a: 0.200)
         /// [Radix Color] greenA7 (Dark)
-        static let greenA7: Color = Color(h: 154, s: 0.995, l: 0.631, a: 0.257)
+        static let greenA7: Color = Color(h: 152, s: 0.993, l: 0.591, a: 0.304)
         /// [Radix Color] greenA8 (Dark)
-        static let greenA8: Color = Color(h: 152, s: 0.997, l: 0.642, a: 0.370)
+        static let greenA8: Color = Color(h: 151, s: 0.996, l: 0.624, a: 0.503)
         /// [Radix Color] greenA9 (Dark)
-        static let greenA9: Color = Color(h: 151, s: 0.997, l: 0.638, a: 0.605)
+        static let greenA9: Color = Color(h: 151, s: 0.996, l: 0.624, a: 0.607)
         /// [Radix Color] greenA10 (Dark)
-        static let greenA10: Color = Color(h: 152, s: 0.999, l: 0.665, a: 0.661)
+        static let greenA10: Color = Color(h: 151, s: 1.000, l: 0.629, a: 0.697)
         /// [Radix Color] greenA11 (Dark)
-        static let greenA11: Color = Color(h: 151, s: 0.997, l: 0.692, a: 0.740)
+        static let greenA11: Color = Color(h: 151, s: 0.999, l: 0.635, a: 0.823)
         /// [Radix Color] greenA12 (Dark)
-        static let greenA12: Color = Color(h: 137, s: 1.000, l: 0.958, a: 0.980)
+        static let greenA12: Color = Color(h: 144, s: 0.996, l: 0.866, a: 0.940)
     }
     /// [Radix Colors] Collection: indigo
     class indigo {
@@ -1143,7 +1143,7 @@ final class RadixColor {
         /// [Radix Color] indigo11
         static let indigo11: Color = Color(h: 226, s: 0.550, l: 0.450)
         /// [Radix Color] indigo12
-        static let indigo12: Color = Color(h: 226, s: 0.620, l: 0.170)
+        static let indigo12: Color = Color(h: 226, s: 0.500, l: 0.240)
     }
     /// [Radix Colors] Collection: indigoA
     class indigoA {
@@ -1170,7 +1170,7 @@ final class RadixColor {
         /// [Radix Color] indigoA11
         static let indigoA11: Color = Color(h: 226, s: 0.996, l: 0.311, a: 0.797)
         /// [Radix Color] indigoA12
-        static let indigoA12: Color = Color(h: 226, s: 0.993, l: 0.114, a: 0.938)
+        static let indigoA12: Color = Color(h: 226, s: 0.995, l: 0.137, a: 0.879)
     }
     /// [Radix Colors] Collection: indigoDark
     class indigoDark {
@@ -1179,52 +1179,268 @@ final class RadixColor {
         /// [Radix Color] indigo2 (Dark)
         static let indigo2: Color = Color(h: 230, s: 0.364, l: 0.129)
         /// [Radix Color] indigo3 (Dark)
-        static let indigo3: Color = Color(h: 228, s: 0.433, l: 0.175)
+        static let indigo3: Color = Color(h: 228, s: 0.427, l: 0.181)
         /// [Radix Color] indigo4 (Dark)
-        static let indigo4: Color = Color(h: 227, s: 0.472, l: 0.210)
+        static let indigo4: Color = Color(h: 227, s: 0.456, l: 0.214)
         /// [Radix Color] indigo5 (Dark)
-        static let indigo5: Color = Color(h: 227, s: 0.500, l: 0.241)
+        static let indigo5: Color = Color(h: 227, s: 0.478, l: 0.244)
         /// [Radix Color] indigo6 (Dark)
-        static let indigo6: Color = Color(h: 226, s: 0.529, l: 0.282)
+        static let indigo6: Color = Color(h: 226, s: 0.503, l: 0.288)
         /// [Radix Color] indigo7 (Dark)
-        static let indigo7: Color = Color(h: 226, s: 0.560, l: 0.345)
+        static let indigo7: Color = Color(h: 226, s: 0.533, l: 0.366)
         /// [Radix Color] indigo8 (Dark)
-        static let indigo8: Color = Color(h: 226, s: 0.582, l: 0.441)
+        static let indigo8: Color = Color(h: 226, s: 0.600, l: 0.520)
         /// [Radix Color] indigo9 (Dark)
         static let indigo9: Color = Color(h: 226, s: 0.700, l: 0.555)
         /// [Radix Color] indigo10 (Dark)
-        static let indigo10: Color = Color(h: 227, s: 0.752, l: 0.616)
+        static let indigo10: Color = Color(h: 230, s: 0.739, l: 0.633)
         /// [Radix Color] indigo11 (Dark)
-        static let indigo11: Color = Color(h: 228, s: 1.000, l: 0.759)
+        static let indigo11: Color = Color(h: 235, s: 1.000, l: 0.800)
         /// [Radix Color] indigo12 (Dark)
-        static let indigo12: Color = Color(h: 226, s: 0.830, l: 0.963)
+        static let indigo12: Color = Color(h: 235, s: 0.930, l: 0.930)
     }
     /// [Radix Colors] Collection: indigoDarkA
     class indigoDarkA {
         /// [Radix Color] indigoA1 (Dark)
-        static let indigoA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let indigoA1: Color = Color(h: 240, s: 1.000, l: 0.495, a: 0.035)
         /// [Radix Color] indigoA2 (Dark)
-        static let indigoA2: Color = Color(h: 234, s: 0.974, l: 0.599, a: 0.059)
+        static let indigoA2: Color = Color(h: 232, s: 1.000, l: 0.500, a: 0.091)
         /// [Radix Color] indigoA3 (Dark)
-        static let indigoA3: Color = Color(h: 228, s: 0.992, l: 0.617, a: 0.144)
+        static let indigoA3: Color = Color(h: 228, s: 0.998, l: 0.568, a: 0.182)
         /// [Radix Color] indigoA4 (Dark)
-        static let indigoA4: Color = Color(h: 227, s: 0.997, l: 0.620, a: 0.211)
+        static let indigoA4: Color = Color(h: 228, s: 0.992, l: 0.595, a: 0.239)
         /// [Radix Color] indigoA5 (Dark)
-        static let indigoA5: Color = Color(h: 227, s: 0.992, l: 0.623, a: 0.270)
+        static let indigoA5: Color = Color(h: 227, s: 0.995, l: 0.599, a: 0.295)
         /// [Radix Color] indigoA6 (Dark)
-        static let indigoA6: Color = Color(h: 226, s: 0.999, l: 0.621, a: 0.350)
+        static let indigoA6: Color = Color(h: 225, s: 0.996, l: 0.609, a: 0.373)
         /// [Radix Color] indigoA7 (Dark)
-        static let indigoA7: Color = Color(h: 226, s: 0.999, l: 0.620, a: 0.471)
+        static let indigoA7: Color = Color(h: 226, s: 0.996, l: 0.622, a: 0.516)
         /// [Radix Color] indigoA8 (Dark)
-        static let indigoA8: Color = Color(h: 226, s: 0.999, l: 0.621, a: 0.655)
+        static let indigoA8: Color = Color(h: 226, s: 1.000, l: 0.634, a: 0.788)
         /// [Radix Color] indigoA9 (Dark)
-        static let indigoA9: Color = Color(h: 226, s: 0.999, l: 0.636, a: 0.848)
+        static let indigoA9: Color = Color(h: 226, s: 0.999, l: 0.634, a: 0.853)
         /// [Radix Color] indigoA10 (Dark)
-        static let indigoA10: Color = Color(h: 227, s: 0.998, l: 0.677, a: 0.893)
+        static let indigoA10: Color = Color(h: 230, s: 0.997, l: 0.695, a: 0.897)
         /// [Radix Color] indigoA11 (Dark)
-        static let indigoA11: Color = Color(h: 227, s: 1.000, l: 0.763, a: 0.980)
+        static let indigoA11: Color = Color(h: 235, s: 1.000, l: 0.800, a: 1.000)
         /// [Radix Color] indigoA12 (Dark)
-        static let indigoA12: Color = Color(h: 226, s: 1.000, l: 0.975, a: 0.980)
+        static let indigoA12: Color = Color(h: 236, s: 0.995, l: 0.935, a: 0.996)
+    }
+    /// [Radix Colors] Collection: iris
+    class iris {
+        /// [Radix Color] iris1
+        static let iris1: Color = Color(h: 243, s: 0.650, l: 0.995)
+        /// [Radix Color] iris2
+        static let iris2: Color = Color(h: 240, s: 1.000, l: 0.990)
+        /// [Radix Color] iris3
+        static let iris3: Color = Color(h: 240, s: 0.999, l: 0.977)
+        /// [Radix Color] iris4
+        static let iris4: Color = Color(h: 240, s: 0.935, l: 0.959)
+        /// [Radix Color] iris5
+        static let iris5: Color = Color(h: 240, s: 0.865, l: 0.934)
+        /// [Radix Color] iris6
+        static let iris6: Color = Color(h: 240, s: 0.802, l: 0.898)
+        /// [Radix Color] iris7
+        static let iris7: Color = Color(h: 239, s: 0.753, l: 0.846)
+        /// [Radix Color] iris8
+        static let iris8: Color = Color(h: 238, s: 0.739, l: 0.775)
+        /// [Radix Color] iris9
+        static let iris9: Color = Color(h: 240, s: 0.600, l: 0.598)
+        /// [Radix Color] iris10
+        static let iris10: Color = Color(h: 240, s: 0.557, l: 0.567)
+        /// [Radix Color] iris11
+        static let iris11: Color = Color(h: 240, s: 0.500, l: 0.520)
+        /// [Radix Color] iris12
+        static let iris12: Color = Color(h: 238, s: 0.430, l: 0.268)
+    }
+    /// [Radix Colors] Collection: irisA
+    class irisA {
+        /// [Radix Color] irisA1
+        static let irisA1: Color = Color(h: 240, s: 1.000, l: 0.510, a: 0.008)
+        /// [Radix Color] irisA2
+        static let irisA2: Color = Color(h: 240, s: 1.000, l: 0.510, a: 0.020)
+        /// [Radix Color] irisA3
+        static let irisA3: Color = Color(h: 240, s: 1.000, l: 0.510, a: 0.048)
+        /// [Radix Color] irisA4
+        static let irisA4: Color = Color(h: 240, s: 0.985, l: 0.479, a: 0.079)
+        /// [Radix Color] irisA5
+        static let irisA5: Color = Color(h: 240, s: 0.992, l: 0.470, a: 0.122)
+        /// [Radix Color] irisA6
+        static let irisA6: Color = Color(h: 240, s: 0.992, l: 0.449, a: 0.185)
+        /// [Radix Color] irisA7
+        static let irisA7: Color = Color(h: 239, s: 0.996, l: 0.428, a: 0.271)
+        /// [Radix Color] irisA8
+        static let irisA8: Color = Color(h: 238, s: 0.995, l: 0.426, a: 0.393)
+        /// [Radix Color] irisA9
+        static let irisA9: Color = Color(h: 240, s: 0.996, l: 0.376, a: 0.644)
+        /// [Radix Color] irisA10
+        static let irisA10: Color = Color(h: 240, s: 0.998, l: 0.358, a: 0.675)
+        /// [Radix Color] irisA11
+        static let irisA11: Color = Color(h: 240, s: 0.998, l: 0.335, a: 0.722)
+        /// [Radix Color] irisA12
+        static let irisA12: Color = Color(h: 238, s: 0.992, l: 0.138, a: 0.848)
+    }
+    /// [Radix Colors] Collection: irisDark
+    class irisDark {
+        /// [Radix Color] iris1 (Dark)
+        static let iris1: Color = Color(h: 240, s: 0.220, l: 0.105)
+        /// [Radix Color] iris2 (Dark)
+        static let iris2: Color = Color(h: 243, s: 0.304, l: 0.135)
+        /// [Radix Color] iris3 (Dark)
+        static let iris3: Color = Color(h: 242, s: 0.326, l: 0.189)
+        /// [Radix Color] iris4 (Dark)
+        static let iris4: Color = Color(h: 241, s: 0.335, l: 0.226)
+        /// [Radix Color] iris5 (Dark)
+        static let iris5: Color = Color(h: 241, s: 0.342, l: 0.261)
+        /// [Radix Color] iris6 (Dark)
+        static let iris6: Color = Color(h: 240, s: 0.350, l: 0.310)
+        /// [Radix Color] iris7 (Dark)
+        static let iris7: Color = Color(h: 240, s: 0.360, l: 0.394)
+        /// [Radix Color] iris8 (Dark)
+        static let iris8: Color = Color(h: 240, s: 0.452, l: 0.549)
+        /// [Radix Color] iris9 (Dark)
+        static let iris9: Color = Color(h: 240, s: 0.600, l: 0.598)
+        /// [Radix Color] iris10 (Dark)
+        static let iris10: Color = Color(h: 241, s: 0.664, l: 0.657)
+        /// [Radix Color] iris11 (Dark)
+        static let iris11: Color = Color(h: 242, s: 1.000, l: 0.810)
+        /// [Radix Color] iris12 (Dark)
+        static let iris12: Color = Color(h: 242, s: 0.920, l: 0.935)
+    }
+    /// [Radix Colors] Collection: irisDarkA
+    class irisDarkA {
+        /// [Radix Color] irisA1 (Dark)
+        static let irisA1: Color = Color(h: 240, s: 1.000, l: 0.500, a: 0.039)
+        /// [Radix Color] irisA2 (Dark)
+        static let irisA2: Color = Color(h: 243, s: 0.998, l: 0.547, a: 0.091)
+        /// [Radix Color] irisA3 (Dark)
+        static let irisA3: Color = Color(h: 244, s: 0.988, l: 0.635, a: 0.174)
+        /// [Radix Color] irisA4 (Dark)
+        static let irisA4: Color = Color(h: 242, s: 0.993, l: 0.665, a: 0.230)
+        /// [Radix Color] irisA5 (Dark)
+        static let irisA5: Color = Color(h: 241, s: 0.994, l: 0.685, a: 0.282)
+        /// [Radix Color] irisA6 (Dark)
+        static let irisA6: Color = Color(h: 240, s: 0.994, l: 0.693, a: 0.360)
+        /// [Radix Color] irisA7 (Dark)
+        static let irisA7: Color = Color(h: 240, s: 0.995, l: 0.706, a: 0.490)
+        /// [Radix Color] irisA8 (Dark)
+        static let irisA8: Color = Color(h: 240, s: 0.997, l: 0.719, a: 0.728)
+        /// [Radix Color] irisA9 (Dark)
+        static let irisA9: Color = Color(h: 240, s: 0.998, l: 0.706, a: 0.823)
+        /// [Radix Color] irisA10 (Dark)
+        static let irisA10: Color = Color(h: 241, s: 0.998, l: 0.737, a: 0.875)
+        /// [Radix Color] irisA11 (Dark)
+        static let irisA11: Color = Color(h: 242, s: 1.000, l: 0.810, a: 1.000)
+        /// [Radix Color] irisA12 (Dark)
+        static let irisA12: Color = Color(h: 242, s: 0.995, l: 0.939, a: 0.996)
+    }
+    /// [Radix Colors] Collection: jade
+    class jade {
+        /// [Radix Color] jade1
+        static let jade1: Color = Color(h: 151, s: 0.600, l: 0.990)
+        /// [Radix Color] jade2
+        static let jade2: Color = Color(h: 150, s: 0.778, l: 0.965)
+        /// [Radix Color] jade3
+        static let jade3: Color = Color(h: 151, s: 0.659, l: 0.937)
+        /// [Radix Color] jade4
+        static let jade4: Color = Color(h: 152, s: 0.565, l: 0.900)
+        /// [Radix Color] jade5
+        static let jade5: Color = Color(h: 154, s: 0.491, l: 0.850)
+        /// [Radix Color] jade6
+        static let jade6: Color = Color(h: 156, s: 0.435, l: 0.783)
+        /// [Radix Color] jade7
+        static let jade7: Color = Color(h: 159, s: 0.402, l: 0.687)
+        /// [Radix Color] jade8
+        static let jade8: Color = Color(h: 164, s: 0.420, l: 0.533)
+        /// [Radix Color] jade9
+        static let jade9: Color = Color(h: 164, s: 0.600, l: 0.400)
+        /// [Radix Color] jade10
+        static let jade10: Color = Color(h: 164, s: 0.608, l: 0.367)
+        /// [Radix Color] jade11
+        static let jade11: Color = Color(h: 163, s: 0.650, l: 0.289)
+        /// [Radix Color] jade12
+        static let jade12: Color = Color(h: 160, s: 0.340, l: 0.172)
+    }
+    /// [Radix Colors] Collection: jadeA
+    class jadeA {
+        /// [Radix Color] jadeA1
+        static let jadeA1: Color = Color(h: 160, s: 0.949, l: 0.387, a: 0.016)
+        /// [Radix Color] jadeA2
+        static let jadeA2: Color = Color(h: 150, s: 0.991, l: 0.440, a: 0.063)
+        /// [Radix Color] jadeA3
+        static let jadeA3: Color = Color(h: 150, s: 0.997, l: 0.408, a: 0.106)
+        /// [Radix Color] jadeA4
+        static let jadeA4: Color = Color(h: 151, s: 0.998, l: 0.363, a: 0.157)
+        /// [Radix Color] jadeA5
+        static let jadeA5: Color = Color(h: 153, s: 0.994, l: 0.335, a: 0.224)
+        /// [Radix Color] jadeA6
+        static let jadeA6: Color = Color(h: 155, s: 0.998, l: 0.304, a: 0.310)
+        /// [Radix Color] jadeA7
+        static let jadeA7: Color = Color(h: 159, s: 0.994, l: 0.287, a: 0.440)
+        /// [Radix Color] jadeA8
+        static let jadeA8: Color = Color(h: 164, s: 0.999, l: 0.296, a: 0.663)
+        /// [Radix Color] jadeA9
+        static let jadeA9: Color = Color(h: 164, s: 0.997, l: 0.286, a: 0.840)
+        /// [Radix Color] jadeA10
+        static let jadeA10: Color = Color(h: 164, s: 1.000, l: 0.259, a: 0.855)
+        /// [Radix Color] jadeA11
+        static let jadeA11: Color = Color(h: 163, s: 0.995, l: 0.210, a: 0.899)
+        /// [Radix Color] jadeA12
+        static let jadeA12: Color = Color(h: 160, s: 0.988, l: 0.067, a: 0.887)
+    }
+    /// [Radix Colors] Collection: jadeDark
+    class jadeDark {
+        /// [Radix Color] jade1 (Dark)
+        static let jade1: Color = Color(h: 152, s: 0.530, l: 0.065)
+        /// [Radix Color] jade2 (Dark)
+        static let jade2: Color = Color(h: 153, s: 0.476, l: 0.082)
+        /// [Radix Color] jade3 (Dark)
+        static let jade3: Color = Color(h: 154, s: 0.467, l: 0.110)
+        /// [Radix Color] jade4 (Dark)
+        static let jade4: Color = Color(h: 155, s: 0.470, l: 0.132)
+        /// [Radix Color] jade5 (Dark)
+        static let jade5: Color = Color(h: 156, s: 0.477, l: 0.153)
+        /// [Radix Color] jade6 (Dark)
+        static let jade6: Color = Color(h: 158, s: 0.490, l: 0.185)
+        /// [Radix Color] jade7 (Dark)
+        static let jade7: Color = Color(h: 160, s: 0.520, l: 0.242)
+        /// [Radix Color] jade8 (Dark)
+        static let jade8: Color = Color(h: 164, s: 0.598, l: 0.341)
+        /// [Radix Color] jade9 (Dark)
+        static let jade9: Color = Color(h: 164, s: 0.600, l: 0.400)
+        /// [Radix Color] jade10 (Dark)
+        static let jade10: Color = Color(h: 164, s: 0.668, l: 0.437)
+        /// [Radix Color] jade11 (Dark)
+        static let jade11: Color = Color(h: 163, s: 0.750, l: 0.484)
+        /// [Radix Color] jade12 (Dark)
+        static let jade12: Color = Color(h: 155, s: 0.700, l: 0.810)
+    }
+    /// [Radix Colors] Collection: jadeDarkA
+    class jadeDarkA {
+        /// [Radix Color] jadeA1 (Dark)
+        static let jadeA1: Color = Color(h: 120, s: 1.000, l: 0.439, a: 0.005)
+        /// [Radix Color] jadeA2 (Dark)
+        static let jadeA2: Color = Color(h: 120, s: 1.000, l: 0.490, a: 0.031)
+        /// [Radix Color] jadeA3 (Dark)
+        static let jadeA3: Color = Color(h: 145, s: 1.000, l: 0.498, a: 0.074)
+        /// [Radix Color] jadeA4 (Dark)
+        static let jadeA4: Color = Color(h: 152, s: 1.000, l: 0.497, a: 0.109)
+        /// [Radix Color] jadeA5 (Dark)
+        static let jadeA5: Color = Color(h: 156, s: 1.000, l: 0.498, a: 0.148)
+        /// [Radix Color] jadeA6 (Dark)
+        static let jadeA6: Color = Color(h: 158, s: 0.991, l: 0.545, a: 0.200)
+        /// [Radix Color] jadeA7 (Dark)
+        static let jadeA7: Color = Color(h: 159, s: 0.993, l: 0.584, a: 0.304)
+        /// [Radix Color] jadeA8 (Dark)
+        static let jadeA8: Color = Color(h: 164, s: 0.999, l: 0.590, a: 0.498)
+        /// [Radix Color] jadeA9 (Dark)
+        static let jadeA9: Color = Color(h: 164, s: 0.999, l: 0.602, a: 0.602)
+        /// [Radix Color] jadeA10 (Dark)
+        static let jadeA10: Color = Color(h: 164, s: 0.998, l: 0.583, a: 0.702)
+        /// [Radix Color] jadeA11 (Dark)
+        static let jadeA11: Color = Color(h: 163, s: 0.998, l: 0.563, a: 0.832)
+        /// [Radix Color] jadeA12 (Dark)
+        static let jadeA12: Color = Color(h: 155, s: 0.994, l: 0.859, a: 0.936)
     }
     /// [Radix Colors] Collection: lime
     class lime {
@@ -1233,25 +1449,25 @@ final class RadixColor {
         /// [Radix Color] lime2
         static let lime2: Color = Color(h: 85, s: 0.667, l: 0.965)
         /// [Radix Color] lime3
-        static let lime3: Color = Color(h: 85, s: 0.760, l: 0.923)
+        static let lime3: Color = Color(h: 85, s: 0.768, l: 0.917)
         /// [Radix Color] lime4
-        static let lime4: Color = Color(h: 84, s: 0.753, l: 0.875)
+        static let lime4: Color = Color(h: 84, s: 0.716, l: 0.866)
         /// [Radix Color] lime5
-        static let lime5: Color = Color(h: 84, s: 0.715, l: 0.819)
+        static let lime5: Color = Color(h: 83, s: 0.625, l: 0.808)
         /// [Radix Color] lime6
-        static let lime6: Color = Color(h: 82, s: 0.650, l: 0.746)
+        static let lime6: Color = Color(h: 81, s: 0.516, l: 0.736)
         /// [Radix Color] lime7
-        static let lime7: Color = Color(h: 79, s: 0.532, l: 0.618)
+        static let lime7: Color = Color(h: 79, s: 0.415, l: 0.644)
         /// [Radix Color] lime8
-        static let lime8: Color = Color(h: 76, s: 0.617, l: 0.451)
+        static let lime8: Color = Color(h: 77, s: 0.402, l: 0.522)
         /// [Radix Color] lime9
-        static let lime9: Color = Color(h: 81, s: 0.670, l: 0.500)
+        static let lime9: Color = Color(h: 81, s: 0.800, l: 0.660)
         /// [Radix Color] lime10
-        static let lime10: Color = Color(h: 80, s: 0.683, l: 0.469)
+        static let lime10: Color = Color(h: 81, s: 0.750, l: 0.600)
         /// [Radix Color] lime11
-        static let lime11: Color = Color(h: 75, s: 0.800, l: 0.260)
+        static let lime11: Color = Color(h: 75, s: 0.400, l: 0.290)
         /// [Radix Color] lime12
-        static let lime12: Color = Color(h: 78, s: 0.700, l: 0.115)
+        static let lime12: Color = Color(h: 75, s: 0.400, l: 0.180)
     }
     /// [Radix Colors] Collection: limeA
     class limeA {
@@ -1260,187 +1476,187 @@ final class RadixColor {
         /// [Radix Color] limeA2
         static let limeA2: Color = Color(h: 85, s: 0.993, l: 0.402, a: 0.059)
         /// [Radix Color] limeA3
-        static let limeA3: Color = Color(h: 84, s: 0.987, l: 0.432, a: 0.138)
+        static let limeA3: Color = Color(h: 84, s: 0.986, l: 0.436, a: 0.146)
         /// [Radix Color] limeA4
-        static let limeA4: Color = Color(h: 84, s: 0.996, l: 0.430, a: 0.220)
+        static let limeA4: Color = Color(h: 83, s: 0.994, l: 0.417, a: 0.232)
         /// [Radix Color] limeA5
-        static let limeA5: Color = Color(h: 85, s: 0.998, l: 0.418, a: 0.310)
+        static let limeA5: Color = Color(h: 83, s: 0.998, l: 0.388, a: 0.314)
         /// [Radix Color] limeA6
-        static let limeA6: Color = Color(h: 82, s: 0.998, l: 0.393, a: 0.420)
+        static let limeA6: Color = Color(h: 81, s: 1.000, l: 0.338, a: 0.400)
         /// [Radix Color] limeA7
-        static let limeA7: Color = Color(h: 79, s: 0.997, l: 0.346, a: 0.585)
+        static let limeA7: Color = Color(h: 79, s: 1.000, l: 0.293, a: 0.502)
         /// [Radix Color] limeA8
-        static let limeA8: Color = Color(h: 76, s: 0.998, l: 0.337, a: 0.828)
+        static let limeA8: Color = Color(h: 77, s: 0.998, l: 0.287, a: 0.671)
         /// [Radix Color] limeA9
-        static let limeA9: Color = Color(h: 81, s: 0.998, l: 0.402, a: 0.836)
+        static let limeA9: Color = Color(h: 81, s: 0.999, l: 0.446, a: 0.612)
         /// [Radix Color] limeA10
-        static let limeA10: Color = Color(h: 80, s: 1.000, l: 0.376, a: 0.851)
+        static let limeA10: Color = Color(h: 81, s: 1.000, l: 0.430, a: 0.702)
         /// [Radix Color] limeA11
-        static let limeA11: Color = Color(h: 75, s: 0.995, l: 0.220, a: 0.950)
+        static let limeA11: Color = Color(h: 75, s: 0.995, l: 0.143, a: 0.828)
         /// [Radix Color] limeA12
-        static let limeA12: Color = Color(h: 78, s: 0.996, l: 0.084, a: 0.965)
+        static let limeA12: Color = Color(h: 75, s: 0.989, l: 0.080, a: 0.891)
     }
     /// [Radix Colors] Collection: limeDark
     class limeDark {
         /// [Radix Color] lime1 (Dark)
         static let lime1: Color = Color(h: 75, s: 0.550, l: 0.060)
         /// [Radix Color] lime2 (Dark)
-        static let lime2: Color = Color(h: 74, s: 0.568, l: 0.073)
+        static let lime2: Color = Color(h: 78, s: 0.415, l: 0.080)
         /// [Radix Color] lime3 (Dark)
-        static let lime3: Color = Color(h: 78, s: 0.502, l: 0.099)
+        static let lime3: Color = Color(h: 81, s: 0.381, l: 0.110)
         /// [Radix Color] lime4 (Dark)
-        static let lime4: Color = Color(h: 79, s: 0.503, l: 0.121)
+        static let lime4: Color = Color(h: 81, s: 0.394, l: 0.131)
         /// [Radix Color] lime5 (Dark)
-        static let lime5: Color = Color(h: 79, s: 0.526, l: 0.142)
+        static let lime5: Color = Color(h: 81, s: 0.408, l: 0.153)
         /// [Radix Color] lime6 (Dark)
-        static let lime6: Color = Color(h: 78, s: 0.557, l: 0.167)
+        static let lime6: Color = Color(h: 80, s: 0.426, l: 0.184)
         /// [Radix Color] lime7 (Dark)
-        static let lime7: Color = Color(h: 77, s: 0.597, l: 0.201)
+        static let lime7: Color = Color(h: 78, s: 0.454, l: 0.240)
         /// [Radix Color] lime8 (Dark)
-        static let lime8: Color = Color(h: 75, s: 0.648, l: 0.245)
+        static let lime8: Color = Color(h: 75, s: 0.497, l: 0.351)
         /// [Radix Color] lime9 (Dark)
-        static let lime9: Color = Color(h: 81, s: 0.670, l: 0.500)
+        static let lime9: Color = Color(h: 81, s: 0.800, l: 0.660)
         /// [Radix Color] lime10 (Dark)
         static let lime10: Color = Color(h: 75, s: 0.850, l: 0.600)
         /// [Radix Color] lime11 (Dark)
-        static let lime11: Color = Color(h: 81, s: 0.700, l: 0.438)
+        static let lime11: Color = Color(h: 70, s: 0.700, l: 0.500)
         /// [Radix Color] lime12 (Dark)
-        static let lime12: Color = Color(h: 84, s: 0.790, l: 0.926)
+        static let lime12: Color = Color(h: 80, s: 0.800, l: 0.850)
     }
     /// [Radix Colors] Collection: limeDarkA
     class limeDarkA {
         /// [Radix Color] limeA1 (Dark)
-        static let limeA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let limeA1: Color = Color(h: 74, s: 0.998, l: 0.047, a: 0.709)
         /// [Radix Color] limeA2 (Dark)
-        static let limeA2: Color = Color(h: 75, s: 0.964, l: 0.596, a: 0.022)
+        static let limeA2: Color = Color(h: 114, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] limeA3 (Dark)
-        static let limeA3: Color = Color(h: 88, s: 0.980, l: 0.704, a: 0.061)
+        static let limeA3: Color = Color(h: 89, s: 1.000, l: 0.500, a: 0.065)
         /// [Radix Color] limeA4 (Dark)
-        static let limeA4: Color = Color(h: 81, s: 0.978, l: 0.674, a: 0.096)
+        static let limeA4: Color = Color(h: 84, s: 1.000, l: 0.498, a: 0.100)
         /// [Radix Color] limeA5 (Dark)
-        static let limeA5: Color = Color(h: 82, s: 0.984, l: 0.656, a: 0.135)
+        static let limeA5: Color = Color(h: 81, s: 0.989, l: 0.530, a: 0.135)
         /// [Radix Color] limeA6 (Dark)
-        static let limeA6: Color = Color(h: 79, s: 0.997, l: 0.643, a: 0.182)
+        static let limeA6: Color = Color(h: 80, s: 0.990, l: 0.576, a: 0.187)
         /// [Radix Color] limeA7 (Dark)
-        static let limeA7: Color = Color(h: 77, s: 0.991, l: 0.621, a: 0.252)
+        static let limeA7: Color = Color(h: 78, s: 0.995, l: 0.609, a: 0.282)
         /// [Radix Color] limeA8 (Dark)
-        static let limeA8: Color = Color(h: 75, s: 1.000, l: 0.600, a: 0.342)
+        static let limeA8: Color = Color(h: 75, s: 0.996, l: 0.633, a: 0.477)
         /// [Radix Color] limeA9 (Dark)
-        static let limeA9: Color = Color(h: 81, s: 0.998, l: 0.597, a: 0.819)
+        static let limeA9: Color = Color(h: 81, s: 0.998, l: 0.705, a: 0.927)
         /// [Radix Color] limeA10 (Dark)
-        static let limeA10: Color = Color(h: 75, s: 0.998, l: 0.637, a: 0.936)
+        static let limeA10: Color = Color(h: 75, s: 0.998, l: 0.635, a: 0.936)
         /// [Radix Color] limeA11 (Dark)
-        static let limeA11: Color = Color(h: 81, s: 0.999, l: 0.587, a: 0.719)
+        static let limeA11: Color = Color(h: 70, s: 0.999, l: 0.580, a: 0.836)
         /// [Radix Color] limeA12 (Dark)
-        static let limeA12: Color = Color(h: 83, s: 1.000, l: 0.942, a: 0.980)
+        static let limeA12: Color = Color(h: 80, s: 0.995, l: 0.876, a: 0.966)
     }
     /// [Radix Colors] Collection: mauve
     class mauve {
         /// [Radix Color] mauve1
-        static let mauve1: Color = Color(h: 300, s: 0.200, l: 0.990)
+        static let mauve1: Color = Color(h: 300, s: 0.260, l: 0.990)
         /// [Radix Color] mauve2
-        static let mauve2: Color = Color(h: 300, s: 0.077, l: 0.975)
+        static let mauve2: Color = Color(h: 270, s: 0.200, l: 0.980)
         /// [Radix Color] mauve3
-        static let mauve3: Color = Color(h: 294, s: 0.055, l: 0.953)
+        static let mauve3: Color = Color(h: 267, s: 0.138, l: 0.953)
         /// [Radix Color] mauve4
-        static let mauve4: Color = Color(h: 289, s: 0.047, l: 0.933)
+        static let mauve4: Color = Color(h: 265, s: 0.122, l: 0.927)
         /// [Radix Color] mauve5
-        static let mauve5: Color = Color(h: 283, s: 0.044, l: 0.913)
+        static let mauve5: Color = Color(h: 263, s: 0.116, l: 0.903)
         /// [Radix Color] mauve6
-        static let mauve6: Color = Color(h: 278, s: 0.041, l: 0.891)
+        static let mauve6: Color = Color(h: 261, s: 0.111, l: 0.877)
         /// [Radix Color] mauve7
-        static let mauve7: Color = Color(h: 271, s: 0.039, l: 0.863)
+        static let mauve7: Color = Color(h: 257, s: 0.108, l: 0.843)
         /// [Radix Color] mauve8
-        static let mauve8: Color = Color(h: 255, s: 0.037, l: 0.788)
+        static let mauve8: Color = Color(h: 249, s: 0.104, l: 0.755)
         /// [Radix Color] mauve9
-        static let mauve9: Color = Color(h: 252, s: 0.040, l: 0.573)
+        static let mauve9: Color = Color(h: 252, s: 0.060, l: 0.573)
         /// [Radix Color] mauve10
-        static let mauve10: Color = Color(h: 253, s: 0.035, l: 0.535)
+        static let mauve10: Color = Color(h: 250, s: 0.050, l: 0.523)
         /// [Radix Color] mauve11
-        static let mauve11: Color = Color(h: 252, s: 0.040, l: 0.448)
+        static let mauve11: Color = Color(h: 252, s: 0.050, l: 0.407)
         /// [Radix Color] mauve12
-        static let mauve12: Color = Color(h: 260, s: 0.250, l: 0.110)
+        static let mauve12: Color = Color(h: 260, s: 0.100, l: 0.135)
     }
     /// [Radix Colors] Collection: mauveA
     class mauveA {
         /// [Radix Color] mauveA1
         static let mauveA1: Color = Color(h: 300, s: 0.893, l: 0.183, a: 0.012)
         /// [Radix Color] mauveA2
-        static let mauveA2: Color = Color(h: 300, s: 0.781, l: 0.090, a: 0.028)
+        static let mauveA2: Color = Color(h: 270, s: 0.893, l: 0.183, a: 0.024)
         /// [Radix Color] mauveA3
-        static let mauveA3: Color = Color(h: 300, s: 0.995, l: 0.077, a: 0.051)
+        static let mauveA3: Color = Color(h: 270, s: 0.988, l: 0.144, a: 0.055)
         /// [Radix Color] mauveA4
-        static let mauveA4: Color = Color(h: 270, s: 0.905, l: 0.061, a: 0.071)
+        static let mauveA4: Color = Color(h: 264, s: 0.938, l: 0.126, a: 0.083)
         /// [Radix Color] mauveA5
-        static let mauveA5: Color = Color(h: 270, s: 0.830, l: 0.052, a: 0.091)
+        static let mauveA5: Color = Color(h: 270, s: 0.984, l: 0.109, a: 0.110)
         /// [Radix Color] mauveA6
-        static let mauveA6: Color = Color(h: 300, s: 0.935, l: 0.037, a: 0.114)
+        static let mauveA6: Color = Color(h: 266, s: 0.949, l: 0.105, a: 0.138)
         /// [Radix Color] mauveA7
-        static let mauveA7: Color = Color(h: 270, s: 0.826, l: 0.033, a: 0.142)
+        static let mauveA7: Color = Color(h: 255, s: 0.972, l: 0.093, a: 0.173)
         /// [Radix Color] mauveA8
-        static let mauveA8: Color = Color(h: 255, s: 0.952, l: 0.037, a: 0.220)
+        static let mauveA8: Color = Color(h: 249, s: 0.984, l: 0.096, a: 0.271)
         /// [Radix Color] mauveA9
-        static let mauveA9: Color = Color(h: 255, s: 0.948, l: 0.037, a: 0.444)
+        static let mauveA9: Color = Color(h: 249, s: 0.999, l: 0.057, a: 0.451)
         /// [Radix Color] mauveA10
-        static let mauveA10: Color = Color(h: 253, s: 0.965, l: 0.038, a: 0.483)
+        static let mauveA10: Color = Color(h: 250, s: 0.998, l: 0.047, a: 0.502)
         /// [Radix Color] mauveA11
-        static let mauveA11: Color = Color(h: 247, s: 0.979, l: 0.032, a: 0.569)
+        static let mauveA11: Color = Color(h: 252, s: 0.988, l: 0.032, a: 0.612)
         /// [Radix Color] mauveA12
-        static let mauveA12: Color = Color(h: 261, s: 0.987, l: 0.030, a: 0.918)
+        static let mauveA12: Color = Color(h: 257, s: 0.960, l: 0.016, a: 0.879)
     }
     /// [Radix Colors] Collection: mauveDark
     class mauveDark {
         /// [Radix Color] mauve1 (Dark)
-        static let mauve1: Color = Color(h: 246, s: 0.060, l: 0.090)
+        static let mauve1: Color = Color(h: 300, s: 0.050, l: 0.095)
         /// [Radix Color] mauve2 (Dark)
-        static let mauve2: Color = Color(h: 240, s: 0.051, l: 0.116)
+        static let mauve2: Color = Color(h: 300, s: 0.071, l: 0.110)
         /// [Radix Color] mauve3 (Dark)
-        static let mauve3: Color = Color(h: 241, s: 0.050, l: 0.143)
+        static let mauve3: Color = Color(h: 290, s: 0.062, l: 0.162)
         /// [Radix Color] mauve4 (Dark)
-        static let mauve4: Color = Color(h: 242, s: 0.049, l: 0.165)
+        static let mauve4: Color = Color(h: 285, s: 0.058, l: 0.195)
         /// [Radix Color] mauve5 (Dark)
-        static let mauve5: Color = Color(h: 243, s: 0.049, l: 0.188)
+        static let mauve5: Color = Color(h: 280, s: 0.056, l: 0.224)
         /// [Radix Color] mauve6 (Dark)
-        static let mauve6: Color = Color(h: 244, s: 0.049, l: 0.215)
+        static let mauve6: Color = Color(h: 276, s: 0.054, l: 0.257)
         /// [Radix Color] mauve7 (Dark)
-        static let mauve7: Color = Color(h: 245, s: 0.049, l: 0.254)
+        static let mauve7: Color = Color(h: 269, s: 0.053, l: 0.303)
         /// [Radix Color] mauve8 (Dark)
-        static let mauve8: Color = Color(h: 247, s: 0.048, l: 0.325)
+        static let mauve8: Color = Color(h: 258, s: 0.050, l: 0.392)
         /// [Radix Color] mauve9 (Dark)
-        static let mauve9: Color = Color(h: 252, s: 0.040, l: 0.452)
+        static let mauve9: Color = Color(h: 250, s: 0.050, l: 0.450)
         /// [Radix Color] mauve10 (Dark)
-        static let mauve10: Color = Color(h: 247, s: 0.034, l: 0.507)
+        static let mauve10: Color = Color(h: 252, s: 0.043, l: 0.523)
         /// [Radix Color] mauve11 (Dark)
-        static let mauve11: Color = Color(h: 253, s: 0.040, l: 0.637)
+        static let mauve11: Color = Color(h: 250, s: 0.060, l: 0.705)
         /// [Radix Color] mauve12 (Dark)
-        static let mauve12: Color = Color(h: 256, s: 0.060, l: 0.932)
+        static let mauve12: Color = Color(h: 240, s: 0.070, l: 0.938)
     }
     /// [Radix Colors] Collection: mauveDarkA
     class mauveDarkA {
         /// [Radix Color] mauveA1 (Dark)
-        static let mauveA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let mauveA1: Color = Color(h: 300, s: 1.000, l: 0.439, a: 0.005)
         /// [Radix Color] mauveA2 (Dark)
-        static let mauveA2: Color = Color(h: 240, s: 0.767, l: 0.912, a: 0.031)
+        static let mauveA2: Color = Color(h: 300, s: 0.997, l: 0.697, a: 0.026)
         /// [Radix Color] mauveA3 (Dark)
-        static let mauveA3: Color = Color(h: 240, s: 0.860, l: 0.958, a: 0.061)
+        static let mauveA3: Color = Color(h: 288, s: 0.963, l: 0.883, a: 0.087)
         /// [Radix Color] mauveA4 (Dark)
-        static let mauveA4: Color = Color(h: 240, s: 0.918, l: 0.947, a: 0.087)
+        static let mauveA4: Color = Color(h: 280, s: 0.966, l: 0.903, a: 0.126)
         /// [Radix Color] mauveA5 (Dark)
-        static let mauveA5: Color = Color(h: 240, s: 0.915, l: 0.958, a: 0.113)
+        static let mauveA5: Color = Color(h: 280, s: 0.988, l: 0.924, a: 0.156)
         /// [Radix Color] mauveA6 (Dark)
-        static let mauveA6: Color = Color(h: 240, s: 0.920, l: 0.938, a: 0.148)
+        static let mauveA6: Color = Color(h: 274, s: 0.987, l: 0.929, a: 0.195)
         /// [Radix Color] mauveA7 (Dark)
-        static let mauveA7: Color = Color(h: 240, s: 0.948, l: 0.953, a: 0.191)
+        static let mauveA7: Color = Color(h: 270, s: 0.986, l: 0.936, a: 0.247)
         /// [Radix Color] mauveA8 (Dark)
-        static let mauveA8: Color = Color(h: 249, s: 0.981, l: 0.952, a: 0.273)
+        static let mauveA8: Color = Color(h: 258, s: 0.984, l: 0.943, a: 0.351)
         /// [Radix Color] mauveA9 (Dark)
-        static let mauveA9: Color = Color(h: 248, s: 0.976, l: 0.962, a: 0.416)
+        static let mauveA9: Color = Color(h: 251, s: 0.983, l: 0.947, a: 0.416)
         /// [Radix Color] mauveA10 (Dark)
-        static let mauveA10: Color = Color(h: 248, s: 0.955, l: 0.966, a: 0.477)
+        static let mauveA10: Color = Color(h: 251, s: 0.993, l: 0.956, a: 0.498)
         /// [Radix Color] mauveA11 (Dark)
-        static let mauveA11: Color = Color(h: 250, s: 0.980, l: 0.980, a: 0.615)
+        static let mauveA11: Color = Color(h: 253, s: 0.982, l: 0.974, a: 0.693)
         /// [Radix Color] mauveA12 (Dark)
-        static let mauveA12: Color = Color(h: 240, s: 0.939, l: 0.996, a: 0.931)
+        static let mauveA12: Color = Color(h: 240, s: 0.822, l: 0.995, a: 0.936)
     }
     /// [Radix Colors] Collection: mint
     class mint {
@@ -1449,25 +1665,25 @@ final class RadixColor {
         /// [Radix Color] mint2
         static let mint2: Color = Color(h: 164, s: 0.882, l: 0.967)
         /// [Radix Color] mint3
-        static let mint3: Color = Color(h: 164, s: 0.766, l: 0.933)
+        static let mint3: Color = Color(h: 164, s: 0.804, l: 0.926)
         /// [Radix Color] mint4
-        static let mint4: Color = Color(h: 165, s: 0.688, l: 0.895)
+        static let mint4: Color = Color(h: 165, s: 0.716, l: 0.884)
         /// [Radix Color] mint5
-        static let mint5: Color = Color(h: 165, s: 0.606, l: 0.845)
+        static let mint5: Color = Color(h: 165, s: 0.610, l: 0.834)
         /// [Radix Color] mint6
-        static let mint6: Color = Color(h: 165, s: 0.535, l: 0.769)
+        static let mint6: Color = Color(h: 166, s: 0.502, l: 0.767)
         /// [Radix Color] mint7
-        static let mint7: Color = Color(h: 166, s: 0.507, l: 0.661)
+        static let mint7: Color = Color(h: 166, s: 0.433, l: 0.672)
         /// [Radix Color] mint8
-        static let mint8: Color = Color(h: 168, s: 0.528, l: 0.510)
+        static let mint8: Color = Color(h: 168, s: 0.450, l: 0.529)
         /// [Radix Color] mint9
-        static let mint9: Color = Color(h: 167, s: 0.650, l: 0.660)
+        static let mint9: Color = Color(h: 167, s: 0.700, l: 0.720)
         /// [Radix Color] mint10
-        static let mint10: Color = Color(h: 167, s: 0.593, l: 0.631)
+        static let mint10: Color = Color(h: 167, s: 0.620, l: 0.690)
         /// [Radix Color] mint11
-        static let mint11: Color = Color(h: 172, s: 0.720, l: 0.285)
+        static let mint11: Color = Color(h: 172, s: 0.500, l: 0.305)
         /// [Radix Color] mint12
-        static let mint12: Color = Color(h: 172, s: 0.700, l: 0.120)
+        static let mint12: Color = Color(h: 171, s: 0.500, l: 0.175)
     }
     /// [Radix Colors] Collection: mintA
     class mintA {
@@ -1476,79 +1692,79 @@ final class RadixColor {
         /// [Radix Color] mintA2
         static let mintA2: Color = Color(h: 164, s: 0.991, l: 0.471, a: 0.063)
         /// [Radix Color] mintA3
-        static let mintA3: Color = Color(h: 164, s: 0.993, l: 0.435, a: 0.118)
+        static let mintA3: Color = Color(h: 164, s: 0.989, l: 0.444, a: 0.134)
         /// [Radix Color] mintA4
-        static let mintA4: Color = Color(h: 164, s: 0.993, l: 0.413, a: 0.177)
+        static let mintA4: Color = Color(h: 165, s: 1.000, l: 0.422, a: 0.200)
         /// [Radix Color] mintA5
-        static let mintA5: Color = Color(h: 165, s: 0.990, l: 0.375, a: 0.248)
+        static let mintA5: Color = Color(h: 166, s: 0.997, l: 0.376, a: 0.267)
         /// [Radix Color] mintA6
-        static let mintA6: Color = Color(h: 165, s: 1.000, l: 0.350, a: 0.353)
+        static let mintA6: Color = Color(h: 166, s: 0.992, l: 0.333, a: 0.350)
         /// [Radix Color] mintA7
-        static let mintA7: Color = Color(h: 166, s: 0.999, l: 0.335, a: 0.510)
+        static let mintA7: Color = Color(h: 166, s: 0.997, l: 0.305, a: 0.471)
         /// [Radix Color] mintA8
-        static let mintA8: Color = Color(h: 168, s: 0.996, l: 0.346, a: 0.750)
+        static let mintA8: Color = Color(h: 168, s: 0.997, l: 0.311, a: 0.683)
         /// [Radix Color] mintA9
-        static let mintA9: Color = Color(h: 167, s: 0.999, l: 0.395, a: 0.561)
+        static let mintA9: Color = Color(h: 167, s: 0.998, l: 0.414, a: 0.475)
         /// [Radix Color] mintA10
-        static let mintA10: Color = Color(h: 167, s: 0.997, l: 0.374, a: 0.589)
+        static let mintA10: Color = Color(h: 167, s: 1.000, l: 0.383, a: 0.502)
         /// [Radix Color] mintA11
-        static let mintA11: Color = Color(h: 172, s: 0.998, l: 0.224, a: 0.922)
+        static let mintA11: Color = Color(h: 172, s: 0.994, l: 0.181, a: 0.848)
         /// [Radix Color] mintA12
-        static let mintA12: Color = Color(h: 172, s: 0.997, l: 0.088, a: 0.965)
+        static let mintA12: Color = Color(h: 171, s: 0.997, l: 0.097, a: 0.914)
     }
     /// [Radix Colors] Collection: mintDark
     class mintDark {
         /// [Radix Color] mint1 (Dark)
         static let mint1: Color = Color(h: 173, s: 0.500, l: 0.066)
         /// [Radix Color] mint2 (Dark)
-        static let mint2: Color = Color(h: 176, s: 0.730, l: 0.073)
+        static let mint2: Color = Color(h: 174, s: 0.512, l: 0.080)
         /// [Radix Color] mint3 (Dark)
-        static let mint3: Color = Color(h: 175, s: 0.793, l: 0.089)
+        static let mint3: Color = Color(h: 174, s: 0.535, l: 0.106)
         /// [Radix Color] mint4 (Dark)
-        static let mint4: Color = Color(h: 174, s: 0.848, l: 0.103)
+        static let mint4: Color = Color(h: 174, s: 0.551, l: 0.126)
         /// [Radix Color] mint5 (Dark)
-        static let mint5: Color = Color(h: 174, s: 0.902, l: 0.119)
+        static let mint5: Color = Color(h: 173, s: 0.566, l: 0.148)
         /// [Radix Color] mint6 (Dark)
-        static let mint6: Color = Color(h: 173, s: 0.960, l: 0.138)
+        static let mint6: Color = Color(h: 173, s: 0.583, l: 0.179)
         /// [Radix Color] mint7 (Dark)
-        static let mint7: Color = Color(h: 172, s: 1.000, l: 0.168)
+        static let mint7: Color = Color(h: 172, s: 0.601, l: 0.236)
         /// [Radix Color] mint8 (Dark)
-        static let mint8: Color = Color(h: 170, s: 1.000, l: 0.214)
+        static let mint8: Color = Color(h: 170, s: 0.598, l: 0.351)
         /// [Radix Color] mint9 (Dark)
-        static let mint9: Color = Color(h: 167, s: 0.650, l: 0.660)
+        static let mint9: Color = Color(h: 167, s: 0.700, l: 0.720)
         /// [Radix Color] mint10 (Dark)
         static let mint10: Color = Color(h: 163, s: 0.800, l: 0.770)
         /// [Radix Color] mint11 (Dark)
-        static let mint11: Color = Color(h: 167, s: 0.700, l: 0.480)
+        static let mint11: Color = Color(h: 167, s: 0.700, l: 0.580)
         /// [Radix Color] mint12 (Dark)
-        static let mint12: Color = Color(h: 165, s: 0.800, l: 0.948)
+        static let mint12: Color = Color(h: 155, s: 0.700, l: 0.865)
     }
     /// [Radix Colors] Collection: mintDarkA
     class mintDarkA {
         /// [Radix Color] mintA1 (Dark)
-        static let mintA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let mintA1: Color = Color(h: 120, s: 1.000, l: 0.439, a: 0.005)
         /// [Radix Color] mintA2 (Dark)
-        static let mintA2: Color = Color(h: 180, s: 1.000, l: 0.492, a: 0.031)
+        static let mintA2: Color = Color(h: 165, s: 1.000, l: 0.490, a: 0.031)
         /// [Radix Color] mintA3 (Dark)
-        static let mintA3: Color = Color(h: 176, s: 1.000, l: 0.497, a: 0.070)
+        static let mintA3: Color = Color(h: 174, s: 1.000, l: 0.498, a: 0.074)
         /// [Radix Color] mintA4 (Dark)
-        static let mintA4: Color = Color(h: 173, s: 1.000, l: 0.497, a: 0.105)
+        static let mintA4: Color = Color(h: 172, s: 1.000, l: 0.498, a: 0.113)
         /// [Radix Color] mintA5 (Dark)
-        static let mintA5: Color = Color(h: 173, s: 1.000, l: 0.498, a: 0.144)
+        static let mintA5: Color = Color(h: 172, s: 1.000, l: 0.499, a: 0.152)
         /// [Radix Color] mintA6 (Dark)
-        static let mintA6: Color = Color(h: 172, s: 1.000, l: 0.498, a: 0.192)
+        static let mintA6: Color = Color(h: 173, s: 1.000, l: 0.500, a: 0.208)
         /// [Radix Color] mintA7 (Dark)
-        static let mintA7: Color = Color(h: 171, s: 1.000, l: 0.499, a: 0.266)
+        static let mintA7: Color = Color(h: 173, s: 0.998, l: 0.547, a: 0.312)
         /// [Radix Color] mintA8 (Dark)
-        static let mintA8: Color = Color(h: 169, s: 1.000, l: 0.499, a: 0.366)
+        static let mintA8: Color = Color(h: 170, s: 0.996, l: 0.592, a: 0.516)
         /// [Radix Color] mintA9 (Dark)
-        static let mintA9: Color = Color(h: 167, s: 0.998, l: 0.750, a: 0.870)
+        static let mintA9: Color = Color(h: 167, s: 0.996, l: 0.784, a: 0.910)
         /// [Radix Color] mintA10 (Dark)
-        static let mintA10: Color = Color(h: 163, s: 0.999, l: 0.807, a: 0.948)
+        static let mintA10: Color = Color(h: 163, s: 0.995, l: 0.805, a: 0.949)
         /// [Radix Color] mintA11 (Dark)
-        static let mintA11: Color = Color(h: 167, s: 0.999, l: 0.587, a: 0.796)
+        static let mintA11: Color = Color(h: 167, s: 0.998, l: 0.658, a: 0.862)
         /// [Radix Color] mintA12 (Dark)
-        static let mintA12: Color = Color(h: 169, s: 1.000, l: 0.962, a: 0.980)
+        static let mintA12: Color = Color(h: 156, s: 0.997, l: 0.899, a: 0.957)
     }
     /// [Radix Colors] Collection: olive
     class olive {
@@ -1557,25 +1773,25 @@ final class RadixColor {
         /// [Radix Color] olive2
         static let olive2: Color = Color(h: 120, s: 0.167, l: 0.976)
         /// [Radix Color] olive3
-        static let olive3: Color = Color(h: 119, s: 0.101, l: 0.952)
+        static let olive3: Color = Color(h: 118, s: 0.084, l: 0.948)
         /// [Radix Color] olive4
-        static let olive4: Color = Color(h: 118, s: 0.081, l: 0.930)
+        static let olive4: Color = Color(h: 116, s: 0.060, l: 0.921)
         /// [Radix Color] olive5
-        static let olive5: Color = Color(h: 117, s: 0.071, l: 0.908)
+        static let olive5: Color = Color(h: 115, s: 0.049, l: 0.894)
         /// [Radix Color] olive6
-        static let olive6: Color = Color(h: 115, s: 0.064, l: 0.885)
+        static let olive6: Color = Color(h: 113, s: 0.042, l: 0.865)
         /// [Radix Color] olive7
-        static let olive7: Color = Color(h: 114, s: 0.059, l: 0.854)
+        static let olive7: Color = Color(h: 111, s: 0.036, l: 0.826)
         /// [Radix Color] olive8
-        static let olive8: Color = Color(h: 110, s: 0.052, l: 0.773)
+        static let olive8: Color = Color(h: 105, s: 0.029, l: 0.729)
         /// [Radix Color] olive9
-        static let olive9: Color = Color(h: 110, s: 0.035, l: 0.555)
+        static let olive9: Color = Color(h: 110, s: 0.030, l: 0.545)
         /// [Radix Color] olive10
-        static let olive10: Color = Color(h: 111, s: 0.028, l: 0.517)
+        static let olive10: Color = Color(h: 105, s: 0.027, l: 0.494)
         /// [Radix Color] olive11
-        static let olive11: Color = Color(h: 110, s: 0.030, l: 0.430)
+        static let olive11: Color = Color(h: 110, s: 0.030, l: 0.385)
         /// [Radix Color] olive12
-        static let olive12: Color = Color(h: 110, s: 0.250, l: 0.095)
+        static let olive12: Color = Color(h: 110, s: 0.080, l: 0.120)
     }
     /// [Radix Colors] Collection: oliveA
     class oliveA {
@@ -1584,187 +1800,187 @@ final class RadixColor {
         /// [Radix Color] oliveA2
         static let oliveA2: Color = Color(h: 120, s: 0.877, l: 0.160, a: 0.028)
         /// [Radix Color] oliveA3
-        static let oliveA3: Color = Color(h: 120, s: 0.995, l: 0.077, a: 0.051)
+        static let oliveA3: Color = Color(h: 120, s: 0.976, l: 0.073, a: 0.055)
         /// [Radix Color] oliveA4
-        static let oliveA4: Color = Color(h: 120, s: 0.923, l: 0.085, a: 0.075)
+        static let oliveA4: Color = Color(h: 120, s: 0.858, l: 0.055, a: 0.083)
         /// [Radix Color] oliveA5
-        static let oliveA5: Color = Color(h: 120, s: 0.860, l: 0.069, a: 0.099)
+        static let oliveA5: Color = Color(h: 120, s: 0.952, l: 0.037, a: 0.110)
         /// [Radix Color] oliveA6
-        static let oliveA6: Color = Color(h: 120, s: 0.948, l: 0.068, a: 0.122)
+        static let oliveA6: Color = Color(h: 120, s: 0.877, l: 0.047, a: 0.142)
         /// [Radix Color] oliveA7
-        static let oliveA7: Color = Color(h: 120, s: 0.993, l: 0.052, a: 0.153)
+        static let oliveA7: Color = Color(h: 100, s: 0.906, l: 0.036, a: 0.181)
         /// [Radix Color] oliveA8
-        static let oliveA8: Color = Color(h: 110, s: 0.938, l: 0.052, a: 0.240)
+        static let oliveA8: Color = Color(h: 105, s: 0.932, l: 0.030, a: 0.279)
         /// [Radix Color] oliveA9
-        static let oliveA9: Color = Color(h: 111, s: 0.987, l: 0.030, a: 0.459)
+        static let oliveA9: Color = Color(h: 103, s: 0.971, l: 0.030, a: 0.471)
         /// [Radix Color] oliveA10
-        static let oliveA10: Color = Color(h: 111, s: 0.935, l: 0.029, a: 0.499)
+        static let oliveA10: Color = Color(h: 110, s: 0.971, l: 0.023, a: 0.518)
         /// [Radix Color] oliveA11
-        static let oliveA11: Color = Color(h: 111, s: 0.952, l: 0.025, a: 0.585)
+        static let oliveA11: Color = Color(h: 110, s: 0.955, l: 0.020, a: 0.628)
         /// [Radix Color] oliveA12
-        static let oliveA12: Color = Color(h: 110, s: 0.976, l: 0.026, a: 0.930)
+        static let oliveA12: Color = Color(h: 108, s: 0.924, l: 0.012, a: 0.891)
     }
     /// [Radix Colors] Collection: oliveDark
     class oliveDark {
         /// [Radix Color] olive1 (Dark)
-        static let olive1: Color = Color(h: 110, s: 0.050, l: 0.086)
+        static let olive1: Color = Color(h: 110, s: 0.050, l: 0.092)
         /// [Radix Color] olive2 (Dark)
-        static let olive2: Color = Color(h: 105, s: 0.074, l: 0.106)
+        static let olive2: Color = Color(h: 120, s: 0.057, l: 0.104)
         /// [Radix Color] olive3 (Dark)
-        static let olive3: Color = Color(h: 106, s: 0.064, l: 0.131)
+        static let olive3: Color = Color(h: 120, s: 0.043, l: 0.154)
         /// [Radix Color] olive4 (Dark)
-        static let olive4: Color = Color(h: 106, s: 0.058, l: 0.153)
+        static let olive4: Color = Color(h: 120, s: 0.039, l: 0.185)
         /// [Radix Color] olive5 (Dark)
-        static let olive5: Color = Color(h: 107, s: 0.053, l: 0.174)
+        static let olive5: Color = Color(h: 120, s: 0.036, l: 0.212)
         /// [Radix Color] olive6 (Dark)
-        static let olive6: Color = Color(h: 107, s: 0.049, l: 0.199)
+        static let olive6: Color = Color(h: 120, s: 0.033, l: 0.243)
         /// [Radix Color] olive7 (Dark)
-        static let olive7: Color = Color(h: 108, s: 0.044, l: 0.236)
+        static let olive7: Color = Color(h: 120, s: 0.030, l: 0.287)
         /// [Radix Color] olive8 (Dark)
-        static let olive8: Color = Color(h: 110, s: 0.038, l: 0.306)
+        static let olive8: Color = Color(h: 120, s: 0.026, l: 0.371)
         /// [Radix Color] olive9 (Dark)
-        static let olive9: Color = Color(h: 110, s: 0.060, l: 0.425)
+        static let olive9: Color = Color(h: 110, s: 0.060, l: 0.415)
         /// [Radix Color] olive10 (Dark)
-        static let olive10: Color = Color(h: 111, s: 0.048, l: 0.482)
+        static let olive10: Color = Color(h: 106, s: 0.046, l: 0.493)
         /// [Radix Color] olive11 (Dark)
-        static let olive11: Color = Color(h: 110, s: 0.050, l: 0.618)
+        static let olive11: Color = Color(h: 110, s: 0.050, l: 0.688)
         /// [Radix Color] olive12 (Dark)
-        static let olive12: Color = Color(h: 110, s: 0.060, l: 0.930)
+        static let olive12: Color = Color(h: 110, s: 0.070, l: 0.930)
     }
     /// [Radix Colors] Collection: oliveDarkA
     class oliveDarkA {
         /// [Radix Color] oliveA1 (Dark)
-        static let oliveA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let oliveA1: Color = Color(h: 120, s: 1.000, l: 0.439, a: 0.005)
         /// [Radix Color] oliveA2 (Dark)
-        static let oliveA2: Color = Color(h: 91, s: 0.970, l: 0.840, a: 0.026)
+        static let oliveA2: Color = Color(h: 120, s: 0.905, l: 0.639, a: 0.018)
         /// [Radix Color] oliveA3 (Dark)
-        static let oliveA3: Color = Color(h: 101, s: 0.874, l: 0.877, a: 0.057)
+        static let oliveA3: Color = Color(h: 120, s: 0.941, l: 0.916, a: 0.074)
         /// [Radix Color] oliveA4 (Dark)
-        static let oliveA4: Color = Color(h: 92, s: 0.918, l: 0.941, a: 0.078)
+        static let oliveA4: Color = Color(h: 120, s: 0.918, l: 0.922, a: 0.109)
         /// [Radix Color] oliveA5 (Dark)
-        static let oliveA5: Color = Color(h: 101, s: 0.926, l: 0.935, a: 0.104)
+        static let oliveA5: Color = Color(h: 120, s: 0.948, l: 0.940, a: 0.139)
         /// [Radix Color] oliveA6 (Dark)
-        static let oliveA6: Color = Color(h: 102, s: 0.911, l: 0.946, a: 0.130)
+        static let oliveA6: Color = Color(h: 120, s: 0.912, l: 0.951, a: 0.174)
         /// [Radix Color] oliveA7 (Dark)
-        static let oliveA7: Color = Color(h: 102, s: 0.925, l: 0.959, a: 0.173)
+        static let oliveA7: Color = Color(h: 120, s: 0.975, l: 0.964, a: 0.221)
         /// [Radix Color] oliveA8 (Dark)
-        static let oliveA8: Color = Color(h: 107, s: 1.000, l: 0.965, a: 0.250)
+        static let oliveA8: Color = Color(h: 120, s: 0.917, l: 0.966, a: 0.317)
         /// [Radix Color] oliveA9 (Dark)
-        static let oliveA9: Color = Color(h: 110, s: 0.983, l: 0.941, a: 0.397)
+        static let oliveA9: Color = Color(h: 106, s: 0.998, l: 0.933, a: 0.381)
         /// [Radix Color] oliveA10 (Dark)
-        static let oliveA10: Color = Color(h: 109, s: 0.996, l: 0.953, a: 0.457)
+        static let oliveA10: Color = Color(h: 104, s: 0.968, l: 0.952, a: 0.464)
         /// [Radix Color] oliveA11 (Dark)
-        static let oliveA11: Color = Color(h: 113, s: 0.953, l: 0.972, a: 0.600)
+        static let oliveA11: Color = Color(h: 105, s: 1.000, l: 0.977, a: 0.671)
         /// [Radix Color] oliveA12 (Dark)
-        static let oliveA12: Color = Color(h: 120, s: 0.935, l: 0.996, a: 0.927)
+        static let oliveA12: Color = Color(h: 120, s: 0.880, l: 0.995, a: 0.927)
     }
     /// [Radix Colors] Collection: orange
     class orange {
         /// [Radix Color] orange1
         static let orange1: Color = Color(h: 24, s: 0.700, l: 0.990)
         /// [Radix Color] orange2
-        static let orange2: Color = Color(h: 24, s: 0.833, l: 0.976)
+        static let orange2: Color = Color(h: 22, s: 1.000, l: 0.978)
         /// [Radix Color] orange3
-        static let orange3: Color = Color(h: 24, s: 1.000, l: 0.953)
+        static let orange3: Color = Color(h: 34, s: 1.000, l: 0.917)
         /// [Radix Color] orange4
-        static let orange4: Color = Color(h: 25, s: 1.000, l: 0.922)
+        static let orange4: Color = Color(h: 33, s: 1.000, l: 0.866)
         /// [Radix Color] orange5
-        static let orange5: Color = Color(h: 25, s: 1.000, l: 0.882)
+        static let orange5: Color = Color(h: 31, s: 1.000, l: 0.822)
         /// [Radix Color] orange6
-        static let orange6: Color = Color(h: 25, s: 1.000, l: 0.828)
+        static let orange6: Color = Color(h: 27, s: 1.000, l: 0.784)
         /// [Radix Color] orange7
-        static let orange7: Color = Color(h: 24, s: 1.000, l: 0.753)
+        static let orange7: Color = Color(h: 21, s: 1.000, l: 0.745)
         /// [Radix Color] orange8
-        static let orange8: Color = Color(h: 24, s: 0.945, l: 0.643)
+        static let orange8: Color = Color(h: 19, s: 0.801, l: 0.645)
         /// [Radix Color] orange9
         static let orange9: Color = Color(h: 24, s: 0.940, l: 0.500)
         /// [Radix Color] orange10
         static let orange10: Color = Color(h: 24, s: 1.000, l: 0.465)
         /// [Radix Color] orange11
-        static let orange11: Color = Color(h: 24, s: 1.000, l: 0.370)
+        static let orange11: Color = Color(h: 16, s: 0.450, l: 0.415)
         /// [Radix Color] orange12
-        static let orange12: Color = Color(h: 15, s: 0.600, l: 0.170)
+        static let orange12: Color = Color(h: 16, s: 0.500, l: 0.230)
     }
     /// [Radix Colors] Collection: orangeA
     class orangeA {
         /// [Radix Color] orangeA1
         static let orangeA1: Color = Color(h: 20, s: 0.949, l: 0.387, a: 0.016)
         /// [Radix Color] orangeA2
-        static let orangeA2: Color = Color(h: 24, s: 0.958, l: 0.465, a: 0.044)
+        static let orangeA2: Color = Color(h: 22, s: 1.000, l: 0.510, a: 0.044)
         /// [Radix Color] orangeA3
-        static let orangeA3: Color = Color(h: 25, s: 1.000, l: 0.505, a: 0.095)
+        static let orangeA3: Color = Color(h: 34, s: 1.000, l: 0.501, a: 0.165)
         /// [Radix Color] orangeA4
-        static let orangeA4: Color = Color(h: 26, s: 1.000, l: 0.500, a: 0.157)
+        static let orangeA4: Color = Color(h: 33, s: 1.000, l: 0.501, a: 0.267)
         /// [Radix Color] orangeA5
-        static let orangeA5: Color = Color(h: 25, s: 1.000, l: 0.501, a: 0.236)
+        static let orangeA5: Color = Color(h: 31, s: 1.000, l: 0.500, a: 0.357)
         /// [Radix Color] orangeA6
-        static let orangeA6: Color = Color(h: 25, s: 1.000, l: 0.501, a: 0.346)
+        static let orangeA6: Color = Color(h: 27, s: 1.000, l: 0.501, a: 0.432)
         /// [Radix Color] orangeA7
-        static let orangeA7: Color = Color(h: 24, s: 1.000, l: 0.501, a: 0.495)
+        static let orangeA7: Color = Color(h: 21, s: 1.000, l: 0.500, a: 0.510)
         /// [Radix Color] orangeA8
-        static let orangeA8: Color = Color(h: 24, s: 0.997, l: 0.487, a: 0.695)
+        static let orangeA8: Color = Color(h: 19, s: 0.997, l: 0.445, a: 0.640)
         /// [Radix Color] orangeA9
         static let orangeA9: Color = Color(h: 24, s: 0.999, l: 0.484, a: 0.969)
         /// [Radix Color] orangeA10
-        static let orangeA10: Color = Color(h: 23, s: 1.000, l: 0.464, a: 0.980)
+        static let orangeA10: Color = Color(h: 24, s: 1.000, l: 0.465, a: 1.000)
         /// [Radix Color] orangeA11
-        static let orangeA11: Color = Color(h: 23, s: 1.000, l: 0.368, a: 0.980)
+        static let orangeA11: Color = Color(h: 16, s: 0.998, l: 0.242, a: 0.773)
         /// [Radix Color] orangeA12
-        static let orangeA12: Color = Color(h: 15, s: 0.994, l: 0.110, a: 0.934)
+        static let orangeA12: Color = Color(h: 16, s: 0.994, l: 0.131, a: 0.887)
     }
     /// [Radix Colors] Collection: orangeDark
     class orangeDark {
         /// [Radix Color] orange1 (Dark)
         static let orange1: Color = Color(h: 30, s: 0.700, l: 0.072)
         /// [Radix Color] orange2 (Dark)
-        static let orange2: Color = Color(h: 28, s: 1.000, l: 0.084)
+        static let orange2: Color = Color(h: 29, s: 0.814, l: 0.084)
         /// [Radix Color] orange3 (Dark)
-        static let orange3: Color = Color(h: 26, s: 0.911, l: 0.116)
+        static let orange3: Color = Color(h: 26, s: 0.684, l: 0.120)
         /// [Radix Color] orange4 (Dark)
-        static let orange4: Color = Color(h: 25, s: 0.883, l: 0.141)
+        static let orange4: Color = Color(h: 25, s: 0.646, l: 0.149)
         /// [Radix Color] orange5 (Dark)
-        static let orange5: Color = Color(h: 24, s: 0.876, l: 0.166)
+        static let orange5: Color = Color(h: 25, s: 0.643, l: 0.178)
         /// [Radix Color] orange6 (Dark)
-        static let orange6: Color = Color(h: 24, s: 0.886, l: 0.198)
+        static let orange6: Color = Color(h: 25, s: 0.657, l: 0.219)
         /// [Radix Color] orange7 (Dark)
-        static let orange7: Color = Color(h: 24, s: 0.924, l: 0.240)
+        static let orange7: Color = Color(h: 25, s: 0.677, l: 0.294)
         /// [Radix Color] orange8 (Dark)
-        static let orange8: Color = Color(h: 25, s: 1.000, l: 0.290)
+        static let orange8: Color = Color(h: 25, s: 0.703, l: 0.449)
         /// [Radix Color] orange9 (Dark)
         static let orange9: Color = Color(h: 24, s: 0.940, l: 0.500)
         /// [Radix Color] orange10 (Dark)
         static let orange10: Color = Color(h: 24, s: 1.000, l: 0.585)
         /// [Radix Color] orange11 (Dark)
-        static let orange11: Color = Color(h: 24, s: 1.000, l: 0.622)
+        static let orange11: Color = Color(h: 24, s: 1.000, l: 0.700)
         /// [Radix Color] orange12 (Dark)
-        static let orange12: Color = Color(h: 24, s: 0.970, l: 0.932)
+        static let orange12: Color = Color(h: 30, s: 1.000, l: 0.880)
     }
     /// [Radix Colors] Collection: orangeDarkA
     class orangeDarkA {
         /// [Radix Color] orangeA1 (Dark)
-        static let orangeA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let orangeA1: Color = Color(h: 0, s: 1.000, l: 0.490, a: 0.031)
         /// [Radix Color] orangeA2 (Dark)
-        static let orangeA2: Color = Color(h: 13, s: 1.000, l: 0.497, a: 0.054)
+        static let orangeA2: Color = Color(h: 0, s: 1.000, l: 0.500, a: 0.065)
         /// [Radix Color] orangeA3 (Dark)
-        static let orangeA3: Color = Color(h: 20, s: 1.000, l: 0.497, a: 0.117)
+        static let orangeA3: Color = Color(h: 13, s: 1.000, l: 0.497, a: 0.122)
         /// [Radix Color] orangeA4 (Dark)
-        static let orangeA4: Color = Color(h: 23, s: 1.000, l: 0.498, a: 0.166)
+        static let orangeA4: Color = Color(h: 20, s: 1.000, l: 0.500, a: 0.169)
         /// [Radix Color] orangeA5 (Dark)
-        static let orangeA5: Color = Color(h: 23, s: 0.994, l: 0.501, a: 0.215)
+        static let orangeA5: Color = Color(h: 24, s: 1.000, l: 0.500, a: 0.221)
         /// [Radix Color] orangeA6 (Dark)
-        static let orangeA6: Color = Color(h: 23, s: 0.998, l: 0.511, a: 0.286)
+        static let orangeA6: Color = Color(h: 25, s: 0.998, l: 0.514, a: 0.299)
         /// [Radix Color] orangeA7 (Dark)
-        static let orangeA7: Color = Color(h: 23, s: 0.997, l: 0.506, a: 0.389)
+        static let orangeA7: Color = Color(h: 25, s: 0.998, l: 0.547, a: 0.442)
         /// [Radix Color] orangeA8 (Dark)
-        static let orangeA8: Color = Color(h: 24, s: 1.000, l: 0.499, a: 0.523)
+        static let orangeA8: Color = Color(h: 25, s: 0.998, l: 0.573, a: 0.741)
         /// [Radix Color] orangeA9 (Dark)
-        static let orangeA9: Color = Color(h: 24, s: 0.999, l: 0.516, a: 0.965)
+        static let orangeA9: Color = Color(h: 24, s: 0.999, l: 0.514, a: 0.966)
         /// [Radix Color] orangeA10 (Dark)
-        static let orangeA10: Color = Color(h: 25, s: 1.000, l: 0.586, a: 0.980)
+        static let orangeA10: Color = Color(h: 24, s: 1.000, l: 0.584, a: 1.000)
         /// [Radix Color] orangeA11 (Dark)
-        static let orangeA11: Color = Color(h: 24, s: 1.000, l: 0.624, a: 0.980)
+        static let orangeA11: Color = Color(h: 24, s: 1.000, l: 0.700, a: 1.000)
         /// [Radix Color] orangeA12 (Dark)
-        static let orangeA12: Color = Color(h: 26, s: 1.000, l: 0.942, a: 0.980)
+        static let orangeA12: Color = Color(h: 30, s: 1.000, l: 0.880, a: 1.000)
     }
     /// [Radix Colors] Collection: pink
     class pink {
@@ -1787,11 +2003,11 @@ final class RadixColor {
         /// [Radix Color] pink9
         static let pink9: Color = Color(h: 322, s: 0.650, l: 0.545)
         /// [Radix Color] pink10
-        static let pink10: Color = Color(h: 322, s: 0.639, l: 0.507)
+        static let pink10: Color = Color(h: 322, s: 0.620, l: 0.496)
         /// [Radix Color] pink11
-        static let pink11: Color = Color(h: 322, s: 0.750, l: 0.460)
+        static let pink11: Color = Color(h: 322, s: 0.750, l: 0.440)
         /// [Radix Color] pink12
-        static let pink12: Color = Color(h: 320, s: 0.700, l: 0.135)
+        static let pink12: Color = Color(h: 320, s: 0.700, l: 0.232)
     }
     /// [Radix Colors] Collection: pinkA
     class pinkA {
@@ -1814,65 +2030,65 @@ final class RadixColor {
         /// [Radix Color] pinkA9
         static let pinkA9: Color = Color(h: 322, s: 0.997, l: 0.393, a: 0.750)
         /// [Radix Color] pinkA10
-        static let pinkA10: Color = Color(h: 322, s: 1.000, l: 0.391, a: 0.808)
+        static let pinkA10: Color = Color(h: 322, s: 0.999, l: 0.379, a: 0.812)
         /// [Radix Color] pinkA11
-        static let pinkA11: Color = Color(h: 322, s: 0.998, l: 0.390, a: 0.887)
+        static let pinkA11: Color = Color(h: 322, s: 0.998, l: 0.371, a: 0.891)
         /// [Radix Color] pinkA12
-        static let pinkA12: Color = Color(h: 321, s: 0.998, l: 0.100, a: 0.961)
+        static let pinkA12: Color = Color(h: 320, s: 0.996, l: 0.176, a: 0.930)
     }
     /// [Radix Colors] Collection: pinkDark
     class pinkDark {
         /// [Radix Color] pink1 (Dark)
         static let pink1: Color = Color(h: 318, s: 0.250, l: 0.096)
         /// [Radix Color] pink2 (Dark)
-        static let pink2: Color = Color(h: 319, s: 0.322, l: 0.116)
+        static let pink2: Color = Color(h: 318, s: 0.323, l: 0.122)
         /// [Radix Color] pink3 (Dark)
-        static let pink3: Color = Color(h: 319, s: 0.410, l: 0.160)
+        static let pink3: Color = Color(h: 318, s: 0.371, l: 0.157)
         /// [Radix Color] pink4 (Dark)
-        static let pink4: Color = Color(h: 320, s: 0.454, l: 0.187)
+        static let pink4: Color = Color(h: 319, s: 0.398, l: 0.181)
         /// [Radix Color] pink5 (Dark)
-        static let pink5: Color = Color(h: 320, s: 0.490, l: 0.211)
+        static let pink5: Color = Color(h: 319, s: 0.423, l: 0.208)
         /// [Radix Color] pink6 (Dark)
-        static let pink6: Color = Color(h: 321, s: 0.536, l: 0.244)
+        static let pink6: Color = Color(h: 319, s: 0.458, l: 0.249)
         /// [Radix Color] pink7 (Dark)
-        static let pink7: Color = Color(h: 321, s: 0.611, l: 0.297)
+        static let pink7: Color = Color(h: 320, s: 0.512, l: 0.322)
         /// [Radix Color] pink8 (Dark)
-        static let pink8: Color = Color(h: 322, s: 0.749, l: 0.375)
+        static let pink8: Color = Color(h: 322, s: 0.600, l: 0.461)
         /// [Radix Color] pink9 (Dark)
         static let pink9: Color = Color(h: 322, s: 0.650, l: 0.545)
         /// [Radix Color] pink10 (Dark)
-        static let pink10: Color = Color(h: 323, s: 0.728, l: 0.592)
+        static let pink10: Color = Color(h: 324, s: 0.715, l: 0.632)
         /// [Radix Color] pink11 (Dark)
-        static let pink11: Color = Color(h: 325, s: 0.900, l: 0.664)
+        static let pink11: Color = Color(h: 325, s: 0.900, l: 0.750)
         /// [Radix Color] pink12 (Dark)
-        static let pink12: Color = Color(h: 322, s: 0.900, l: 0.958)
+        static let pink12: Color = Color(h: 325, s: 0.900, l: 0.905)
     }
     /// [Radix Colors] Collection: pinkDarkA
     class pinkDarkA {
         /// [Radix Color] pinkA1 (Dark)
-        static let pinkA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let pinkA1: Color = Color(h: 331, s: 1.000, l: 0.490, a: 0.031)
         /// [Radix Color] pinkA2 (Dark)
-        static let pinkA2: Color = Color(h: 320, s: 0.981, l: 0.641, a: 0.036)
+        static let pinkA2: Color = Color(h: 319, s: 1.000, l: 0.498, a: 0.074)
         /// [Radix Color] pinkA3 (Dark)
-        static let pinkA3: Color = Color(h: 320, s: 0.991, l: 0.631, a: 0.121)
+        static let pinkA3: Color = Color(h: 318, s: 0.988, l: 0.559, a: 0.135)
         /// [Radix Color] pinkA4 (Dark)
-        static let pinkA4: Color = Color(h: 320, s: 0.995, l: 0.627, a: 0.170)
+        static let pinkA4: Color = Color(h: 319, s: 0.994, l: 0.590, a: 0.178)
         /// [Radix Color] pinkA5 (Dark)
-        static let pinkA5: Color = Color(h: 319, s: 0.997, l: 0.615, a: 0.219)
+        static let pinkA5: Color = Color(h: 319, s: 0.998, l: 0.609, a: 0.221)
         /// [Radix Color] pinkA6 (Dark)
-        static let pinkA6: Color = Color(h: 322, s: 0.994, l: 0.608, a: 0.291)
+        static let pinkA6: Color = Color(h: 319, s: 0.998, l: 0.612, a: 0.299)
         /// [Radix Color] pinkA7 (Dark)
-        static let pinkA7: Color = Color(h: 321, s: 0.996, l: 0.587, a: 0.407)
+        static let pinkA7: Color = Color(h: 320, s: 0.999, l: 0.619, a: 0.433)
         /// [Radix Color] pinkA8 (Dark)
-        static let pinkA8: Color = Color(h: 322, s: 0.997, l: 0.554, a: 0.608)
+        static let pinkA8: Color = Color(h: 322, s: 1.000, l: 0.611, a: 0.710)
         /// [Radix Color] pinkA9 (Dark)
-        static let pinkA9: Color = Color(h: 322, s: 1.000, l: 0.646, a: 0.817)
+        static let pinkA9: Color = Color(h: 322, s: 0.998, l: 0.642, a: 0.823)
         /// [Radix Color] pinkA10 (Dark)
-        static let pinkA10: Color = Color(h: 323, s: 1.000, l: 0.663, a: 0.875)
+        static let pinkA10: Color = Color(h: 324, s: 0.997, l: 0.702, a: 0.884)
         /// [Radix Color] pinkA11 (Dark)
-        static let pinkA11: Color = Color(h: 325, s: 0.999, l: 0.686, a: 0.960)
+        static let pinkA11: Color = Color(h: 325, s: 0.996, l: 0.768, a: 0.975)
         /// [Radix Color] pinkA12 (Dark)
-        static let pinkA12: Color = Color(h: 314, s: 1.000, l: 0.969, a: 0.980)
+        static let pinkA12: Color = Color(h: 326, s: 0.993, l: 0.912, a: 0.992)
     }
     /// [Radix Colors] Collection: plum
     class plum {
@@ -1899,7 +2115,7 @@ final class RadixColor {
         /// [Radix Color] plum11
         static let plum11: Color = Color(h: 292, s: 0.600, l: 0.425)
         /// [Radix Color] plum12
-        static let plum12: Color = Color(h: 291, s: 0.660, l: 0.140)
+        static let plum12: Color = Color(h: 291, s: 0.570, l: 0.232)
     }
     /// [Radix Colors] Collection: plumA
     class plumA {
@@ -1926,61 +2142,61 @@ final class RadixColor {
         /// [Radix Color] plumA11
         static let plumA11: Color = Color(h: 292, s: 0.998, l: 0.307, a: 0.832)
         /// [Radix Color] plumA12
-        static let plumA12: Color = Color(h: 291, s: 0.999, l: 0.097, a: 0.953)
+        static let plumA12: Color = Color(h: 291, s: 1.000, l: 0.148, a: 0.902)
     }
     /// [Radix Colors] Collection: plumDark
     class plumDark {
         /// [Radix Color] plum1 (Dark)
         static let plum1: Color = Color(h: 301, s: 0.200, l: 0.094)
         /// [Radix Color] plum2 (Dark)
-        static let plum2: Color = Color(h: 300, s: 0.298, l: 0.112)
+        static let plum2: Color = Color(h: 300, s: 0.288, l: 0.116)
         /// [Radix Color] plum3 (Dark)
-        static let plum3: Color = Color(h: 298, s: 0.344, l: 0.153)
+        static let plum3: Color = Color(h: 299, s: 0.318, l: 0.155)
         /// [Radix Color] plum4 (Dark)
-        static let plum4: Color = Color(h: 297, s: 0.368, l: 0.183)
+        static let plum4: Color = Color(h: 298, s: 0.334, l: 0.183)
         /// [Radix Color] plum5 (Dark)
-        static let plum5: Color = Color(h: 296, s: 0.385, l: 0.211)
+        static let plum5: Color = Color(h: 297, s: 0.346, l: 0.210)
         /// [Radix Color] plum6 (Dark)
-        static let plum6: Color = Color(h: 295, s: 0.404, l: 0.247)
+        static let plum6: Color = Color(h: 296, s: 0.360, l: 0.251)
         /// [Radix Color] plum7 (Dark)
-        static let plum7: Color = Color(h: 294, s: 0.427, l: 0.306)
+        static let plum7: Color = Color(h: 295, s: 0.379, l: 0.327)
         /// [Radix Color] plum8 (Dark)
-        static let plum8: Color = Color(h: 292, s: 0.451, l: 0.400)
+        static let plum8: Color = Color(h: 292, s: 0.402, l: 0.478)
         /// [Radix Color] plum9 (Dark)
         static let plum9: Color = Color(h: 292, s: 0.450, l: 0.510)
         /// [Radix Color] plum10 (Dark)
-        static let plum10: Color = Color(h: 295, s: 0.500, l: 0.554)
+        static let plum10: Color = Color(h: 291, s: 0.512, l: 0.602)
         /// [Radix Color] plum11 (Dark)
-        static let plum11: Color = Color(h: 300, s: 0.600, l: 0.620)
+        static let plum11: Color = Color(h: 290, s: 0.700, l: 0.740)
         /// [Radix Color] plum12 (Dark)
-        static let plum12: Color = Color(h: 296, s: 0.740, l: 0.957)
+        static let plum12: Color = Color(h: 300, s: 0.600, l: 0.895)
     }
     /// [Radix Colors] Collection: plumDarkA
     class plumDarkA {
         /// [Radix Color] plumA1 (Dark)
-        static let plumA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let plumA1: Color = Color(h: 300, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] plumA2 (Dark)
-        static let plumA2: Color = Color(h: 300, s: 0.964, l: 0.584, a: 0.036)
+        static let plumA2: Color = Color(h: 300, s: 1.000, l: 0.497, a: 0.061)
         /// [Radix Color] plumA3 (Dark)
-        static let plumA3: Color = Color(h: 300, s: 0.994, l: 0.671, a: 0.102)
+        static let plumA3: Color = Color(h: 300, s: 0.986, l: 0.592, a: 0.122)
         /// [Radix Color] plumA4 (Dark)
-        static let plumA4: Color = Color(h: 295, s: 0.998, l: 0.663, a: 0.155)
+        static let plumA4: Color = Color(h: 298, s: 0.993, l: 0.629, a: 0.165)
         /// [Radix Color] plumA5 (Dark)
-        static let plumA5: Color = Color(h: 295, s: 0.994, l: 0.671, a: 0.204)
+        static let plumA5: Color = Color(h: 297, s: 0.997, l: 0.650, a: 0.208)
         /// [Radix Color] plumA6 (Dark)
-        static let plumA6: Color = Color(h: 294, s: 0.990, l: 0.678, a: 0.262)
+        static let plumA6: Color = Color(h: 296, s: 0.997, l: 0.669, a: 0.273)
         /// [Radix Color] plumA7 (Dark)
-        static let plumA7: Color = Color(h: 294, s: 0.999, l: 0.677, a: 0.363)
+        static let plumA7: Color = Color(h: 295, s: 1.000, l: 0.686, a: 0.394)
         /// [Radix Color] plumA8 (Dark)
-        static let plumA8: Color = Color(h: 292, s: 0.998, l: 0.675, a: 0.527)
+        static let plumA8: Color = Color(h: 292, s: 0.997, l: 0.697, a: 0.637)
         /// [Radix Color] plumA9 (Dark)
-        static let plumA9: Color = Color(h: 292, s: 0.999, l: 0.692, a: 0.695)
+        static let plumA9: Color = Color(h: 292, s: 0.997, l: 0.686, a: 0.702)
         /// [Radix Color] plumA10 (Dark)
-        static let plumA10: Color = Color(h: 295, s: 0.999, l: 0.708, a: 0.748)
+        static let plumA10: Color = Color(h: 291, s: 0.998, l: 0.742, a: 0.784)
         /// [Radix Color] plumA11 (Dark)
-        static let plumA11: Color = Color(h: 300, s: 0.998, l: 0.729, a: 0.828)
+        static let plumA11: Color = Color(h: 290, s: 0.997, l: 0.800, a: 0.914)
         /// [Radix Color] plumA12 (Dark)
-        static let plumA12: Color = Color(h: 300, s: 1.000, l: 0.971, a: 0.980)
+        static let plumA12: Color = Color(h: 300, s: 0.991, l: 0.934, a: 0.953)
     }
     /// [Radix Colors] Collection: purple
     class purple {
@@ -2007,7 +2223,7 @@ final class RadixColor {
         /// [Radix Color] purple11
         static let purple11: Color = Color(h: 272, s: 0.500, l: 0.458)
         /// [Radix Color] purple12
-        static let purple12: Color = Color(h: 272, s: 0.660, l: 0.160)
+        static let purple12: Color = Color(h: 270, s: 0.500, l: 0.250)
     }
     /// [Radix Colors] Collection: purpleA
     class purpleA {
@@ -2034,68 +2250,68 @@ final class RadixColor {
         /// [Radix Color] purpleA11
         static let purpleA11: Color = Color(h: 272, s: 0.998, l: 0.297, a: 0.773)
         /// [Radix Color] purpleA12
-        static let purpleA12: Color = Color(h: 272, s: 0.992, l: 0.113, a: 0.946)
+        static let purpleA12: Color = Color(h: 270, s: 0.996, l: 0.144, a: 0.875)
     }
     /// [Radix Colors] Collection: purpleDark
     class purpleDark {
         /// [Radix Color] purple1 (Dark)
         static let purple1: Color = Color(h: 284, s: 0.200, l: 0.096)
         /// [Radix Color] purple2 (Dark)
-        static let purple2: Color = Color(h: 283, s: 0.300, l: 0.118)
+        static let purple2: Color = Color(h: 284, s: 0.311, l: 0.120)
         /// [Radix Color] purple3 (Dark)
-        static let purple3: Color = Color(h: 281, s: 0.375, l: 0.165)
+        static let purple3: Color = Color(h: 282, s: 0.351, l: 0.168)
         /// [Radix Color] purple4 (Dark)
-        static let purple4: Color = Color(h: 280, s: 0.412, l: 0.200)
+        static let purple4: Color = Color(h: 281, s: 0.369, l: 0.201)
         /// [Radix Color] purple5 (Dark)
-        static let purple5: Color = Color(h: 279, s: 0.438, l: 0.233)
+        static let purple5: Color = Color(h: 280, s: 0.381, l: 0.230)
         /// [Radix Color] purple6 (Dark)
-        static let purple6: Color = Color(h: 277, s: 0.464, l: 0.275)
+        static let purple6: Color = Color(h: 278, s: 0.395, l: 0.273)
         /// [Radix Color] purple7 (Dark)
-        static let purple7: Color = Color(h: 275, s: 0.493, l: 0.346)
+        static let purple7: Color = Color(h: 276, s: 0.411, l: 0.351)
         /// [Radix Color] purple8 (Dark)
-        static let purple8: Color = Color(h: 272, s: 0.521, l: 0.459)
+        static let purple8: Color = Color(h: 272, s: 0.427, l: 0.500)
         /// [Radix Color] purple9 (Dark)
         static let purple9: Color = Color(h: 272, s: 0.510, l: 0.540)
         /// [Radix Color] purple10 (Dark)
-        static let purple10: Color = Color(h: 273, s: 0.573, l: 0.591)
+        static let purple10: Color = Color(h: 271, s: 0.578, l: 0.612)
         /// [Radix Color] purple11 (Dark)
-        static let purple11: Color = Color(h: 275, s: 0.800, l: 0.710)
+        static let purple11: Color = Color(h: 270, s: 0.900, l: 0.780)
         /// [Radix Color] purple12 (Dark)
-        static let purple12: Color = Color(h: 279, s: 0.750, l: 0.957)
+        static let purple12: Color = Color(h: 275, s: 0.750, l: 0.915)
     }
     /// [Radix Colors] Collection: purpleDarkA
     class purpleDarkA {
         /// [Radix Color] purpleA1 (Dark)
-        static let purpleA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let purpleA1: Color = Color(h: 278, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] purpleA2 (Dark)
-        static let purpleA2: Color = Color(h: 280, s: 0.965, l: 0.575, a: 0.045)
+        static let purpleA2: Color = Color(h: 283, s: 1.000, l: 0.495, a: 0.070)
         /// [Radix Color] purpleA3 (Dark)
-        static let purpleA3: Color = Color(h: 279, s: 0.987, l: 0.628, a: 0.129)
+        static let purpleA3: Color = Color(h: 282, s: 0.988, l: 0.598, a: 0.148)
         /// [Radix Color] purpleA4 (Dark)
-        static let purpleA4: Color = Color(h: 279, s: 0.991, l: 0.640, a: 0.191)
+        static let purpleA4: Color = Color(h: 281, s: 0.990, l: 0.624, a: 0.200)
         /// [Radix Color] purpleA5 (Dark)
-        static let purpleA5: Color = Color(h: 278, s: 0.998, l: 0.642, a: 0.248)
+        static let purpleA5: Color = Color(h: 280, s: 0.997, l: 0.642, a: 0.247)
         /// [Radix Color] purpleA6 (Dark)
-        static let purpleA6: Color = Color(h: 276, s: 0.996, l: 0.646, a: 0.328)
+        static let purpleA6: Color = Color(h: 278, s: 0.992, l: 0.657, a: 0.317)
         /// [Radix Color] purpleA7 (Dark)
-        static let purpleA7: Color = Color(h: 274, s: 0.999, l: 0.646, a: 0.456)
+        static let purpleA7: Color = Color(h: 276, s: 0.997, l: 0.675, a: 0.442)
         /// [Radix Color] purpleA8 (Dark)
-        static let purpleA8: Color = Color(h: 272, s: 0.997, l: 0.646, a: 0.660)
+        static let purpleA8: Color = Color(h: 272, s: 1.000, l: 0.688, a: 0.684)
         /// [Radix Color] purpleA9 (Dark)
-        static let purpleA9: Color = Color(h: 272, s: 0.999, l: 0.691, a: 0.748)
+        static let purpleA9: Color = Color(h: 272, s: 0.997, l: 0.687, a: 0.754)
         /// [Radix Color] purpleA10 (Dark)
-        static let purpleA10: Color = Color(h: 273, s: 1.000, l: 0.713, a: 0.801)
+        static let purpleA10: Color = Color(h: 271, s: 0.997, l: 0.726, a: 0.819)
         /// [Radix Color] purpleA11 (Dark)
-        static let purpleA11: Color = Color(h: 275, s: 0.999, l: 0.753, a: 0.934)
+        static let purpleA11: Color = Color(h: 270, s: 0.996, l: 0.796, a: 0.975)
         /// [Radix Color] purpleA12 (Dark)
-        static let purpleA12: Color = Color(h: 286, s: 1.000, l: 0.971, a: 0.980)
+        static let purpleA12: Color = Color(h: 275, s: 0.991, l: 0.933, a: 0.979)
     }
     /// [Radix Colors] Collection: red
     class red {
         /// [Radix Color] red1
         static let red1: Color = Color(h: 359, s: 1.000, l: 0.994)
         /// [Radix Color] red2
-        static let red2: Color = Color(h: 359, s: 1.000, l: 0.986)
+        static let red2: Color = Color(h: 0, s: 1.000, l: 0.984)
         /// [Radix Color] red3
         static let red3: Color = Color(h: 360, s: 1.000, l: 0.968)
         /// [Radix Color] red4
@@ -2111,11 +2327,11 @@ final class RadixColor {
         /// [Radix Color] red9
         static let red9: Color = Color(h: 358, s: 0.750, l: 0.590)
         /// [Radix Color] red10
-        static let red10: Color = Color(h: 358, s: 0.694, l: 0.552)
+        static let red10: Color = Color(h: 358, s: 0.674, l: 0.546)
         /// [Radix Color] red11
-        static let red11: Color = Color(h: 358, s: 0.650, l: 0.487)
+        static let red11: Color = Color(h: 358, s: 0.650, l: 0.470)
         /// [Radix Color] red12
-        static let red12: Color = Color(h: 354, s: 0.500, l: 0.146)
+        static let red12: Color = Color(h: 350, s: 0.630, l: 0.240)
     }
     /// [Radix Colors] Collection: redA
     class redA {
@@ -2138,173 +2354,281 @@ final class RadixColor {
         /// [Radix Color] redA9
         static let redA9: Color = Color(h: 358, s: 0.999, l: 0.429, a: 0.718)
         /// [Radix Color] redA10
-        static let redA10: Color = Color(h: 358, s: 0.999, l: 0.410, a: 0.761)
+        static let redA10: Color = Color(h: 358, s: 0.999, l: 0.402, a: 0.761)
         /// [Radix Color] redA11
-        static let redA11: Color = Color(h: 358, s: 0.998, l: 0.383, a: 0.832)
+        static let redA11: Color = Color(h: 358, s: 0.998, l: 0.367, a: 0.836)
         /// [Radix Color] redA12
-        static let redA12: Color = Color(h: 355, s: 0.993, l: 0.079, a: 0.926)
+        static let redA12: Color = Color(h: 351, s: 0.999, l: 0.166, a: 0.910)
     }
     /// [Radix Colors] Collection: redDark
     class redDark {
         /// [Radix Color] red1 (Dark)
         static let red1: Color = Color(h: 353, s: 0.230, l: 0.098)
         /// [Radix Color] red2 (Dark)
-        static let red2: Color = Color(h: 357, s: 0.344, l: 0.120)
+        static let red2: Color = Color(h: 354, s: 0.302, l: 0.124)
         /// [Radix Color] red3 (Dark)
-        static let red3: Color = Color(h: 356, s: 0.434, l: 0.164)
+        static let red3: Color = Color(h: 353, s: 0.408, l: 0.164)
         /// [Radix Color] red4 (Dark)
-        static let red4: Color = Color(h: 356, s: 0.476, l: 0.192)
+        static let red4: Color = Color(h: 353, s: 0.463, l: 0.192)
         /// [Radix Color] red5 (Dark)
-        static let red5: Color = Color(h: 356, s: 0.511, l: 0.219)
+        static let red5: Color = Color(h: 353, s: 0.512, l: 0.221)
         /// [Radix Color] red6 (Dark)
-        static let red6: Color = Color(h: 356, s: 0.552, l: 0.259)
+        static let red6: Color = Color(h: 353, s: 0.573, l: 0.262)
         /// [Radix Color] red7 (Dark)
-        static let red7: Color = Color(h: 357, s: 0.602, l: 0.318)
+        static let red7: Color = Color(h: 354, s: 0.657, l: 0.332)
         /// [Radix Color] red8 (Dark)
-        static let red8: Color = Color(h: 358, s: 0.650, l: 0.404)
+        static let red8: Color = Color(h: 358, s: 0.750, l: 0.471)
         /// [Radix Color] red9 (Dark)
         static let red9: Color = Color(h: 358, s: 0.750, l: 0.590)
         /// [Radix Color] red10 (Dark)
-        static let red10: Color = Color(h: 358, s: 0.853, l: 0.640)
+        static let red10: Color = Color(h: 359, s: 0.848, l: 0.676)
         /// [Radix Color] red11 (Dark)
-        static let red11: Color = Color(h: 358, s: 1.000, l: 0.695)
+        static let red11: Color = Color(h: 358, s: 1.000, l: 0.760)
         /// [Radix Color] red12 (Dark)
-        static let red12: Color = Color(h: 351, s: 0.890, l: 0.960)
+        static let red12: Color = Color(h: 350, s: 1.000, l: 0.910)
     }
     /// [Radix Colors] Collection: redDarkA
     class redDarkA {
         /// [Radix Color] redA1 (Dark)
-        static let redA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let redA1: Color = Color(h: 0, s: 1.000, l: 0.490, a: 0.031)
         /// [Radix Color] redA2 (Dark)
-        static let redA2: Color = Color(h: 5, s: 0.985, l: 0.538, a: 0.045)
+        static let redA2: Color = Color(h: 354, s: 1.000, l: 0.498, a: 0.074)
         /// [Radix Color] redA3 (Dark)
-        static let redA3: Color = Color(h: 359, s: 0.991, l: 0.611, a: 0.130)
+        static let redA3: Color = Color(h: 353, s: 0.993, l: 0.559, a: 0.152)
         /// [Radix Color] redA4 (Dark)
-        static let redA4: Color = Color(h: 358, s: 0.988, l: 0.610, a: 0.184)
+        static let redA4: Color = Color(h: 352, s: 0.998, l: 0.565, a: 0.208)
         /// [Radix Color] redA5 (Dark)
-        static let redA5: Color = Color(h: 357, s: 0.996, l: 0.603, a: 0.237)
+        static let redA5: Color = Color(h: 354, s: 0.993, l: 0.575, a: 0.265)
         /// [Radix Color] redA6 (Dark)
-        static let redA6: Color = Color(h: 358, s: 0.996, l: 0.603, a: 0.322)
+        static let redA6: Color = Color(h: 354, s: 0.998, l: 0.575, a: 0.351)
         /// [Radix Color] redA7 (Dark)
-        static let redA7: Color = Color(h: 357, s: 1.000, l: 0.595, a: 0.442)
+        static let redA7: Color = Color(h: 354, s: 0.997, l: 0.566, a: 0.503)
         /// [Radix Color] redA8 (Dark)
-        static let redA8: Color = Color(h: 358, s: 0.998, l: 0.591, a: 0.621)
+        static let redA8: Color = Color(h: 358, s: 0.998, l: 0.561, a: 0.806)
         /// [Radix Color] redA9 (Dark)
-        static let redA9: Color = Color(h: 358, s: 1.000, l: 0.655, a: 0.884)
+        static let redA9: Color = Color(h: 358, s: 0.998, l: 0.653, a: 0.888)
         /// [Radix Color] redA10 (Dark)
-        static let redA10: Color = Color(h: 358, s: 1.000, l: 0.675, a: 0.942)
+        static let redA10: Color = Color(h: 359, s: 0.999, l: 0.709, a: 0.944)
         /// [Radix Color] redA11 (Dark)
-        static let redA11: Color = Color(h: 358, s: 1.000, l: 0.697, a: 0.980)
+        static let redA11: Color = Color(h: 358, s: 1.000, l: 0.761, a: 1.000)
         /// [Radix Color] redA12 (Dark)
-        static let redA12: Color = Color(h: 352, s: 1.000, l: 0.971, a: 0.980)
+        static let redA12: Color = Color(h: 350, s: 1.000, l: 0.910, a: 1.000)
+    }
+    /// [Radix Colors] Collection: ruby
+    class ruby {
+        /// [Radix Color] ruby1
+        static let ruby1: Color = Color(h: 348, s: 1.000, l: 0.995)
+        /// [Radix Color] ruby2
+        static let ruby2: Color = Color(h: 345, s: 1.000, l: 0.984)
+        /// [Radix Color] ruby3
+        static let ruby3: Color = Color(h: 345, s: 0.899, l: 0.967)
+        /// [Radix Color] ruby4
+        static let ruby4: Color = Color(h: 346, s: 0.826, l: 0.944)
+        /// [Radix Color] ruby5
+        static let ruby5: Color = Color(h: 346, s: 0.758, l: 0.914)
+        /// [Radix Color] ruby6
+        static let ruby6: Color = Color(h: 347, s: 0.693, l: 0.871)
+        /// [Radix Color] ruby7
+        static let ruby7: Color = Color(h: 348, s: 0.643, l: 0.809)
+        /// [Radix Color] ruby8
+        static let ruby8: Color = Color(h: 348, s: 0.615, l: 0.735)
+        /// [Radix Color] ruby9
+        static let ruby9: Color = Color(h: 348, s: 0.750, l: 0.585)
+        /// [Radix Color] ruby10
+        static let ruby10: Color = Color(h: 347, s: 0.686, l: 0.541)
+        /// [Radix Color] ruby11
+        static let ruby11: Color = Color(h: 345, s: 0.700, l: 0.465)
+        /// [Radix Color] ruby12
+        static let ruby12: Color = Color(h: 344, s: 0.630, l: 0.240)
+    }
+    /// [Radix Colors] Collection: rubyA
+    class rubyA {
+        /// [Radix Color] rubyA1
+        static let rubyA1: Color = Color(h: 340, s: 1.000, l: 0.510, a: 0.012)
+        /// [Radix Color] rubyA2
+        static let rubyA2: Color = Color(h: 345, s: 1.000, l: 0.510, a: 0.032)
+        /// [Radix Color] rubyA3
+        static let rubyA3: Color = Color(h: 344, s: 0.991, l: 0.471, a: 0.063)
+        /// [Radix Color] rubyA4
+        static let rubyA4: Color = Color(h: 348, s: 0.999, l: 0.462, a: 0.102)
+        /// [Radix Color] rubyA5
+        static let rubyA5: Color = Color(h: 346, s: 0.999, l: 0.436, a: 0.153)
+        /// [Radix Color] rubyA6
+        static let rubyA6: Color = Color(h: 347, s: 0.996, l: 0.412, a: 0.220)
+        /// [Radix Color] rubyA7
+        static let rubyA7: Color = Color(h: 348, s: 0.998, l: 0.394, a: 0.314)
+        /// [Radix Color] rubyA8
+        static let rubyA8: Color = Color(h: 348, s: 0.997, l: 0.382, a: 0.428)
+        /// [Radix Color] rubyA9
+        static let rubyA9: Color = Color(h: 348, s: 0.998, l: 0.430, a: 0.726)
+        /// [Radix Color] rubyA10
+        static let rubyA10: Color = Color(h: 347, s: 0.999, l: 0.406, a: 0.773)
+        /// [Radix Color] rubyA11
+        static let rubyA11: Color = Color(h: 345, s: 0.999, l: 0.379, a: 0.859)
+        /// [Radix Color] rubyA12
+        static let rubyA12: Color = Color(h: 344, s: 0.999, l: 0.166, a: 0.910)
+    }
+    /// [Radix Colors] Collection: rubyDark
+    class rubyDark {
+        /// [Radix Color] ruby1 (Dark)
+        static let ruby1: Color = Color(h: 343, s: 0.230, l: 0.100)
+        /// [Radix Color] ruby2 (Dark)
+        static let ruby2: Color = Color(h: 349, s: 0.333, l: 0.124)
+        /// [Radix Color] ruby3 (Dark)
+        static let ruby3: Color = Color(h: 348, s: 0.422, l: 0.164)
+        /// [Radix Color] ruby4 (Dark)
+        static let ruby4: Color = Color(h: 348, s: 0.468, l: 0.191)
+        /// [Radix Color] ruby5 (Dark)
+        static let ruby5: Color = Color(h: 348, s: 0.507, l: 0.217)
+        /// [Radix Color] ruby6 (Dark)
+        static let ruby6: Color = Color(h: 348, s: 0.560, l: 0.257)
+        /// [Radix Color] ruby7 (Dark)
+        static let ruby7: Color = Color(h: 348, s: 0.643, l: 0.330)
+        /// [Radix Color] ruby8 (Dark)
+        static let ruby8: Color = Color(h: 348, s: 0.770, l: 0.461)
+        /// [Radix Color] ruby9 (Dark)
+        static let ruby9: Color = Color(h: 348, s: 0.750, l: 0.585)
+        /// [Radix Color] ruby10 (Dark)
+        static let ruby10: Color = Color(h: 349, s: 0.841, l: 0.671)
+        /// [Radix Color] ruby11 (Dark)
+        static let ruby11: Color = Color(h: 348, s: 1.000, l: 0.760)
+        /// [Radix Color] ruby12 (Dark)
+        static let ruby12: Color = Color(h: 340, s: 0.950, l: 0.910)
+    }
+    /// [Radix Colors] Collection: rubyDarkA
+    class rubyDarkA {
+        /// [Radix Color] rubyA1 (Dark)
+        static let rubyA1: Color = Color(h: 0, s: 1.000, l: 0.490, a: 0.031)
+        /// [Radix Color] rubyA2 (Dark)
+        static let rubyA2: Color = Color(h: 351, s: 1.000, l: 0.500, a: 0.078)
+        /// [Radix Color] rubyA3 (Dark)
+        static let rubyA3: Color = Color(h: 348, s: 0.994, l: 0.546, a: 0.152)
+        /// [Radix Color] rubyA4 (Dark)
+        static let rubyA4: Color = Color(h: 348, s: 0.995, l: 0.565, a: 0.204)
+        /// [Radix Color] rubyA5 (Dark)
+        static let rubyA5: Color = Color(h: 347, s: 0.995, l: 0.569, a: 0.256)
+        /// [Radix Color] rubyA6 (Dark)
+        static let rubyA6: Color = Color(h: 348, s: 0.998, l: 0.576, a: 0.338)
+        /// [Radix Color] rubyA7 (Dark)
+        static let rubyA7: Color = Color(h: 348, s: 0.998, l: 0.570, a: 0.494)
+        /// [Radix Color] rubyA8 (Dark)
+        static let rubyA8: Color = Color(h: 348, s: 0.999, l: 0.554, a: 0.797)
+        /// [Radix Color] rubyA9 (Dark)
+        static let rubyA9: Color = Color(h: 348, s: 0.998, l: 0.648, a: 0.888)
+        /// [Radix Color] rubyA10 (Dark)
+        static let rubyA10: Color = Color(h: 349, s: 0.999, l: 0.707, a: 0.944)
+        /// [Radix Color] rubyA11 (Dark)
+        static let rubyA11: Color = Color(h: 348, s: 1.000, l: 0.761, a: 1.000)
+        /// [Radix Color] rubyA12 (Dark)
+        static let rubyA12: Color = Color(h: 340, s: 0.997, l: 0.913, a: 0.996)
     }
     /// [Radix Colors] Collection: sage
     class sage {
         /// [Radix Color] sage1
         static let sage1: Color = Color(h: 155, s: 0.300, l: 0.988)
         /// [Radix Color] sage2
-        static let sage2: Color = Color(h: 150, s: 0.167, l: 0.976)
+        static let sage2: Color = Color(h: 150, s: 0.143, l: 0.973)
         /// [Radix Color] sage3
-        static let sage3: Color = Color(h: 151, s: 0.106, l: 0.952)
+        static let sage3: Color = Color(h: 150, s: 0.080, l: 0.945)
         /// [Radix Color] sage4
-        static let sage4: Color = Color(h: 151, s: 0.088, l: 0.930)
+        static let sage4: Color = Color(h: 150, s: 0.060, l: 0.920)
         /// [Radix Color] sage5
-        static let sage5: Color = Color(h: 151, s: 0.078, l: 0.908)
+        static let sage5: Color = Color(h: 150, s: 0.049, l: 0.895)
         /// [Radix Color] sage6
-        static let sage6: Color = Color(h: 152, s: 0.072, l: 0.884)
+        static let sage6: Color = Color(h: 150, s: 0.043, l: 0.867)
         /// [Radix Color] sage7
-        static let sage7: Color = Color(h: 153, s: 0.067, l: 0.853)
+        static let sage7: Color = Color(h: 150, s: 0.037, l: 0.828)
         /// [Radix Color] sage8
-        static let sage8: Color = Color(h: 154, s: 0.061, l: 0.775)
+        static let sage8: Color = Color(h: 150, s: 0.029, l: 0.729)
         /// [Radix Color] sage9
-        static let sage9: Color = Color(h: 155, s: 0.035, l: 0.555)
+        static let sage9: Color = Color(h: 155, s: 0.035, l: 0.542)
         /// [Radix Color] sage10
-        static let sage10: Color = Color(h: 154, s: 0.028, l: 0.517)
+        static let sage10: Color = Color(h: 158, s: 0.029, l: 0.493)
         /// [Radix Color] sage11
-        static let sage11: Color = Color(h: 155, s: 0.030, l: 0.430)
+        static let sage11: Color = Color(h: 155, s: 0.030, l: 0.385)
         /// [Radix Color] sage12
-        static let sage12: Color = Color(h: 155, s: 0.240, l: 0.090)
+        static let sage12: Color = Color(h: 155, s: 0.120, l: 0.115)
     }
     /// [Radix Colors] Collection: sageA
     class sageA {
         /// [Radix Color] sageA1
         static let sageA1: Color = Color(h: 150, s: 0.926, l: 0.265, a: 0.016)
         /// [Radix Color] sageA2
-        static let sageA2: Color = Color(h: 150, s: 0.877, l: 0.160, a: 0.028)
+        static let sageA2: Color = Color(h: 150, s: 0.862, l: 0.142, a: 0.032)
         /// [Radix Color] sageA3
-        static let sageA3: Color = Color(h: 160, s: 0.984, l: 0.109, a: 0.055)
+        static let sageA3: Color = Color(h: 150, s: 0.957, l: 0.069, a: 0.059)
         /// [Radix Color] sageA4
-        static let sageA4: Color = Color(h: 140, s: 0.923, l: 0.085, a: 0.075)
+        static let sageA4: Color = Color(h: 160, s: 0.890, l: 0.076, a: 0.087)
         /// [Radix Color] sageA5
-        static let sageA5: Color = Color(h: 160, s: 0.860, l: 0.069, a: 0.099)
+        static let sageA5: Color = Color(h: 140, s: 0.968, l: 0.055, a: 0.110)
         /// [Radix Color] sageA6
-        static let sageA6: Color = Color(h: 156, s: 0.951, l: 0.082, a: 0.126)
+        static let sageA6: Color = Color(h: 140, s: 0.888, l: 0.048, a: 0.138)
         /// [Radix Color] sageA7
-        static let sageA7: Color = Color(h: 156, s: 0.986, l: 0.063, a: 0.157)
+        static let sageA7: Color = Color(h: 140, s: 0.917, l: 0.036, a: 0.177)
         /// [Radix Color] sageA8
-        static let sageA8: Color = Color(h: 154, s: 0.946, l: 0.060, a: 0.240)
+        static let sageA8: Color = Color(h: 150, s: 0.932, l: 0.030, a: 0.279)
         /// [Radix Color] sageA9
-        static let sageA9: Color = Color(h: 154, s: 0.987, l: 0.030, a: 0.459)
+        static let sageA9: Color = Color(h: 158, s: 0.970, l: 0.034, a: 0.475)
         /// [Radix Color] sageA10
-        static let sageA10: Color = Color(h: 154, s: 0.935, l: 0.029, a: 0.499)
+        static let sageA10: Color = Color(h: 163, s: 0.970, l: 0.027, a: 0.522)
         /// [Radix Color] sageA11
-        static let sageA11: Color = Color(h: 154, s: 0.952, l: 0.025, a: 0.585)
+        static let sageA11: Color = Color(h: 160, s: 0.955, l: 0.020, a: 0.628)
         /// [Radix Color] sageA12
-        static let sageA12: Color = Color(h: 158, s: 0.970, l: 0.024, a: 0.934)
+        static let sageA12: Color = Color(h: 154, s: 0.935, l: 0.016, a: 0.899)
     }
     /// [Radix Colors] Collection: sageDark
     class sageDark {
         /// [Radix Color] sage1 (Dark)
-        static let sage1: Color = Color(h: 155, s: 0.070, l: 0.084)
+        static let sage1: Color = Color(h: 155, s: 0.070, l: 0.092)
         /// [Radix Color] sage2 (Dark)
-        static let sage2: Color = Color(h: 150, s: 0.074, l: 0.106)
+        static let sage2: Color = Color(h: 150, s: 0.077, l: 0.102)
         /// [Radix Color] sage3 (Dark)
-        static let sage3: Color = Color(h: 150, s: 0.067, l: 0.131)
+        static let sage3: Color = Color(h: 151, s: 0.055, l: 0.152)
         /// [Radix Color] sage4 (Dark)
-        static let sage4: Color = Color(h: 150, s: 0.064, l: 0.153)
+        static let sage4: Color = Color(h: 152, s: 0.047, l: 0.183)
         /// [Radix Color] sage5 (Dark)
-        static let sage5: Color = Color(h: 150, s: 0.061, l: 0.174)
+        static let sage5: Color = Color(h: 153, s: 0.042, l: 0.211)
         /// [Radix Color] sage6 (Dark)
-        static let sage6: Color = Color(h: 150, s: 0.058, l: 0.199)
+        static let sage6: Color = Color(h: 153, s: 0.037, l: 0.242)
         /// [Radix Color] sage7 (Dark)
-        static let sage7: Color = Color(h: 150, s: 0.055, l: 0.236)
+        static let sage7: Color = Color(h: 154, s: 0.033, l: 0.287)
         /// [Radix Color] sage8 (Dark)
-        static let sage8: Color = Color(h: 150, s: 0.051, l: 0.306)
+        static let sage8: Color = Color(h: 156, s: 0.026, l: 0.371)
         /// [Radix Color] sage9 (Dark)
-        static let sage9: Color = Color(h: 155, s: 0.060, l: 0.425)
+        static let sage9: Color = Color(h: 155, s: 0.060, l: 0.415)
         /// [Radix Color] sage10 (Dark)
-        static let sage10: Color = Color(h: 153, s: 0.048, l: 0.482)
+        static let sage10: Color = Color(h: 157, s: 0.046, l: 0.492)
         /// [Radix Color] sage11 (Dark)
-        static let sage11: Color = Color(h: 155, s: 0.050, l: 0.618)
+        static let sage11: Color = Color(h: 155, s: 0.050, l: 0.683)
         /// [Radix Color] sage12 (Dark)
-        static let sage12: Color = Color(h: 155, s: 0.060, l: 0.930)
+        static let sage12: Color = Color(h: 155, s: 0.070, l: 0.930)
     }
     /// [Radix Colors] Collection: sageDarkA
     class sageDarkA {
         /// [Radix Color] sageA1 (Dark)
-        static let sageA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let sageA1: Color = Color(h: 126, s: 1.000, l: 0.439, a: 0.005)
         /// [Radix Color] sageA2 (Dark)
-        static let sageA2: Color = Color(h: 123, s: 0.944, l: 0.914, a: 0.026)
+        static let sageA2: Color = Color(h: 150, s: 0.927, l: 0.530, a: 0.018)
         /// [Radix Color] sageA3 (Dark)
-        static let sageA3: Color = Color(h: 123, s: 0.829, l: 0.910, a: 0.057)
+        static let sageA3: Color = Color(h: 150, s: 0.955, l: 0.889, a: 0.074)
         /// [Radix Color] sageA4 (Dark)
-        static let sageA4: Color = Color(h: 124, s: 0.979, l: 0.945, a: 0.082)
+        static let sageA4: Color = Color(h: 156, s: 0.933, l: 0.904, a: 0.109)
         /// [Radix Color] sageA5 (Dark)
-        static let sageA5: Color = Color(h: 125, s: 0.900, l: 0.952, a: 0.104)
+        static let sageA5: Color = Color(h: 150, s: 0.948, l: 0.940, a: 0.139)
         /// [Radix Color] sageA6 (Dark)
-        static let sageA6: Color = Color(h: 142, s: 0.951, l: 0.948, a: 0.134)
+        static let sageA6: Color = Color(h: 156, s: 0.928, l: 0.939, a: 0.174)
         /// [Radix Color] sageA7 (Dark)
-        static let sageA7: Color = Color(h: 143, s: 0.928, l: 0.957, a: 0.173)
+        static let sageA7: Color = Color(h: 156, s: 0.924, l: 0.953, a: 0.226)
         /// [Radix Color] sageA8 (Dark)
-        static let sageA8: Color = Color(h: 146, s: 0.947, l: 0.953, a: 0.255)
+        static let sageA8: Color = Color(h: 156, s: 0.917, l: 0.966, a: 0.317)
         /// [Radix Color] sageA9 (Dark)
-        static let sageA9: Color = Color(h: 151, s: 0.982, l: 0.944, a: 0.397)
+        static let sageA9: Color = Color(h: 157, s: 0.998, l: 0.933, a: 0.381)
         /// [Radix Color] sageA10 (Dark)
-        static let sageA10: Color = Color(h: 148, s: 0.995, l: 0.955, a: 0.457)
+        static let sageA10: Color = Color(h: 158, s: 0.968, l: 0.952, a: 0.464)
         /// [Radix Color] sageA11 (Dark)
-        static let sageA11: Color = Color(h: 152, s: 0.951, l: 0.973, a: 0.600)
+        static let sageA11: Color = Color(h: 158, s: 0.981, l: 0.976, a: 0.667)
         /// [Radix Color] sageA12 (Dark)
-        static let sageA12: Color = Color(h: 149, s: 0.933, l: 0.996, a: 0.927)
+        static let sageA12: Color = Color(h: 150, s: 0.880, l: 0.995, a: 0.927)
     }
     /// [Radix Colors] Collection: sand
     class sand {
@@ -2313,25 +2637,25 @@ final class RadixColor {
         /// [Radix Color] sand2
         static let sand2: Color = Color(h: 60, s: 0.077, l: 0.975)
         /// [Radix Color] sand3
-        static let sand3: Color = Color(h: 59, s: 0.065, l: 0.951)
+        static let sand3: Color = Color(h: 59, s: 0.058, l: 0.945)
         /// [Radix Color] sand4
-        static let sand4: Color = Color(h: 58, s: 0.061, l: 0.929)
+        static let sand4: Color = Color(h: 58, s: 0.053, l: 0.918)
         /// [Radix Color] sand5
-        static let sand5: Color = Color(h: 57, s: 0.060, l: 0.907)
+        static let sand5: Color = Color(h: 57, s: 0.051, l: 0.890)
         /// [Radix Color] sand6
-        static let sand6: Color = Color(h: 56, s: 0.059, l: 0.884)
+        static let sand6: Color = Color(h: 56, s: 0.050, l: 0.860)
         /// [Radix Color] sand7
-        static let sand7: Color = Color(h: 55, s: 0.059, l: 0.852)
+        static let sand7: Color = Color(h: 54, s: 0.049, l: 0.818)
         /// [Radix Color] sand8
-        static let sand8: Color = Color(h: 51, s: 0.060, l: 0.771)
+        static let sand8: Color = Color(h: 51, s: 0.050, l: 0.724)
         /// [Radix Color] sand9
-        static let sand9: Color = Color(h: 50, s: 0.020, l: 0.557)
+        static let sand9: Color = Color(h: 60, s: 0.030, l: 0.539)
         /// [Radix Color] sand10
-        static let sand10: Color = Color(h: 55, s: 0.017, l: 0.519)
+        static let sand10: Color = Color(h: 60, s: 0.026, l: 0.490)
         /// [Radix Color] sand11
-        static let sand11: Color = Color(h: 50, s: 0.020, l: 0.431)
+        static let sand11: Color = Color(h: 50, s: 0.025, l: 0.380)
         /// [Radix Color] sand12
-        static let sand12: Color = Color(h: 50, s: 0.060, l: 0.100)
+        static let sand12: Color = Color(h: 50, s: 0.080, l: 0.120)
     }
     /// [Radix Colors] Collection: sandA
     class sandA {
@@ -2340,79 +2664,79 @@ final class RadixColor {
         /// [Radix Color] sandA2
         static let sandA2: Color = Color(h: 60, s: 0.781, l: 0.090, a: 0.028)
         /// [Radix Color] sandA3
-        static let sandA3: Color = Color(h: 60, s: 0.990, l: 0.039, a: 0.051)
+        static let sandA3: Color = Color(h: 60, s: 0.957, l: 0.069, a: 0.059)
         /// [Radix Color] sandA4
-        static let sandA4: Color = Color(h: 60, s: 0.889, l: 0.059, a: 0.075)
+        static let sandA4: Color = Color(h: 60, s: 0.844, l: 0.053, a: 0.087)
         /// [Radix Color] sandA5
-        static let sandA5: Color = Color(h: 60, s: 0.860, l: 0.069, a: 0.099)
+        static let sandA5: Color = Color(h: 60, s: 0.935, l: 0.037, a: 0.114)
         /// [Radix Color] sandA6
-        static let sandA6: Color = Color(h: 60, s: 0.932, l: 0.052, a: 0.122)
+        static let sandA6: Color = Color(h: 60, s: 0.867, l: 0.046, a: 0.146)
         /// [Radix Color] sandA7
-        static let sandA7: Color = Color(h: 60, s: 0.983, l: 0.051, a: 0.157)
+        static let sandA7: Color = Color(h: 48, s: 0.921, l: 0.055, a: 0.193)
         /// [Radix Color] sandA8
-        static let sandA8: Color = Color(h: 51, s: 0.941, l: 0.060, a: 0.244)
+        static let sandA8: Color = Color(h: 51, s: 0.945, l: 0.050, a: 0.291)
         /// [Radix Color] sandA9
-        static let sandA9: Color = Color(h: 60, s: 0.998, l: 0.017, a: 0.451)
+        static let sandA9: Color = Color(h: 60, s: 0.966, l: 0.030, a: 0.475)
         /// [Radix Color] sandA10
-        static let sandA10: Color = Color(h: 60, s: 0.907, l: 0.018, a: 0.491)
+        static let sandA10: Color = Color(h: 60, s: 0.965, l: 0.023, a: 0.522)
         /// [Radix Color] sandA11
-        static let sandA11: Color = Color(h: 45, s: 0.937, l: 0.015, a: 0.577)
+        static let sandA11: Color = Color(h: 60, s: 0.940, l: 0.017, a: 0.632)
         /// [Radix Color] sandA12
-        static let sandA12: Color = Color(h: 60, s: 0.980, l: 0.007, a: 0.906)
+        static let sandA12: Color = Color(h: 48, s: 0.924, l: 0.012, a: 0.891)
     }
     /// [Radix Colors] Collection: sandDark
     class sandDark {
         /// [Radix Color] sand1 (Dark)
-        static let sand1: Color = Color(h: 61, s: 0.020, l: 0.083)
+        static let sand1: Color = Color(h: 60, s: 0.060, l: 0.090)
         /// [Radix Color] sand2 (Dark)
-        static let sand2: Color = Color(h: 60, s: 0.037, l: 0.106)
+        static let sand2: Color = Color(h: 60, s: 0.019, l: 0.104)
         /// [Radix Color] sand3 (Dark)
-        static let sand3: Color = Color(h: 58, s: 0.037, l: 0.131)
+        static let sand3: Color = Color(h: 56, s: 0.024, l: 0.154)
         /// [Radix Color] sand4 (Dark)
-        static let sand4: Color = Color(h: 57, s: 0.036, l: 0.153)
+        static let sand4: Color = Color(h: 53, s: 0.027, l: 0.184)
         /// [Radix Color] sand5 (Dark)
-        static let sand5: Color = Color(h: 56, s: 0.037, l: 0.174)
+        static let sand5: Color = Color(h: 51, s: 0.029, l: 0.212)
         /// [Radix Color] sand6 (Dark)
-        static let sand6: Color = Color(h: 55, s: 0.037, l: 0.199)
+        static let sand6: Color = Color(h: 49, s: 0.031, l: 0.243)
         /// [Radix Color] sand7 (Dark)
-        static let sand7: Color = Color(h: 53, s: 0.037, l: 0.236)
+        static let sand7: Color = Color(h: 47, s: 0.033, l: 0.287)
         /// [Radix Color] sand8 (Dark)
-        static let sand8: Color = Color(h: 50, s: 0.038, l: 0.306)
+        static let sand8: Color = Color(h: 43, s: 0.037, l: 0.371)
         /// [Radix Color] sand9 (Dark)
-        static let sand9: Color = Color(h: 50, s: 0.040, l: 0.427)
+        static let sand9: Color = Color(h: 50, s: 0.040, l: 0.418)
         /// [Radix Color] sand10 (Dark)
-        static let sand10: Color = Color(h: 52, s: 0.031, l: 0.483)
+        static let sand10: Color = Color(h: 48, s: 0.035, l: 0.495)
         /// [Radix Color] sand11 (Dark)
-        static let sand11: Color = Color(h: 50, s: 0.040, l: 0.618)
+        static let sand11: Color = Color(h: 50, s: 0.050, l: 0.683)
         /// [Radix Color] sand12 (Dark)
-        static let sand12: Color = Color(h: 56, s: 0.040, l: 0.928)
+        static let sand12: Color = Color(h: 56, s: 0.070, l: 0.930)
     }
     /// [Radix Colors] Collection: sandDarkA
     class sandDarkA {
         /// [Radix Color] sandA1 (Dark)
-        static let sandA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let sandA1: Color = Color(h: 60, s: 0.984, l: 0.047, a: 0.084)
         /// [Radix Color] sandA2 (Dark)
-        static let sandA2: Color = Color(h: 60, s: 0.898, l: 0.914, a: 0.026)
+        static let sandA2: Color = Color(h: 60, s: 0.994, l: 0.848, a: 0.013)
         /// [Radix Color] sandA3 (Dark)
-        static let sandA3: Color = Color(h: 60, s: 0.955, l: 0.925, a: 0.056)
+        static let sandA3: Color = Color(h: 60, s: 0.855, l: 0.934, a: 0.070)
         /// [Radix Color] sandA4 (Dark)
-        static let sandA4: Color = Color(h: 60, s: 0.756, l: 0.964, a: 0.078)
+        static let sandA4: Color = Color(h: 60, s: 0.977, l: 0.961, a: 0.104)
         /// [Radix Color] sandA5 (Dark)
-        static let sandA5: Color = Color(h: 60, s: 0.819, l: 0.952, a: 0.104)
+        static let sandA5: Color = Color(h: 45, s: 0.948, l: 0.940, a: 0.139)
         /// [Radix Color] sandA6 (Dark)
-        static let sandA6: Color = Color(h: 41, s: 0.876, l: 0.948, a: 0.134)
+        static let sandA6: Color = Color(h: 45, s: 0.912, l: 0.951, a: 0.174)
         /// [Radix Color] sandA7 (Dark)
-        static let sandA7: Color = Color(h: 60, s: 0.954, l: 0.962, a: 0.172)
+        static let sandA7: Color = Color(h: 48, s: 0.924, l: 0.953, a: 0.226)
         /// [Radix Color] sandA8 (Dark)
-        static let sandA8: Color = Color(h: 49, s: 0.935, l: 0.957, a: 0.254)
+        static let sandA8: Color = Color(h: 43, s: 0.959, l: 0.955, a: 0.321)
         /// [Radix Color] sandA9 (Dark)
-        static let sandA9: Color = Color(h: 52, s: 0.973, l: 0.962, a: 0.391)
+        static let sandA9: Color = Color(h: 47, s: 0.981, l: 0.952, a: 0.377)
         /// [Radix Color] sandA10 (Dark)
-        static let sandA10: Color = Color(h: 52, s: 0.978, l: 0.967, a: 0.451)
+        static let sandA10: Color = Color(h: 47, s: 0.961, l: 0.960, a: 0.464)
         /// [Radix Color] sandA11 (Dark)
-        static let sandA11: Color = Color(h: 51, s: 0.970, l: 0.978, a: 0.597)
+        static let sandA11: Color = Color(h: 52, s: 0.981, l: 0.976, a: 0.667)
         /// [Radix Color] sandA12 (Dark)
-        static let sandA12: Color = Color(h: 60, s: 0.887, l: 0.998, a: 0.923)
+        static let sandA12: Color = Color(h: 60, s: 0.880, l: 0.995, a: 0.927)
     }
     /// [Radix Colors] Collection: sky
     class sky {
@@ -2421,25 +2745,25 @@ final class RadixColor {
         /// [Radix Color] sky2
         static let sky2: Color = Color(h: 193, s: 1.000, l: 0.973)
         /// [Radix Color] sky3
-        static let sky3: Color = Color(h: 193, s: 0.990, l: 0.947)
+        static let sky3: Color = Color(h: 192, s: 1.000, l: 0.943)
         /// [Radix Color] sky4
-        static let sky4: Color = Color(h: 193, s: 0.914, l: 0.914)
+        static let sky4: Color = Color(h: 193, s: 0.935, l: 0.909)
         /// [Radix Color] sky5
-        static let sky5: Color = Color(h: 194, s: 0.820, l: 0.866)
+        static let sky5: Color = Color(h: 193, s: 0.793, l: 0.859)
         /// [Radix Color] sky6
-        static let sky6: Color = Color(h: 194, s: 0.741, l: 0.795)
+        static let sky6: Color = Color(h: 194, s: 0.661, l: 0.788)
         /// [Radix Color] sky7
-        static let sky7: Color = Color(h: 194, s: 0.723, l: 0.696)
+        static let sky7: Color = Color(h: 194, s: 0.600, l: 0.694)
         /// [Radix Color] sky8
-        static let sky8: Color = Color(h: 193, s: 0.779, l: 0.539)
+        static let sky8: Color = Color(h: 193, s: 0.652, l: 0.561)
         /// [Radix Color] sky9
-        static let sky9: Color = Color(h: 193, s: 0.980, l: 0.700)
+        static let sky9: Color = Color(h: 193, s: 0.980, l: 0.740)
         /// [Radix Color] sky10
-        static let sky10: Color = Color(h: 193, s: 0.870, l: 0.665)
+        static let sky10: Color = Color(h: 193, s: 0.900, l: 0.710)
         /// [Radix Color] sky11
-        static let sky11: Color = Color(h: 195, s: 1.000, l: 0.315)
+        static let sky11: Color = Color(h: 200, s: 0.600, l: 0.360)
         /// [Radix Color] sky12
-        static let sky12: Color = Color(h: 195, s: 1.000, l: 0.130)
+        static let sky12: Color = Color(h: 195, s: 0.500, l: 0.200)
     }
     /// [Radix Colors] Collection: skyA
     class skyA {
@@ -2448,187 +2772,187 @@ final class RadixColor {
         /// [Radix Color] skyA2
         static let skyA2: Color = Color(h: 193, s: 1.000, l: 0.501, a: 0.055)
         /// [Radix Color] skyA3
-        static let skyA3: Color = Color(h: 193, s: 1.000, l: 0.501, a: 0.106)
+        static let skyA3: Color = Color(h: 192, s: 1.000, l: 0.501, a: 0.114)
         /// [Radix Color] skyA4
-        static let skyA4: Color = Color(h: 194, s: 0.996, l: 0.477, a: 0.165)
+        static let skyA4: Color = Color(h: 193, s: 0.994, l: 0.479, a: 0.177)
         /// [Radix Color] skyA5
-        static let skyA5: Color = Color(h: 194, s: 0.992, l: 0.454, a: 0.244)
+        static let skyA5: Color = Color(h: 194, s: 1.000, l: 0.445, a: 0.251)
         /// [Radix Color] skyA6
-        static let skyA6: Color = Color(h: 194, s: 0.999, l: 0.423, a: 0.357)
+        static let skyA6: Color = Color(h: 194, s: 1.000, l: 0.400, a: 0.353)
         /// [Radix Color] skyA7
-        static let skyA7: Color = Color(h: 194, s: 0.998, l: 0.422, a: 0.526)
+        static let skyA7: Color = Color(h: 194, s: 0.996, l: 0.377, a: 0.491)
         /// [Radix Color] skyA8
-        static let skyA8: Color = Color(h: 193, s: 0.999, l: 0.438, a: 0.820)
+        static let skyA8: Color = Color(h: 193, s: 0.998, l: 0.395, a: 0.726)
         /// [Radix Color] skyA9
-        static let skyA9: Color = Color(h: 193, s: 0.997, l: 0.494, a: 0.593)
+        static let skyA9: Color = Color(h: 193, s: 0.999, l: 0.496, a: 0.514)
         /// [Radix Color] skyA10
-        static let skyA10: Color = Color(h: 193, s: 0.998, l: 0.466, a: 0.628)
+        static let skyA10: Color = Color(h: 193, s: 1.000, l: 0.475, a: 0.553)
         /// [Radix Color] skyA11
-        static let skyA11: Color = Color(h: 196, s: 1.000, l: 0.312, a: 0.980)
+        static let skyA11: Color = Color(h: 200, s: 1.000, l: 0.252, a: 0.855)
         /// [Radix Color] skyA12
-        static let skyA12: Color = Color(h: 196, s: 1.000, l: 0.122, a: 0.980)
+        static let skyA12: Color = Color(h: 195, s: 1.000, l: 0.113, a: 0.902)
     }
     /// [Radix Colors] Collection: skyDark
     class skyDark {
         /// [Radix Color] sky1 (Dark)
         static let sky1: Color = Color(h: 205, s: 0.450, l: 0.086)
         /// [Radix Color] sky2 (Dark)
-        static let sky2: Color = Color(h: 202, s: 0.714, l: 0.096)
+        static let sky2: Color = Color(h: 202, s: 0.490, l: 0.100)
         /// [Radix Color] sky3 (Dark)
-        static let sky3: Color = Color(h: 201, s: 0.746, l: 0.122)
+        static let sky3: Color = Color(h: 201, s: 0.508, l: 0.132)
         /// [Radix Color] sky4 (Dark)
-        static let sky4: Color = Color(h: 201, s: 0.774, l: 0.144)
+        static let sky4: Color = Color(h: 201, s: 0.521, l: 0.158)
         /// [Radix Color] sky5 (Dark)
-        static let sky5: Color = Color(h: 200, s: 0.803, l: 0.165)
+        static let sky5: Color = Color(h: 201, s: 0.533, l: 0.184)
         /// [Radix Color] sky6 (Dark)
-        static let sky6: Color = Color(h: 200, s: 0.841, l: 0.189)
+        static let sky6: Color = Color(h: 200, s: 0.549, l: 0.222)
         /// [Radix Color] sky7 (Dark)
-        static let sky7: Color = Color(h: 199, s: 0.902, l: 0.221)
+        static let sky7: Color = Color(h: 200, s: 0.572, l: 0.293)
         /// [Radix Color] sky8 (Dark)
-        static let sky8: Color = Color(h: 198, s: 1.000, l: 0.261)
+        static let sky8: Color = Color(h: 200, s: 0.600, l: 0.441)
         /// [Radix Color] sky9 (Dark)
-        static let sky9: Color = Color(h: 193, s: 0.980, l: 0.700)
+        static let sky9: Color = Color(h: 193, s: 0.980, l: 0.740)
         /// [Radix Color] sky10 (Dark)
         static let sky10: Color = Color(h: 192, s: 1.000, l: 0.770)
         /// [Radix Color] sky11 (Dark)
-        static let sky11: Color = Color(h: 192, s: 0.850, l: 0.558)
+        static let sky11: Color = Color(h: 195, s: 1.000, l: 0.660)
         /// [Radix Color] sky12 (Dark)
-        static let sky12: Color = Color(h: 198, s: 0.980, l: 0.958)
+        static let sky12: Color = Color(h: 192, s: 1.000, l: 0.880)
     }
     /// [Radix Colors] Collection: skyDarkA
     class skyDarkA {
         /// [Radix Color] skyA1 (Dark)
-        static let skyA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let skyA1: Color = Color(h: 234, s: 1.000, l: 0.495, a: 0.035)
         /// [Radix Color] skyA2 (Dark)
-        static let skyA2: Color = Color(h: 208, s: 1.000, l: 0.498, a: 0.045)
+        static let skyA2: Color = Color(h: 215, s: 1.000, l: 0.497, a: 0.061)
         /// [Radix Color] skyA3 (Dark)
-        static let skyA3: Color = Color(h: 201, s: 1.000, l: 0.498, a: 0.099)
+        static let skyA3: Color = Color(h: 204, s: 1.000, l: 0.500, a: 0.117)
         /// [Radix Color] skyA4 (Dark)
-        static let skyA4: Color = Color(h: 201, s: 1.000, l: 0.500, a: 0.148)
+        static let skyA4: Color = Color(h: 201, s: 1.000, l: 0.498, a: 0.161)
         /// [Radix Color] skyA5 (Dark)
-        static let skyA5: Color = Color(h: 200, s: 1.000, l: 0.498, a: 0.198)
+        static let skyA5: Color = Color(h: 202, s: 0.998, l: 0.528, a: 0.208)
         /// [Radix Color] skyA6 (Dark)
-        static let skyA6: Color = Color(h: 199, s: 1.000, l: 0.499, a: 0.256)
+        static let skyA6: Color = Color(h: 200, s: 0.993, l: 0.560, a: 0.278)
         /// [Radix Color] skyA7 (Dark)
-        static let skyA7: Color = Color(h: 199, s: 1.000, l: 0.499, a: 0.337)
+        static let skyA7: Color = Color(h: 200, s: 0.998, l: 0.586, a: 0.403)
         /// [Radix Color] skyA8 (Dark)
-        static let skyA8: Color = Color(h: 199, s: 1.000, l: 0.500, a: 0.453)
+        static let skyA8: Color = Color(h: 200, s: 0.998, l: 0.608, a: 0.676)
         /// [Radix Color] skyA9 (Dark)
-        static let skyA9: Color = Color(h: 192, s: 1.000, l: 0.708, a: 0.980)
+        static let skyA9: Color = Color(h: 193, s: 0.999, l: 0.744, a: 0.996)
         /// [Radix Color] skyA10 (Dark)
-        static let skyA10: Color = Color(h: 190, s: 1.000, l: 0.776, a: 0.980)
+        static let skyA10: Color = Color(h: 192, s: 1.000, l: 0.771, a: 1.000)
         /// [Radix Color] skyA11 (Dark)
-        static let skyA11: Color = Color(h: 192, s: 0.999, l: 0.596, a: 0.924)
+        static let skyA11: Color = Color(h: 195, s: 1.000, l: 0.661, a: 1.000)
         /// [Radix Color] skyA12 (Dark)
-        static let skyA12: Color = Color(h: 189, s: 1.000, l: 0.968, a: 0.980)
+        static let skyA12: Color = Color(h: 192, s: 1.000, l: 0.880, a: 1.000)
     }
     /// [Radix Colors] Collection: slate
     class slate {
         /// [Radix Color] slate1
-        static let slate1: Color = Color(h: 206, s: 0.300, l: 0.988)
+        static let slate1: Color = Color(h: 240, s: 0.220, l: 0.990)
         /// [Radix Color] slate2
-        static let slate2: Color = Color(h: 210, s: 0.167, l: 0.976)
+        static let slate2: Color = Color(h: 240, s: 0.200, l: 0.980)
         /// [Radix Color] slate3
-        static let slate3: Color = Color(h: 209, s: 0.133, l: 0.953)
+        static let slate3: Color = Color(h: 239, s: 0.134, l: 0.954)
         /// [Radix Color] slate4
-        static let slate4: Color = Color(h: 209, s: 0.122, l: 0.932)
+        static let slate4: Color = Color(h: 238, s: 0.118, l: 0.929)
         /// [Radix Color] slate5
-        static let slate5: Color = Color(h: 208, s: 0.117, l: 0.911)
+        static let slate5: Color = Color(h: 237, s: 0.111, l: 0.905)
         /// [Radix Color] slate6
-        static let slate6: Color = Color(h: 208, s: 0.113, l: 0.889)
+        static let slate6: Color = Color(h: 236, s: 0.106, l: 0.879)
         /// [Radix Color] slate7
-        static let slate7: Color = Color(h: 207, s: 0.111, l: 0.859)
+        static let slate7: Color = Color(h: 234, s: 0.104, l: 0.844)
         /// [Radix Color] slate8
-        static let slate8: Color = Color(h: 205, s: 0.107, l: 0.780)
+        static let slate8: Color = Color(h: 231, s: 0.102, l: 0.751)
         /// [Radix Color] slate9
-        static let slate9: Color = Color(h: 206, s: 0.060, l: 0.561)
+        static let slate9: Color = Color(h: 230, s: 0.060, l: 0.570)
         /// [Radix Color] slate10
-        static let slate10: Color = Color(h: 206, s: 0.058, l: 0.523)
+        static let slate10: Color = Color(h: 227, s: 0.052, l: 0.518)
         /// [Radix Color] slate11
-        static let slate11: Color = Color(h: 206, s: 0.060, l: 0.435)
+        static let slate11: Color = Color(h: 220, s: 0.060, l: 0.400)
         /// [Radix Color] slate12
-        static let slate12: Color = Color(h: 206, s: 0.240, l: 0.090)
+        static let slate12: Color = Color(h: 210, s: 0.120, l: 0.125)
     }
     /// [Radix Colors] Collection: slateA
     class slateA {
         /// [Radix Color] slateA1
-        static let slateA1: Color = Color(h: 210, s: 0.926, l: 0.265, a: 0.016)
+        static let slateA1: Color = Color(h: 240, s: 0.893, l: 0.183, a: 0.012)
         /// [Radix Color] slateA2
-        static let slateA2: Color = Color(h: 210, s: 0.877, l: 0.160, a: 0.028)
+        static let slateA2: Color = Color(h: 240, s: 0.893, l: 0.183, a: 0.024)
         /// [Radix Color] slateA3
-        static let slateA3: Color = Color(h: 210, s: 0.988, l: 0.144, a: 0.055)
+        static let slateA3: Color = Color(h: 240, s: 0.997, l: 0.116, a: 0.051)
         /// [Radix Color] slateA4
-        static let slateA4: Color = Color(h: 210, s: 0.941, l: 0.111, a: 0.075)
+        static let slateA4: Color = Color(h: 240, s: 0.932, l: 0.106, a: 0.079)
         /// [Radix Color] slateA5
-        static let slateA5: Color = Color(h: 216, s: 0.911, l: 0.109, a: 0.099)
+        static let slateA5: Color = Color(h: 240, s: 0.988, l: 0.094, a: 0.106)
         /// [Radix Color] slateA6
-        static let slateA6: Color = Color(h: 206, s: 0.964, l: 0.113, a: 0.126)
+        static let slateA6: Color = Color(h: 240, s: 0.946, l: 0.093, a: 0.134)
         /// [Radix Color] slateA7
-        static let slateA7: Color = Color(h: 210, s: 0.991, l: 0.101, a: 0.157)
+        static let slateA7: Color = Color(h: 233, s: 0.972, l: 0.093, a: 0.173)
         /// [Radix Color] slateA8
-        static let slateA8: Color = Color(h: 205, s: 0.965, l: 0.100, a: 0.244)
+        static let slateA8: Color = Color(h: 231, s: 0.981, l: 0.094, a: 0.275)
         /// [Radix Color] slateA9
-        static let slateA9: Color = Color(h: 206, s: 0.988, l: 0.059, a: 0.467)
+        static let slateA9: Color = Color(h: 231, s: 0.996, l: 0.056, a: 0.455)
         /// [Radix Color] slateA10
-        static let slateA10: Color = Color(h: 206, s: 0.996, l: 0.054, a: 0.506)
+        static let slateA10: Color = Color(h: 230, s: 0.995, l: 0.047, a: 0.506)
         /// [Radix Color] slateA11
-        static let slateA11: Color = Color(h: 206, s: 0.970, l: 0.048, a: 0.593)
+        static let slateA11: Color = Color(h: 220, s: 0.980, l: 0.038, a: 0.624)
         /// [Radix Color] slateA12
-        static let slateA12: Color = Color(h: 202, s: 0.970, l: 0.024, a: 0.934)
+        static let slateA12: Color = Color(h: 210, s: 0.951, l: 0.019, a: 0.891)
     }
     /// [Radix Colors] Collection: slateDark
     class slateDark {
         /// [Radix Color] slate1 (Dark)
-        static let slate1: Color = Color(h: 200, s: 0.070, l: 0.088)
+        static let slate1: Color = Color(h: 240, s: 0.050, l: 0.098)
         /// [Radix Color] slate2 (Dark)
-        static let slate2: Color = Color(h: 195, s: 0.071, l: 0.110)
+        static let slate2: Color = Color(h: 240, s: 0.069, l: 0.114)
         /// [Radix Color] slate3 (Dark)
-        static let slate3: Color = Color(h: 197, s: 0.068, l: 0.136)
+        static let slate3: Color = Color(h: 227, s: 0.067, l: 0.164)
         /// [Radix Color] slate4 (Dark)
-        static let slate4: Color = Color(h: 198, s: 0.066, l: 0.158)
+        static let slate4: Color = Color(h: 222, s: 0.066, l: 0.194)
         /// [Radix Color] slate5 (Dark)
-        static let slate5: Color = Color(h: 199, s: 0.064, l: 0.179)
+        static let slate5: Color = Color(h: 218, s: 0.065, l: 0.221)
         /// [Radix Color] slate6 (Dark)
-        static let slate6: Color = Color(h: 201, s: 0.062, l: 0.205)
+        static let slate6: Color = Color(h: 214, s: 0.064, l: 0.251)
         /// [Radix Color] slate7 (Dark)
-        static let slate7: Color = Color(h: 203, s: 0.060, l: 0.243)
+        static let slate7: Color = Color(h: 209, s: 0.062, l: 0.294)
         /// [Radix Color] slate8 (Dark)
-        static let slate8: Color = Color(h: 207, s: 0.056, l: 0.316)
+        static let slate8: Color = Color(h: 202, s: 0.058, l: 0.375)
         /// [Radix Color] slate9 (Dark)
-        static let slate9: Color = Color(h: 206, s: 0.060, l: 0.439)
+        static let slate9: Color = Color(h: 220, s: 0.060, l: 0.440)
         /// [Radix Color] slate10 (Dark)
-        static let slate10: Color = Color(h: 206, s: 0.052, l: 0.495)
+        static let slate10: Color = Color(h: 218, s: 0.053, l: 0.515)
         /// [Radix Color] slate11 (Dark)
-        static let slate11: Color = Color(h: 206, s: 0.060, l: 0.630)
+        static let slate11: Color = Color(h: 220, s: 0.070, l: 0.700)
         /// [Radix Color] slate12 (Dark)
-        static let slate12: Color = Color(h: 210, s: 0.060, l: 0.930)
+        static let slate12: Color = Color(h: 220, s: 0.070, l: 0.935)
     }
     /// [Radix Colors] Collection: slateDarkA
     class slateDarkA {
         /// [Radix Color] slateA1 (Dark)
-        static let slateA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let slateA1: Color = Color(h: 240, s: 0.927, l: 0.530, a: 0.009)
         /// [Radix Color] slateA2 (Dark)
-        static let slateA2: Color = Color(h: 181, s: 0.989, l: 0.918, a: 0.026)
+        static let slateA2: Color = Color(h: 240, s: 0.925, l: 0.727, a: 0.031)
         /// [Radix Color] slateA3 (Dark)
-        static let slateA3: Color = Color(h: 182, s: 0.867, l: 0.914, a: 0.057)
+        static let slateA3: Color = Color(h: 230, s: 0.993, l: 0.870, a: 0.091)
         /// [Radix Color] slateA4 (Dark)
-        static let slateA4: Color = Color(h: 209, s: 0.867, l: 0.939, a: 0.083)
+        static let slateA4: Color = Color(h: 223, s: 0.971, l: 0.888, a: 0.126)
         /// [Radix Color] slateA5 (Dark)
-        static let slateA5: Color = Color(h: 200, s: 0.903, l: 0.934, a: 0.109)
+        static let slateA5: Color = Color(h: 223, s: 0.990, l: 0.911, a: 0.156)
         /// [Radix Color] slateA6 (Dark)
-        static let slateA6: Color = Color(h: 209, s: 0.953, l: 0.935, a: 0.139)
+        static let slateA6: Color = Color(h: 218, s: 0.971, l: 0.915, a: 0.191)
         /// [Radix Color] slateA7 (Dark)
-        static let slateA7: Color = Color(h: 204, s: 0.985, l: 0.939, a: 0.182)
+        static let slateA7: Color = Color(h: 210, s: 0.974, l: 0.917, a: 0.243)
         /// [Radix Color] slateA8 (Dark)
-        static let slateA8: Color = Color(h: 209, s: 0.940, l: 0.947, a: 0.265)
+        static let slateA8: Color = Color(h: 202, s: 0.973, l: 0.934, a: 0.334)
         /// [Radix Color] slateA9 (Dark)
-        static let slateA9: Color = Color(h: 207, s: 0.973, l: 0.940, a: 0.412)
+        static let slateA9: Color = Color(h: 219, s: 0.976, l: 0.932, a: 0.412)
         /// [Radix Color] slateA10 (Dark)
-        static let slateA10: Color = Color(h: 209, s: 0.994, l: 0.952, a: 0.472)
+        static let slateA10: Color = Color(h: 217, s: 0.983, l: 0.947, a: 0.494)
         /// [Radix Color] slateA11 (Dark)
-        static let slateA11: Color = Color(h: 208, s: 0.987, l: 0.968, a: 0.615)
+        static let slateA11: Color = Color(h: 218, s: 0.985, l: 0.968, a: 0.693)
         /// [Radix Color] slateA12 (Dark)
-        static let slateA12: Color = Color(h: 211, s: 0.867, l: 0.996, a: 0.927)
+        static let slateA12: Color = Color(h: 220, s: 0.874, l: 0.993, a: 0.936)
     }
     /// [Radix Colors] Collection: teal
     class teal {
@@ -2655,7 +2979,7 @@ final class RadixColor {
         /// [Radix Color] teal11
         static let teal11: Color = Color(h: 174, s: 0.900, l: 0.252)
         /// [Radix Color] teal12
-        static let teal12: Color = Color(h: 170, s: 0.500, l: 0.125)
+        static let teal12: Color = Color(h: 174, s: 0.650, l: 0.145)
     }
     /// [Radix Colors] Collection: tealA
     class tealA {
@@ -2682,61 +3006,61 @@ final class RadixColor {
         /// [Radix Color] tealA11
         static let tealA11: Color = Color(h: 174, s: 0.998, l: 0.233, a: 0.977)
         /// [Radix Color] tealA12
-        static let tealA12: Color = Color(h: 171, s: 0.988, l: 0.068, a: 0.938)
+        static let tealA12: Color = Color(h: 174, s: 0.990, l: 0.100, a: 0.950)
     }
     /// [Radix Colors] Collection: tealDark
     class tealDark {
         /// [Radix Color] teal1 (Dark)
-        static let teal1: Color = Color(h: 168, s: 0.480, l: 0.065)
+        static let teal1: Color = Color(h: 167, s: 0.500, l: 0.067)
         /// [Radix Color] teal2 (Dark)
-        static let teal2: Color = Color(h: 169, s: 0.778, l: 0.071)
+        static let teal2: Color = Color(h: 166, s: 0.550, l: 0.078)
         /// [Radix Color] teal3 (Dark)
-        static let teal3: Color = Color(h: 170, s: 0.761, l: 0.092)
+        static let teal3: Color = Color(h: 167, s: 0.529, l: 0.106)
         /// [Radix Color] teal4 (Dark)
-        static let teal4: Color = Color(h: 171, s: 0.758, l: 0.110)
+        static let teal4: Color = Color(h: 168, s: 0.525, l: 0.127)
         /// [Radix Color] teal5 (Dark)
-        static let teal5: Color = Color(h: 171, s: 0.757, l: 0.128)
+        static let teal5: Color = Color(h: 169, s: 0.526, l: 0.148)
         /// [Radix Color] teal6 (Dark)
-        static let teal6: Color = Color(h: 172, s: 0.758, l: 0.151)
+        static let teal6: Color = Color(h: 169, s: 0.531, l: 0.180)
         /// [Radix Color] teal7 (Dark)
-        static let teal7: Color = Color(h: 172, s: 0.767, l: 0.186)
+        static let teal7: Color = Color(h: 171, s: 0.549, l: 0.238)
         /// [Radix Color] teal8 (Dark)
-        static let teal8: Color = Color(h: 173, s: 0.802, l: 0.237)
+        static let teal8: Color = Color(h: 173, s: 0.598, l: 0.341)
         /// [Radix Color] teal9 (Dark)
         static let teal9: Color = Color(h: 173, s: 0.800, l: 0.360)
         /// [Radix Color] teal10 (Dark)
-        static let teal10: Color = Color(h: 174, s: 0.839, l: 0.382)
+        static let teal10: Color = Color(h: 172, s: 0.895, l: 0.388)
         /// [Radix Color] teal11 (Dark)
-        static let teal11: Color = Color(h: 174, s: 0.900, l: 0.407)
+        static let teal11: Color = Color(h: 170, s: 0.900, l: 0.445)
         /// [Radix Color] teal12 (Dark)
-        static let teal12: Color = Color(h: 166, s: 0.730, l: 0.931)
+        static let teal12: Color = Color(h: 163, s: 0.700, l: 0.810)
     }
     /// [Radix Colors] Collection: tealDarkA
     class tealDarkA {
         /// [Radix Color] tealA1 (Dark)
-        static let tealA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let tealA1: Color = Color(h: 120, s: 1.000, l: 0.483, a: 0.009)
         /// [Radix Color] tealA2 (Dark)
-        static let tealA2: Color = Color(h: 171, s: 1.000, l: 0.492, a: 0.031)
+        static let tealA2: Color = Color(h: 141, s: 1.000, l: 0.490, a: 0.031)
         /// [Radix Color] tealA3 (Dark)
-        static let tealA3: Color = Color(h: 172, s: 1.000, l: 0.497, a: 0.070)
+        static let tealA3: Color = Color(h: 161, s: 1.000, l: 0.498, a: 0.074)
         /// [Radix Color] tealA4 (Dark)
-        static let tealA4: Color = Color(h: 175, s: 1.000, l: 0.497, a: 0.105)
+        static let tealA4: Color = Color(h: 167, s: 1.000, l: 0.497, a: 0.109)
         /// [Radix Color] tealA5 (Dark)
-        static let tealA5: Color = Color(h: 174, s: 0.989, l: 0.501, a: 0.140)
+        static let tealA5: Color = Color(h: 167, s: 1.000, l: 0.498, a: 0.148)
         /// [Radix Color] tealA6 (Dark)
-        static let tealA6: Color = Color(h: 174, s: 1.000, l: 0.518, a: 0.187)
+        static let tealA6: Color = Color(h: 169, s: 0.992, l: 0.525, a: 0.200)
         /// [Radix Color] tealA7 (Dark)
-        static let tealA7: Color = Color(h: 173, s: 0.996, l: 0.532, a: 0.257)
+        static let tealA7: Color = Color(h: 171, s: 0.993, l: 0.565, a: 0.304)
         /// [Radix Color] tealA8 (Dark)
-        static let tealA8: Color = Color(h: 174, s: 0.996, l: 0.533, a: 0.366)
+        static let tealA8: Color = Color(h: 173, s: 0.999, l: 0.590, a: 0.498)
         /// [Radix Color] tealA9 (Dark)
-        static let tealA9: Color = Color(h: 173, s: 0.999, l: 0.546, a: 0.609)
+        static let tealA9: Color = Color(h: 173, s: 0.998, l: 0.527, a: 0.611)
         /// [Radix Color] tealA10 (Dark)
-        static let tealA10: Color = Color(h: 174, s: 0.999, l: 0.538, a: 0.670)
+        static let tealA10: Color = Color(h: 172, s: 0.999, l: 0.508, a: 0.706)
         /// [Radix Color] tealA11 (Dark)
-        static let tealA11: Color = Color(h: 174, s: 1.000, l: 0.520, a: 0.748)
+        static let tealA11: Color = Color(h: 170, s: 0.998, l: 0.516, a: 0.832)
         /// [Radix Color] tealA12 (Dark)
-        static let tealA12: Color = Color(h: 166, s: 0.986, l: 0.950, a: 0.979)
+        static let tealA12: Color = Color(h: 163, s: 0.994, l: 0.859, a: 0.936)
     }
     /// [Radix Colors] Collection: tomato
     class tomato {
@@ -2759,11 +3083,11 @@ final class RadixColor {
         /// [Radix Color] tomato9
         static let tomato9: Color = Color(h: 10, s: 0.780, l: 0.540)
         /// [Radix Color] tomato10
-        static let tomato10: Color = Color(h: 10, s: 0.715, l: 0.500)
+        static let tomato10: Color = Color(h: 10, s: 0.714, l: 0.494)
         /// [Radix Color] tomato11
-        static let tomato11: Color = Color(h: 10, s: 0.820, l: 0.435)
+        static let tomato11: Color = Color(h: 10, s: 0.820, l: 0.420)
         /// [Radix Color] tomato12
-        static let tomato12: Color = Color(h: 10, s: 0.500, l: 0.135)
+        static let tomato12: Color = Color(h: 8, s: 0.500, l: 0.240)
     }
     /// [Radix Colors] Collection: tomatoA
     class tomatoA {
@@ -2786,65 +3110,65 @@ final class RadixColor {
         /// [Radix Color] tomatoA9
         static let tomatoA9: Color = Color(h: 10, s: 0.999, l: 0.438, a: 0.820)
         /// [Radix Color] tomatoA10
-        static let tomatoA10: Color = Color(h: 10, s: 1.000, l: 0.418, a: 0.859)
+        static let tomatoA10: Color = Color(h: 10, s: 1.000, l: 0.411, a: 0.859)
         /// [Radix Color] tomatoA11
-        static let tomatoA11: Color = Color(h: 10, s: 0.999, l: 0.388, a: 0.922)
+        static let tomatoA11: Color = Color(h: 10, s: 0.999, l: 0.373, a: 0.926)
         /// [Radix Color] tomatoA12
-        static let tomatoA12: Color = Color(h: 10, s: 0.990, l: 0.074, a: 0.934)
+        static let tomatoA12: Color = Color(h: 8, s: 0.995, l: 0.137, a: 0.879)
     }
     /// [Radix Colors] Collection: tomatoDark
     class tomatoDark {
         /// [Radix Color] tomato1 (Dark)
         static let tomato1: Color = Color(h: 10, s: 0.230, l: 0.094)
         /// [Radix Color] tomato2 (Dark)
-        static let tomato2: Color = Color(h: 9, s: 0.448, l: 0.114)
+        static let tomato2: Color = Color(h: 10, s: 0.390, l: 0.116)
         /// [Radix Color] tomato3 (Dark)
-        static let tomato3: Color = Color(h: 8, s: 0.520, l: 0.153)
+        static let tomato3: Color = Color(h: 9, s: 0.483, l: 0.155)
         /// [Radix Color] tomato4 (Dark)
-        static let tomato4: Color = Color(h: 7, s: 0.563, l: 0.180)
+        static let tomato4: Color = Color(h: 9, s: 0.530, l: 0.181)
         /// [Radix Color] tomato5 (Dark)
-        static let tomato5: Color = Color(h: 7, s: 0.601, l: 0.206)
+        static let tomato5: Color = Color(h: 9, s: 0.570, l: 0.207)
         /// [Radix Color] tomato6 (Dark)
-        static let tomato6: Color = Color(h: 8, s: 0.648, l: 0.240)
+        static let tomato6: Color = Color(h: 9, s: 0.618, l: 0.245)
         /// [Radix Color] tomato7 (Dark)
-        static let tomato7: Color = Color(h: 8, s: 0.712, l: 0.291)
+        static let tomato7: Color = Color(h: 9, s: 0.684, l: 0.311)
         /// [Radix Color] tomato8 (Dark)
-        static let tomato8: Color = Color(h: 10, s: 0.802, l: 0.357)
+        static let tomato8: Color = Color(h: 10, s: 0.804, l: 0.439)
         /// [Radix Color] tomato9 (Dark)
         static let tomato9: Color = Color(h: 10, s: 0.780, l: 0.540)
         /// [Radix Color] tomato10 (Dark)
-        static let tomato10: Color = Color(h: 10, s: 0.817, l: 0.590)
+        static let tomato10: Color = Color(h: 10, s: 0.884, l: 0.641)
         /// [Radix Color] tomato11 (Dark)
-        static let tomato11: Color = Color(h: 10, s: 0.850, l: 0.628)
+        static let tomato11: Color = Color(h: 10, s: 1.000, l: 0.720)
         /// [Radix Color] tomato12 (Dark)
-        static let tomato12: Color = Color(h: 10, s: 0.890, l: 0.960)
+        static let tomato12: Color = Color(h: 10, s: 0.850, l: 0.890)
     }
     /// [Radix Colors] Collection: tomatoDarkA
     class tomatoDarkA {
         /// [Radix Color] tomatoA1 (Dark)
-        static let tomatoA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let tomatoA1: Color = Color(h: 0, s: 1.000, l: 0.493, a: 0.022)
         /// [Radix Color] tomatoA2 (Dark)
-        static let tomatoA2: Color = Color(h: 5, s: 1.000, l: 0.496, a: 0.058)
+        static let tomatoA2: Color = Color(h: 0, s: 1.000, l: 0.498, a: 0.074)
         /// [Radix Color] tomatoA3 (Dark)
-        static let tomatoA3: Color = Color(h: 6, s: 0.996, l: 0.549, a: 0.133)
+        static let tomatoA3: Color = Color(h: 9, s: 1.000, l: 0.499, a: 0.152)
         /// [Radix Color] tomatoA4 (Dark)
-        static let tomatoA4: Color = Color(h: 6, s: 0.992, l: 0.554, a: 0.191)
+        static let tomatoA4: Color = Color(h: 9, s: 0.995, l: 0.527, a: 0.204)
         /// [Radix Color] tomatoA5 (Dark)
-        static let tomatoA5: Color = Color(h: 6, s: 0.995, l: 0.558, a: 0.244)
+        static let tomatoA5: Color = Color(h: 9, s: 0.995, l: 0.538, a: 0.256)
         /// [Radix Color] tomatoA6 (Dark)
-        static let tomatoA6: Color = Color(h: 7, s: 0.997, l: 0.559, a: 0.319)
+        static let tomatoA6: Color = Color(h: 9, s: 0.996, l: 0.546, a: 0.334)
         /// [Radix Color] tomatoA7 (Dark)
-        static let tomatoA7: Color = Color(h: 8, s: 0.998, l: 0.548, a: 0.434)
+        static let tomatoA7: Color = Color(h: 9, s: 0.997, l: 0.550, a: 0.477)
         /// [Radix Color] tomatoA8 (Dark)
-        static let tomatoA8: Color = Color(h: 10, s: 0.998, l: 0.535, a: 0.598)
+        static let tomatoA8: Color = Color(h: 10, s: 0.999, l: 0.542, a: 0.771)
         /// [Radix Color] tomatoA9 (Dark)
-        static let tomatoA9: Color = Color(h: 10, s: 1.000, l: 0.597, a: 0.885)
+        static let tomatoA9: Color = Color(h: 10, s: 0.999, l: 0.595, a: 0.888)
         /// [Radix Color] tomatoA10 (Dark)
-        static let tomatoA10: Color = Color(h: 10, s: 1.000, l: 0.636, a: 0.916)
+        static let tomatoA10: Color = Color(h: 10, s: 0.998, l: 0.668, a: 0.953)
         /// [Radix Color] tomatoA11 (Dark)
-        static let tomatoA11: Color = Color(h: 10, s: 0.997, l: 0.664, a: 0.939)
+        static let tomatoA11: Color = Color(h: 10, s: 1.000, l: 0.720, a: 1.000)
         /// [Radix Color] tomatoA12 (Dark)
-        static let tomatoA12: Color = Color(h: 12, s: 1.000, l: 0.971, a: 0.980)
+        static let tomatoA12: Color = Color(h: 10, s: 0.997, l: 0.904, a: 0.983)
     }
     /// [Radix Colors] Collection: violet
     class violet {
@@ -2871,7 +3195,7 @@ final class RadixColor {
         /// [Radix Color] violet11
         static let violet11: Color = Color(h: 250, s: 0.430, l: 0.480)
         /// [Radix Color] violet12
-        static let violet12: Color = Color(h: 254, s: 0.600, l: 0.185)
+        static let violet12: Color = Color(h: 250, s: 0.430, l: 0.260)
     }
     /// [Radix Colors] Collection: violetA
     class violetA {
@@ -2898,7 +3222,7 @@ final class RadixColor {
         /// [Radix Color] violetA11
         static let violetA11: Color = Color(h: 250, s: 0.998, l: 0.284, a: 0.726)
         /// [Radix Color] violetA12
-        static let violetA12: Color = Color(h: 254, s: 0.995, l: 0.119, a: 0.926)
+        static let violetA12: Color = Color(h: 249, s: 1.000, l: 0.131, a: 0.851)
     }
     /// [Radix Colors] Collection: violetDark
     class violetDark {
@@ -2907,187 +3231,187 @@ final class RadixColor {
         /// [Radix Color] violet2 (Dark)
         static let violet2: Color = Color(h: 255, s: 0.303, l: 0.129)
         /// [Radix Color] violet3 (Dark)
-        static let violet3: Color = Color(h: 253, s: 0.370, l: 0.184)
+        static let violet3: Color = Color(h: 254, s: 0.333, l: 0.184)
         /// [Radix Color] violet4 (Dark)
-        static let violet4: Color = Color(h: 252, s: 0.401, l: 0.225)
+        static let violet4: Color = Color(h: 253, s: 0.346, l: 0.221)
         /// [Radix Color] violet5 (Dark)
-        static let violet5: Color = Color(h: 252, s: 0.422, l: 0.262)
+        static let violet5: Color = Color(h: 253, s: 0.355, l: 0.255)
         /// [Radix Color] violet6 (Dark)
-        static let violet6: Color = Color(h: 251, s: 0.443, l: 0.311)
+        static let violet6: Color = Color(h: 252, s: 0.366, l: 0.305)
         /// [Radix Color] violet7 (Dark)
-        static let violet7: Color = Color(h: 250, s: 0.468, l: 0.389)
+        static let violet7: Color = Color(h: 251, s: 0.378, l: 0.390)
         /// [Radix Color] violet8 (Dark)
-        static let violet8: Color = Color(h: 250, s: 0.518, l: 0.512)
+        static let violet8: Color = Color(h: 250, s: 0.462, l: 0.541)
         /// [Radix Color] violet9 (Dark)
         static let violet9: Color = Color(h: 252, s: 0.560, l: 0.575)
         /// [Radix Color] violet10 (Dark)
-        static let violet10: Color = Color(h: 251, s: 0.632, l: 0.632)
+        static let violet10: Color = Color(h: 253, s: 0.632, l: 0.641)
         /// [Radix Color] violet11 (Dark)
-        static let violet11: Color = Color(h: 250, s: 0.950, l: 0.768)
+        static let violet11: Color = Color(h: 255, s: 1.000, l: 0.800)
         /// [Radix Color] violet12 (Dark)
-        static let violet12: Color = Color(h: 252, s: 0.870, l: 0.964)
+        static let violet12: Color = Color(h: 250, s: 0.930, l: 0.930)
     }
     /// [Radix Colors] Collection: violetDarkA
     class violetDarkA {
         /// [Radix Color] violetA1 (Dark)
-        static let violetA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let violetA1: Color = Color(h: 240, s: 1.000, l: 0.490, a: 0.031)
         /// [Radix Color] violetA2 (Dark)
-        static let violetA2: Color = Color(h: 258, s: 0.982, l: 0.610, a: 0.054)
+        static let violetA2: Color = Color(h: 255, s: 0.983, l: 0.519, a: 0.083)
         /// [Radix Color] violetA3 (Dark)
-        static let violetA3: Color = Color(h: 252, s: 0.988, l: 0.658, a: 0.148)
+        static let violetA3: Color = Color(h: 255, s: 0.998, l: 0.628, a: 0.169)
         /// [Radix Color] violetA4 (Dark)
-        static let violetA4: Color = Color(h: 253, s: 0.997, l: 0.657, a: 0.219)
+        static let violetA4: Color = Color(h: 252, s: 0.990, l: 0.658, a: 0.226)
         /// [Radix Color] violetA5 (Dark)
-        static let violetA5: Color = Color(h: 252, s: 0.997, l: 0.664, a: 0.286)
+        static let violetA5: Color = Color(h: 253, s: 0.991, l: 0.672, a: 0.278)
         /// [Radix Color] violetA6 (Dark)
-        static let violetA6: Color = Color(h: 251, s: 0.997, l: 0.662, a: 0.371)
+        static let violetA6: Color = Color(h: 253, s: 1.000, l: 0.685, a: 0.355)
         /// [Radix Color] violetA7 (Dark)
-        static let violetA7: Color = Color(h: 250, s: 0.997, l: 0.663, a: 0.514)
+        static let violetA7: Color = Color(h: 251, s: 0.995, l: 0.698, a: 0.490)
         /// [Radix Color] violetA8 (Dark)
-        static let violetA8: Color = Color(h: 250, s: 0.997, l: 0.661, a: 0.733)
+        static let violetA8: Color = Color(h: 250, s: 0.997, l: 0.708, a: 0.728)
         /// [Radix Color] violetA9 (Dark)
-        static let violetA9: Color = Color(h: 252, s: 0.999, l: 0.703, a: 0.786)
+        static let violetA9: Color = Color(h: 252, s: 0.997, l: 0.700, a: 0.793)
         /// [Radix Color] violetA10 (Dark)
-        static let violetA10: Color = Color(h: 251, s: 0.999, l: 0.729, a: 0.844)
+        static let violetA10: Color = Color(h: 253, s: 0.999, l: 0.735, a: 0.853)
         /// [Radix Color] violetA11 (Dark)
-        static let violetA11: Color = Color(h: 250, s: 1.000, l: 0.779, a: 0.980)
+        static let violetA11: Color = Color(h: 255, s: 1.000, l: 0.800, a: 1.000)
         /// [Radix Color] violetA12 (Dark)
-        static let violetA12: Color = Color(h: 254, s: 1.000, l: 0.975, a: 0.980)
+        static let violetA12: Color = Color(h: 249, s: 0.995, l: 0.935, a: 0.996)
     }
     /// [Radix Colors] Collection: whiteA
     class whiteA {
         /// [Radix Color] whiteA1
-        static let whiteA1: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.000)
+        static let whiteA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
         /// [Radix Color] whiteA2
         static let whiteA2: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.013)
         /// [Radix Color] whiteA3
-        static let whiteA3: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.034)
+        static let whiteA3: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.069)
         /// [Radix Color] whiteA4
-        static let whiteA4: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.056)
+        static let whiteA4: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.104)
         /// [Radix Color] whiteA5
-        static let whiteA5: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.086)
+        static let whiteA5: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.134)
         /// [Radix Color] whiteA6
-        static let whiteA6: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.124)
+        static let whiteA6: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.169)
         /// [Radix Color] whiteA7
-        static let whiteA7: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.176)
+        static let whiteA7: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.216)
         /// [Radix Color] whiteA8
-        static let whiteA8: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.249)
+        static let whiteA8: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.312)
         /// [Radix Color] whiteA9
-        static let whiteA9: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.386)
+        static let whiteA9: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.372)
         /// [Radix Color] whiteA10
-        static let whiteA10: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.446)
+        static let whiteA10: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.455)
         /// [Radix Color] whiteA11
-        static let whiteA11: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.592)
+        static let whiteA11: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.662)
         /// [Radix Color] whiteA12
-        static let whiteA12: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.923)
+        static let whiteA12: Color = Color(h: 0, s: 0.000, l: 1.000, a: 0.926)
     }
     /// [Radix Colors] Collection: yellow
     class yellow {
         /// [Radix Color] yellow1
         static let yellow1: Color = Color(h: 60, s: 0.540, l: 0.985)
         /// [Radix Color] yellow2
-        static let yellow2: Color = Color(h: 52, s: 1.000, l: 0.955)
+        static let yellow2: Color = Color(h: 52, s: 1.000, l: 0.939)
         /// [Radix Color] yellow3
-        static let yellow3: Color = Color(h: 55, s: 1.000, l: 0.909)
+        static let yellow3: Color = Color(h: 53, s: 1.000, l: 0.889)
         /// [Radix Color] yellow4
-        static let yellow4: Color = Color(h: 54, s: 1.000, l: 0.866)
+        static let yellow4: Color = Color(h: 53, s: 0.937, l: 0.839)
         /// [Radix Color] yellow5
-        static let yellow5: Color = Color(h: 52, s: 0.979, l: 0.820)
+        static let yellow5: Color = Color(h: 52, s: 0.847, l: 0.787)
         /// [Radix Color] yellow6
-        static let yellow6: Color = Color(h: 50, s: 0.894, l: 0.761)
+        static let yellow6: Color = Color(h: 51, s: 0.730, l: 0.724)
         /// [Radix Color] yellow7
-        static let yellow7: Color = Color(h: 47, s: 0.804, l: 0.680)
+        static let yellow7: Color = Color(h: 48, s: 0.596, l: 0.643)
         /// [Radix Color] yellow8
-        static let yellow8: Color = Color(h: 48, s: 1.000, l: 0.461)
+        static let yellow8: Color = Color(h: 46, s: 0.550, l: 0.529)
         /// [Radix Color] yellow9
-        static let yellow9: Color = Color(h: 53, s: 0.920, l: 0.500)
+        static let yellow9: Color = Color(h: 53, s: 0.960, l: 0.580)
         /// [Radix Color] yellow10
-        static let yellow10: Color = Color(h: 50, s: 1.000, l: 0.485)
+        static let yellow10: Color = Color(h: 52, s: 0.950, l: 0.520)
         /// [Radix Color] yellow11
-        static let yellow11: Color = Color(h: 42, s: 1.000, l: 0.290)
+        static let yellow11: Color = Color(h: 42, s: 0.500, l: 0.310)
         /// [Radix Color] yellow12
-        static let yellow12: Color = Color(h: 40, s: 0.550, l: 0.135)
+        static let yellow12: Color = Color(h: 42, s: 0.400, l: 0.200)
     }
     /// [Radix Colors] Collection: yellowA
     class yellowA {
         /// [Radix Color] yellowA1
         static let yellowA1: Color = Color(h: 60, s: 0.943, l: 0.346, a: 0.024)
         /// [Radix Color] yellowA2
-        static let yellowA2: Color = Color(h: 52, s: 1.000, l: 0.504, a: 0.091)
+        static let yellowA2: Color = Color(h: 52, s: 1.000, l: 0.502, a: 0.122)
         /// [Radix Color] yellowA3
-        static let yellowA3: Color = Color(h: 55, s: 1.000, l: 0.502, a: 0.181)
+        static let yellowA3: Color = Color(h: 53, s: 1.000, l: 0.501, a: 0.224)
         /// [Radix Color] yellowA4
-        static let yellowA4: Color = Color(h: 54, s: 1.000, l: 0.501, a: 0.267)
+        static let yellowA4: Color = Color(h: 53, s: 0.998, l: 0.482, a: 0.314)
         /// [Radix Color] yellowA5
-        static let yellowA5: Color = Color(h: 52, s: 0.999, l: 0.495, a: 0.357)
+        static let yellowA5: Color = Color(h: 52, s: 0.995, l: 0.461, a: 0.393)
         /// [Radix Color] yellowA6
-        static let yellowA6: Color = Color(h: 50, s: 1.000, l: 0.474, a: 0.451)
+        static let yellowA6: Color = Color(h: 51, s: 0.997, l: 0.423, a: 0.479)
         /// [Radix Color] yellowA7
-        static let yellowA7: Color = Color(h: 47, s: 0.998, l: 0.446, a: 0.577)
+        static let yellowA7: Color = Color(h: 48, s: 0.998, l: 0.373, a: 0.569)
         /// [Radix Color] yellowA8
-        static let yellowA8: Color = Color(h: 48, s: 1.000, l: 0.460, a: 0.980)
+        static let yellowA8: Color = Color(h: 46, s: 0.998, l: 0.355, a: 0.730)
         /// [Radix Color] yellowA9
-        static let yellowA9: Color = Color(h: 53, s: 1.000, l: 0.480, a: 0.961)
+        static let yellowA9: Color = Color(h: 53, s: 0.999, l: 0.491, a: 0.824)
         /// [Radix Color] yellowA10
-        static let yellowA10: Color = Color(h: 50, s: 1.000, l: 0.484, a: 0.980)
+        static let yellowA10: Color = Color(h: 52, s: 0.998, l: 0.488, a: 0.938)
         /// [Radix Color] yellowA11
-        static let yellowA11: Color = Color(h: 42, s: 1.000, l: 0.286, a: 0.980)
+        static let yellowA11: Color = Color(h: 42, s: 0.994, l: 0.185, a: 0.844)
         /// [Radix Color] yellowA12
-        static let yellowA12: Color = Color(h: 41, s: 0.989, l: 0.080, a: 0.942)
+        static let yellowA12: Color = Color(h: 42, s: 0.993, l: 0.090, a: 0.879)
     }
     /// [Radix Colors] Collection: yellowDark
     class yellowDark {
         /// [Radix Color] yellow1 (Dark)
         static let yellow1: Color = Color(h: 45, s: 1.000, l: 0.055)
         /// [Radix Color] yellow2 (Dark)
-        static let yellow2: Color = Color(h: 46, s: 1.000, l: 0.067)
+        static let yellow2: Color = Color(h: 44, s: 0.789, l: 0.075)
         /// [Radix Color] yellow3 (Dark)
-        static let yellow3: Color = Color(h: 45, s: 1.000, l: 0.087)
+        static let yellow3: Color = Color(h: 44, s: 0.619, l: 0.106)
         /// [Radix Color] yellow4 (Dark)
-        static let yellow4: Color = Color(h: 45, s: 1.000, l: 0.104)
+        static let yellow4: Color = Color(h: 44, s: 0.575, l: 0.130)
         /// [Radix Color] yellow5 (Dark)
-        static let yellow5: Color = Color(h: 47, s: 1.000, l: 0.121)
+        static let yellow5: Color = Color(h: 45, s: 0.570, l: 0.152)
         /// [Radix Color] yellow6 (Dark)
-        static let yellow6: Color = Color(h: 49, s: 1.000, l: 0.143)
+        static let yellow6: Color = Color(h: 46, s: 0.575, l: 0.183)
         /// [Radix Color] yellow7 (Dark)
-        static let yellow7: Color = Color(h: 49, s: 0.903, l: 0.184)
+        static let yellow7: Color = Color(h: 47, s: 0.585, l: 0.240)
         /// [Radix Color] yellow8 (Dark)
-        static let yellow8: Color = Color(h: 50, s: 1.000, l: 0.220)
+        static let yellow8: Color = Color(h: 50, s: 0.598, l: 0.351)
         /// [Radix Color] yellow9 (Dark)
-        static let yellow9: Color = Color(h: 53, s: 0.920, l: 0.500)
+        static let yellow9: Color = Color(h: 53, s: 0.960, l: 0.580)
         /// [Radix Color] yellow10 (Dark)
-        static let yellow10: Color = Color(h: 54, s: 1.000, l: 0.680)
+        static let yellow10: Color = Color(h: 53, s: 0.968, l: 0.675)
         /// [Radix Color] yellow11 (Dark)
-        static let yellow11: Color = Color(h: 48, s: 1.000, l: 0.470)
+        static let yellow11: Color = Color(h: 55, s: 1.000, l: 0.600)
         /// [Radix Color] yellow12 (Dark)
-        static let yellow12: Color = Color(h: 53, s: 1.000, l: 0.910)
+        static let yellow12: Color = Color(h: 53, s: 1.000, l: 0.840)
     }
     /// [Radix Colors] Collection: yellowDarkA
     class yellowDarkA {
         /// [Radix Color] yellowA1 (Dark)
-        static let yellowA1: Color = Color(h: 0, s: 0.000, l: 0.000, a: 0.000)
+        static let yellowA1: Color = Color(h: 0, s: 1.000, l: 0.483, a: 0.018)
         /// [Radix Color] yellowA2 (Dark)
-        static let yellowA2: Color = Color(h: 49, s: 1.000, l: 0.491, a: 0.027)
+        static let yellowA2: Color = Color(h: 17, s: 1.000, l: 0.493, a: 0.044)
         /// [Radix Color] yellowA3 (Dark)
-        static let yellowA3: Color = Color(h: 45, s: 1.000, l: 0.497, a: 0.071)
+        static let yellowA3: Color = Color(h: 36, s: 1.000, l: 0.498, a: 0.087)
         /// [Radix Color] yellowA4 (Dark)
-        static let yellowA4: Color = Color(h: 46, s: 1.000, l: 0.497, a: 0.111)
+        static let yellowA4: Color = Color(h: 41, s: 1.000, l: 0.497, a: 0.122)
         /// [Radix Color] yellowA5 (Dark)
-        static let yellowA5: Color = Color(h: 47, s: 1.000, l: 0.499, a: 0.150)
+        static let yellowA5: Color = Color(h: 44, s: 1.000, l: 0.498, a: 0.161)
         /// [Radix Color] yellowA6 (Dark)
-        static let yellowA6: Color = Color(h: 51, s: 1.000, l: 0.498, a: 0.199)
+        static let yellowA6: Color = Color(h: 46, s: 0.992, l: 0.508, a: 0.213)
         /// [Radix Color] yellowA7 (Dark)
-        static let yellowA7: Color = Color(h: 51, s: 0.998, l: 0.536, a: 0.269)
+        static let yellowA7: Color = Color(h: 47, s: 0.994, l: 0.552, a: 0.317)
         /// [Radix Color] yellowA8 (Dark)
-        static let yellowA8: Color = Color(h: 51, s: 1.000, l: 0.499, a: 0.371)
+        static let yellowA8: Color = Color(h: 50, s: 0.996, l: 0.592, a: 0.516)
         /// [Radix Color] yellowA9 (Dark)
-        static let yellowA9: Color = Color(h: 53, s: 1.000, l: 0.520, a: 0.956)
+        static let yellowA9: Color = Color(h: 53, s: 0.999, l: 0.589, a: 0.983)
         /// [Radix Color] yellowA10 (Dark)
-        static let yellowA10: Color = Color(h: 56, s: 1.000, l: 0.684, a: 0.980)
+        static let yellowA10: Color = Color(h: 53, s: 0.997, l: 0.682, a: 0.988)
         /// [Radix Color] yellowA11 (Dark)
-        static let yellowA11: Color = Color(h: 48, s: 1.000, l: 0.500, a: 0.934)
+        static let yellowA11: Color = Color(h: 55, s: 1.000, l: 0.600, a: 1.000)
         /// [Radix Color] yellowA12 (Dark)
-        static let yellowA12: Color = Color(h: 60, s: 1.000, l: 0.918, a: 0.980)
+        static let yellowA12: Color = Color(h: 53, s: 1.000, l: 0.839, a: 1.000)
     }
 }
 
@@ -3921,6 +4245,150 @@ extension Color {
     /// [Radix Color] Indigo - indigoA12 (dynamic color for iOS)
     static let indigoA12: Color = Color(light: RadixColor.indigoA.indigoA12, dark: RadixColor.indigoDarkA.indigoA12)
 
+    /// [Radix Color] Iris - iris1 (dynamic color for iOS)
+    static let iris1: Color = Color(light: RadixColor.iris.iris1, dark: RadixColor.irisDark.iris1)
+
+    /// [Radix Color] Iris - iris2 (dynamic color for iOS)
+    static let iris2: Color = Color(light: RadixColor.iris.iris2, dark: RadixColor.irisDark.iris2)
+
+    /// [Radix Color] Iris - iris3 (dynamic color for iOS)
+    static let iris3: Color = Color(light: RadixColor.iris.iris3, dark: RadixColor.irisDark.iris3)
+
+    /// [Radix Color] Iris - iris4 (dynamic color for iOS)
+    static let iris4: Color = Color(light: RadixColor.iris.iris4, dark: RadixColor.irisDark.iris4)
+
+    /// [Radix Color] Iris - iris5 (dynamic color for iOS)
+    static let iris5: Color = Color(light: RadixColor.iris.iris5, dark: RadixColor.irisDark.iris5)
+
+    /// [Radix Color] Iris - iris6 (dynamic color for iOS)
+    static let iris6: Color = Color(light: RadixColor.iris.iris6, dark: RadixColor.irisDark.iris6)
+
+    /// [Radix Color] Iris - iris7 (dynamic color for iOS)
+    static let iris7: Color = Color(light: RadixColor.iris.iris7, dark: RadixColor.irisDark.iris7)
+
+    /// [Radix Color] Iris - iris8 (dynamic color for iOS)
+    static let iris8: Color = Color(light: RadixColor.iris.iris8, dark: RadixColor.irisDark.iris8)
+
+    /// [Radix Color] Iris - iris9 (dynamic color for iOS)
+    static let iris9: Color = Color(light: RadixColor.iris.iris9, dark: RadixColor.irisDark.iris9)
+
+    /// [Radix Color] Iris - iris10 (dynamic color for iOS)
+    static let iris10: Color = Color(light: RadixColor.iris.iris10, dark: RadixColor.irisDark.iris10)
+
+    /// [Radix Color] Iris - iris11 (dynamic color for iOS)
+    static let iris11: Color = Color(light: RadixColor.iris.iris11, dark: RadixColor.irisDark.iris11)
+
+    /// [Radix Color] Iris - iris12 (dynamic color for iOS)
+    static let iris12: Color = Color(light: RadixColor.iris.iris12, dark: RadixColor.irisDark.iris12)
+
+    /// [Radix Color] Iris - irisA1 (dynamic color for iOS)
+    static let irisA1: Color = Color(light: RadixColor.irisA.irisA1, dark: RadixColor.irisDarkA.irisA1)
+
+    /// [Radix Color] Iris - irisA2 (dynamic color for iOS)
+    static let irisA2: Color = Color(light: RadixColor.irisA.irisA2, dark: RadixColor.irisDarkA.irisA2)
+
+    /// [Radix Color] Iris - irisA3 (dynamic color for iOS)
+    static let irisA3: Color = Color(light: RadixColor.irisA.irisA3, dark: RadixColor.irisDarkA.irisA3)
+
+    /// [Radix Color] Iris - irisA4 (dynamic color for iOS)
+    static let irisA4: Color = Color(light: RadixColor.irisA.irisA4, dark: RadixColor.irisDarkA.irisA4)
+
+    /// [Radix Color] Iris - irisA5 (dynamic color for iOS)
+    static let irisA5: Color = Color(light: RadixColor.irisA.irisA5, dark: RadixColor.irisDarkA.irisA5)
+
+    /// [Radix Color] Iris - irisA6 (dynamic color for iOS)
+    static let irisA6: Color = Color(light: RadixColor.irisA.irisA6, dark: RadixColor.irisDarkA.irisA6)
+
+    /// [Radix Color] Iris - irisA7 (dynamic color for iOS)
+    static let irisA7: Color = Color(light: RadixColor.irisA.irisA7, dark: RadixColor.irisDarkA.irisA7)
+
+    /// [Radix Color] Iris - irisA8 (dynamic color for iOS)
+    static let irisA8: Color = Color(light: RadixColor.irisA.irisA8, dark: RadixColor.irisDarkA.irisA8)
+
+    /// [Radix Color] Iris - irisA9 (dynamic color for iOS)
+    static let irisA9: Color = Color(light: RadixColor.irisA.irisA9, dark: RadixColor.irisDarkA.irisA9)
+
+    /// [Radix Color] Iris - irisA10 (dynamic color for iOS)
+    static let irisA10: Color = Color(light: RadixColor.irisA.irisA10, dark: RadixColor.irisDarkA.irisA10)
+
+    /// [Radix Color] Iris - irisA11 (dynamic color for iOS)
+    static let irisA11: Color = Color(light: RadixColor.irisA.irisA11, dark: RadixColor.irisDarkA.irisA11)
+
+    /// [Radix Color] Iris - irisA12 (dynamic color for iOS)
+    static let irisA12: Color = Color(light: RadixColor.irisA.irisA12, dark: RadixColor.irisDarkA.irisA12)
+
+    /// [Radix Color] Jade - jade1 (dynamic color for iOS)
+    static let jade1: Color = Color(light: RadixColor.jade.jade1, dark: RadixColor.jadeDark.jade1)
+
+    /// [Radix Color] Jade - jade2 (dynamic color for iOS)
+    static let jade2: Color = Color(light: RadixColor.jade.jade2, dark: RadixColor.jadeDark.jade2)
+
+    /// [Radix Color] Jade - jade3 (dynamic color for iOS)
+    static let jade3: Color = Color(light: RadixColor.jade.jade3, dark: RadixColor.jadeDark.jade3)
+
+    /// [Radix Color] Jade - jade4 (dynamic color for iOS)
+    static let jade4: Color = Color(light: RadixColor.jade.jade4, dark: RadixColor.jadeDark.jade4)
+
+    /// [Radix Color] Jade - jade5 (dynamic color for iOS)
+    static let jade5: Color = Color(light: RadixColor.jade.jade5, dark: RadixColor.jadeDark.jade5)
+
+    /// [Radix Color] Jade - jade6 (dynamic color for iOS)
+    static let jade6: Color = Color(light: RadixColor.jade.jade6, dark: RadixColor.jadeDark.jade6)
+
+    /// [Radix Color] Jade - jade7 (dynamic color for iOS)
+    static let jade7: Color = Color(light: RadixColor.jade.jade7, dark: RadixColor.jadeDark.jade7)
+
+    /// [Radix Color] Jade - jade8 (dynamic color for iOS)
+    static let jade8: Color = Color(light: RadixColor.jade.jade8, dark: RadixColor.jadeDark.jade8)
+
+    /// [Radix Color] Jade - jade9 (dynamic color for iOS)
+    static let jade9: Color = Color(light: RadixColor.jade.jade9, dark: RadixColor.jadeDark.jade9)
+
+    /// [Radix Color] Jade - jade10 (dynamic color for iOS)
+    static let jade10: Color = Color(light: RadixColor.jade.jade10, dark: RadixColor.jadeDark.jade10)
+
+    /// [Radix Color] Jade - jade11 (dynamic color for iOS)
+    static let jade11: Color = Color(light: RadixColor.jade.jade11, dark: RadixColor.jadeDark.jade11)
+
+    /// [Radix Color] Jade - jade12 (dynamic color for iOS)
+    static let jade12: Color = Color(light: RadixColor.jade.jade12, dark: RadixColor.jadeDark.jade12)
+
+    /// [Radix Color] Jade - jadeA1 (dynamic color for iOS)
+    static let jadeA1: Color = Color(light: RadixColor.jadeA.jadeA1, dark: RadixColor.jadeDarkA.jadeA1)
+
+    /// [Radix Color] Jade - jadeA2 (dynamic color for iOS)
+    static let jadeA2: Color = Color(light: RadixColor.jadeA.jadeA2, dark: RadixColor.jadeDarkA.jadeA2)
+
+    /// [Radix Color] Jade - jadeA3 (dynamic color for iOS)
+    static let jadeA3: Color = Color(light: RadixColor.jadeA.jadeA3, dark: RadixColor.jadeDarkA.jadeA3)
+
+    /// [Radix Color] Jade - jadeA4 (dynamic color for iOS)
+    static let jadeA4: Color = Color(light: RadixColor.jadeA.jadeA4, dark: RadixColor.jadeDarkA.jadeA4)
+
+    /// [Radix Color] Jade - jadeA5 (dynamic color for iOS)
+    static let jadeA5: Color = Color(light: RadixColor.jadeA.jadeA5, dark: RadixColor.jadeDarkA.jadeA5)
+
+    /// [Radix Color] Jade - jadeA6 (dynamic color for iOS)
+    static let jadeA6: Color = Color(light: RadixColor.jadeA.jadeA6, dark: RadixColor.jadeDarkA.jadeA6)
+
+    /// [Radix Color] Jade - jadeA7 (dynamic color for iOS)
+    static let jadeA7: Color = Color(light: RadixColor.jadeA.jadeA7, dark: RadixColor.jadeDarkA.jadeA7)
+
+    /// [Radix Color] Jade - jadeA8 (dynamic color for iOS)
+    static let jadeA8: Color = Color(light: RadixColor.jadeA.jadeA8, dark: RadixColor.jadeDarkA.jadeA8)
+
+    /// [Radix Color] Jade - jadeA9 (dynamic color for iOS)
+    static let jadeA9: Color = Color(light: RadixColor.jadeA.jadeA9, dark: RadixColor.jadeDarkA.jadeA9)
+
+    /// [Radix Color] Jade - jadeA10 (dynamic color for iOS)
+    static let jadeA10: Color = Color(light: RadixColor.jadeA.jadeA10, dark: RadixColor.jadeDarkA.jadeA10)
+
+    /// [Radix Color] Jade - jadeA11 (dynamic color for iOS)
+    static let jadeA11: Color = Color(light: RadixColor.jadeA.jadeA11, dark: RadixColor.jadeDarkA.jadeA11)
+
+    /// [Radix Color] Jade - jadeA12 (dynamic color for iOS)
+    static let jadeA12: Color = Color(light: RadixColor.jadeA.jadeA12, dark: RadixColor.jadeDarkA.jadeA12)
+
     /// [Radix Color] Lime - lime1 (dynamic color for iOS)
     static let lime1: Color = Color(light: RadixColor.lime.lime1, dark: RadixColor.limeDark.lime1)
 
@@ -4568,6 +5036,78 @@ extension Color {
 
     /// [Radix Color] Red - redA12 (dynamic color for iOS)
     static let redA12: Color = Color(light: RadixColor.redA.redA12, dark: RadixColor.redDarkA.redA12)
+
+    /// [Radix Color] Ruby - ruby1 (dynamic color for iOS)
+    static let ruby1: Color = Color(light: RadixColor.ruby.ruby1, dark: RadixColor.rubyDark.ruby1)
+
+    /// [Radix Color] Ruby - ruby2 (dynamic color for iOS)
+    static let ruby2: Color = Color(light: RadixColor.ruby.ruby2, dark: RadixColor.rubyDark.ruby2)
+
+    /// [Radix Color] Ruby - ruby3 (dynamic color for iOS)
+    static let ruby3: Color = Color(light: RadixColor.ruby.ruby3, dark: RadixColor.rubyDark.ruby3)
+
+    /// [Radix Color] Ruby - ruby4 (dynamic color for iOS)
+    static let ruby4: Color = Color(light: RadixColor.ruby.ruby4, dark: RadixColor.rubyDark.ruby4)
+
+    /// [Radix Color] Ruby - ruby5 (dynamic color for iOS)
+    static let ruby5: Color = Color(light: RadixColor.ruby.ruby5, dark: RadixColor.rubyDark.ruby5)
+
+    /// [Radix Color] Ruby - ruby6 (dynamic color for iOS)
+    static let ruby6: Color = Color(light: RadixColor.ruby.ruby6, dark: RadixColor.rubyDark.ruby6)
+
+    /// [Radix Color] Ruby - ruby7 (dynamic color for iOS)
+    static let ruby7: Color = Color(light: RadixColor.ruby.ruby7, dark: RadixColor.rubyDark.ruby7)
+
+    /// [Radix Color] Ruby - ruby8 (dynamic color for iOS)
+    static let ruby8: Color = Color(light: RadixColor.ruby.ruby8, dark: RadixColor.rubyDark.ruby8)
+
+    /// [Radix Color] Ruby - ruby9 (dynamic color for iOS)
+    static let ruby9: Color = Color(light: RadixColor.ruby.ruby9, dark: RadixColor.rubyDark.ruby9)
+
+    /// [Radix Color] Ruby - ruby10 (dynamic color for iOS)
+    static let ruby10: Color = Color(light: RadixColor.ruby.ruby10, dark: RadixColor.rubyDark.ruby10)
+
+    /// [Radix Color] Ruby - ruby11 (dynamic color for iOS)
+    static let ruby11: Color = Color(light: RadixColor.ruby.ruby11, dark: RadixColor.rubyDark.ruby11)
+
+    /// [Radix Color] Ruby - ruby12 (dynamic color for iOS)
+    static let ruby12: Color = Color(light: RadixColor.ruby.ruby12, dark: RadixColor.rubyDark.ruby12)
+
+    /// [Radix Color] Ruby - rubyA1 (dynamic color for iOS)
+    static let rubyA1: Color = Color(light: RadixColor.rubyA.rubyA1, dark: RadixColor.rubyDarkA.rubyA1)
+
+    /// [Radix Color] Ruby - rubyA2 (dynamic color for iOS)
+    static let rubyA2: Color = Color(light: RadixColor.rubyA.rubyA2, dark: RadixColor.rubyDarkA.rubyA2)
+
+    /// [Radix Color] Ruby - rubyA3 (dynamic color for iOS)
+    static let rubyA3: Color = Color(light: RadixColor.rubyA.rubyA3, dark: RadixColor.rubyDarkA.rubyA3)
+
+    /// [Radix Color] Ruby - rubyA4 (dynamic color for iOS)
+    static let rubyA4: Color = Color(light: RadixColor.rubyA.rubyA4, dark: RadixColor.rubyDarkA.rubyA4)
+
+    /// [Radix Color] Ruby - rubyA5 (dynamic color for iOS)
+    static let rubyA5: Color = Color(light: RadixColor.rubyA.rubyA5, dark: RadixColor.rubyDarkA.rubyA5)
+
+    /// [Radix Color] Ruby - rubyA6 (dynamic color for iOS)
+    static let rubyA6: Color = Color(light: RadixColor.rubyA.rubyA6, dark: RadixColor.rubyDarkA.rubyA6)
+
+    /// [Radix Color] Ruby - rubyA7 (dynamic color for iOS)
+    static let rubyA7: Color = Color(light: RadixColor.rubyA.rubyA7, dark: RadixColor.rubyDarkA.rubyA7)
+
+    /// [Radix Color] Ruby - rubyA8 (dynamic color for iOS)
+    static let rubyA8: Color = Color(light: RadixColor.rubyA.rubyA8, dark: RadixColor.rubyDarkA.rubyA8)
+
+    /// [Radix Color] Ruby - rubyA9 (dynamic color for iOS)
+    static let rubyA9: Color = Color(light: RadixColor.rubyA.rubyA9, dark: RadixColor.rubyDarkA.rubyA9)
+
+    /// [Radix Color] Ruby - rubyA10 (dynamic color for iOS)
+    static let rubyA10: Color = Color(light: RadixColor.rubyA.rubyA10, dark: RadixColor.rubyDarkA.rubyA10)
+
+    /// [Radix Color] Ruby - rubyA11 (dynamic color for iOS)
+    static let rubyA11: Color = Color(light: RadixColor.rubyA.rubyA11, dark: RadixColor.rubyDarkA.rubyA11)
+
+    /// [Radix Color] Ruby - rubyA12 (dynamic color for iOS)
+    static let rubyA12: Color = Color(light: RadixColor.rubyA.rubyA12, dark: RadixColor.rubyDarkA.rubyA12)
 
     /// [Radix Color] Sage - sage1 (dynamic color for iOS)
     static let sage1: Color = Color(light: RadixColor.sage.sage1, dark: RadixColor.sageDark.sage1)
