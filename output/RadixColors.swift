@@ -5770,4 +5770,32 @@ extension Color {
         ))
     }
 }
+#elseif canImport(AppKit)
+extension NSColor {
+    convenience init(
+        light lightModeColor: @escaping @autoclosure () -> NSColor,
+        dark darkModeColor: @escaping @autoclosure () -> NSColor
+    ) {
+        self.init(name: nil) { appearance in
+            switch appearance.name {
+            case .darkAqua, .vibrantDark, .accessibilityHighContrastDarkAqua, .accessibilityHighContrastVibrantDark:
+                return darkModeColor()
+            default:
+                return lightModeColor()
+            }
+        }
+    }
+}
+
+extension Color {
+    init(
+        light lightModeColor: @escaping @autoclosure () -> Color,
+        dark darkModeColor: @escaping @autoclosure () -> Color
+    ) {
+        self.init(NSColor(
+            light: NSColor(lightModeColor()),
+            dark: NSColor(darkModeColor())
+        ))
+    }
+}
 #endif
