@@ -1,9 +1,6 @@
-name: Eslint Check
+name: Generation Parity Check
 
 on:
-  push:
-    branches:
-      - '*'
   pull_request:
     branches:
       - main
@@ -12,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  eslint:
+  check-generation-parity:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,6 +28,14 @@ jobs:
       - name: Run Install
         run: pnpm install --frozen-lockfile
 
-      - name: Lint Check
-        run: pnpm lint
+      - name: Run Generation Script
+        run: pnpm build
 
+      - name: Check for Differences
+        run: |
+          if git diff --exit-code output/; then
+            echo "Generation output matches committed files."
+          else
+            echo "::error::Generation output differs from committed files. Please run 'pnpm build' and commit the updated output."
+            exit 1
+          fi
